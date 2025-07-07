@@ -35,7 +35,7 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
-  let fileName = filePath.replaceAll("&amp;", "&");
+  let fileName = filePath.replaceAll("&", "&");
   let header = "";
   let headerLinkPath = "";
   if (filePath.includes("#")) {
@@ -501,28 +501,6 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  eleventyConfig.addTransform("escape-html-entities", function (content, outputPath) {
-    if (outputPath && outputPath.endsWith(".html")) {
-      const root = parse(content);
-      const escape = (text) => {
-        return text.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;");
-      }
-
-      const walk = (node) => {
-        if (node.nodeType === 3) { // NodeType 3 is TextNode
-          node.rawText = escape(node.rawText);
-        }
-        if (node.childNodes) {
-          node.childNodes.forEach(walk);
-        }
-      }
-
-      walk(root);
-      return root.toString();
-    }
-    return content;
-  });
-
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
@@ -538,6 +516,7 @@ module.exports = function (eleventyConfig) {
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
+        ignoreCustomFragments: [/<(?=\s*\d)/],
       });
     }
     return content;
