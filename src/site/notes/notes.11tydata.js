@@ -6,6 +6,10 @@ module.exports = {
         const permalinkValue = typeof data.permalink === 'object' ? data.permalink.toString() : data.permalink;
 
         if (typeof permalinkValue === 'string') {
+            // Do not process the root permalink
+            if (permalinkValue === '/') {
+                return permalinkValue;
+            }
             // Split the path into segments, filtering out empty strings from leading/trailing slashes
             const parts = permalinkValue.split('/').filter(part => part);
             // Encode each part and join them back with slashes
