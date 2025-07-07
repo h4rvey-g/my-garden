@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/cystic-fibrosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Cystic fibrosis/"}
 ---
 
 # Etiology
@@ -8,20 +8,20 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
 ---
 # Pathophysiology
 ![Pasted image 20240405113532.png](/img/user/appendix/Pasted%20image%2020240405113532.png)
-- Mutated CFTR gene �?<span style="background:rgba(240, 200, 0, 0.2)">misfolded protein (impaired post-translational) �?degradation of the defective protein in the rough [[USMLE/Biochemistry/Endoplasmic reticulum\|endoplasmic reticulum]] (rER)</span> �?<span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, [[USMLE/MSK/Sweat glands\|sweat glands]], exocrine pancreas, exocrine glands of reproductive organs)
+- Mutated CFTR gene → <span style="background:rgba(240, 200, 0, 0.2)">misfolded protein (impaired post-translational) → degradation of the defective protein in the rough [[USMLE/Biochemistry/Endoplasmic reticulum\|endoplasmic reticulum]] (rER)</span> → <span style="background:rgba(240, 200, 0, 0.2)">absence of ATP-gated chloride channel on the cell surface</span> of epithelial cells throughout the body (e.g., intestinal and respiratory epithelia, [[USMLE/MSK/Sweat glands\|sweat glands]], exocrine pancreas, exocrine glands of reproductive organs)
 - In [[USMLE/MSK/Sweat glands\|sweat glands]]
-	- Defective ATP-gated chloride channel �?span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl<sup>-</sup> from the lumen of the [[USMLE/MSK/Sweat glands\|sweat glands]] �?reduced reabsorption of Na<sup>+</sup> and H<sub>2</sub>O �?excessive loss of salt and elevated levels of NaCl in sweat</span>
+	- Defective ATP-gated chloride channel →<span style="background:rgba(240, 200, 0, 0.2)"> inability to reabsorb Cl<sup>-</sup> from the lumen of the [[USMLE/MSK/Sweat glands\|sweat glands]] → reduced reabsorption of Na<sup>+</sup> and H<sub>2</sub>O → excessive loss of salt and elevated levels of NaCl in sweat</span>
 	- Because Cl<sup>-</sup> attracts Na+
 - In all other exocrine glands (e.g., in the GI tract or lungs)
-	- Defective ATP-gated chloride channel �?inability to transport intracellular Cl<sup>-</sup> across the cell membrane �?reduced secretion of Cl<sup>-</sup> and H<sub>2</sub>O �?accumulation of intracellular Cl<sup>-</sup> �?�?Na<sup>+</sup> reabsorption (via ENaC)  �?�?H<sub>2</sub>O reabsorption  �?span style="background:rgba(240, 200, 0, 0.2)"> formation of hyperviscous mucus �?accumulation of secretions and blockage of small passages of affected organs �?chronic inflammation and remodeling </span>�?organ damage
-	- �?Na<sup>+</sup> reabsorption �?transepithelial potential difference between interstitial fluid and the epithelial surface increases (i.e., negative charge increases; e.g., from normal -13 mv to abnormal -25 mv)
+	- Defective ATP-gated chloride channel → inability to transport intracellular Cl<sup>-</sup> across the cell membrane → reduced secretion of Cl<sup>-</sup> and H<sub>2</sub>O → accumulation of intracellular Cl<sup>-</sup> → ↑ Na<sup>+</sup> reabsorption (via ENaC)  → ↑ H<sub>2</sub>O reabsorption  →<span style="background:rgba(240, 200, 0, 0.2)"> formation of hyperviscous mucus → accumulation of secretions and blockage of small passages of affected organs → chronic inflammation and remodeling </span>→ organ damage
+	- ↑ Na<sup>+</sup> reabsorption → transepithelial potential difference between interstitial fluid and the epithelial surface increases (i.e., negative charge increases; e.g., from normal -13 mv to abnormal -25 mv)
 
 ---
 # Clinical features
 ![Pasted image 20250330105230.png](/img/user/appendix/Pasted%20image%2020250330105230.png)
 ## GI
 - <span style="background:rgba(240, 200, 0, 0.2)">Meconium ileus (in newborns)</span>
-	- Failure to pass the first stool in neonates (meconium usually passes within the first 24�?8 hours after birth)
+	- Failure to pass the first stool in neonates (meconium usually passes within the first 24–48 hours after birth)
 	- Etiology: <span style="background:rgba(240, 200, 0, 0.2)">Cystic fibrosis is the cause in > 90% of cases.</span>
 	- Clinical findings: signs of a distal small bowel obstruction (thick meconium plugs the distal ileum)
 		- Bilious vomiting
@@ -38,8 +38,8 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
 		- [[USMLE/GI/Diarrhea\|Diarrhea]]
 		- Hypoproteinemia
 		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of fat-soluble vitamins</span>
-			- Lack of [[USMLE/Biochemistry/Vitamin K\|Vitamin K]] �?life-threatening <span style="background:rgba(240, 200, 0, 0.2)">bleeding</span>
-			- <span style="background:rgba(240, 200, 0, 0.2)">Lack of [[USMLE/Biochemistry/Vitamin A\|Vitamin A]] �?epithelium in pancreatic ducts undergoes squamous metaplasia to a keratinizing epithelium</span>
+			- Lack of [[USMLE/Biochemistry/Vitamin K\|Vitamin K]] → life-threatening <span style="background:rgba(240, 200, 0, 0.2)">bleeding</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Lack of [[USMLE/Biochemistry/Vitamin A\|Vitamin A]] → epithelium in pancreatic ducts undergoes squamous metaplasia to a keratinizing epithelium</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">CF-related [[USMLE/Endocrine/Diabetes mellitus\|diabetes mellitus]] (CFRD)</span>
 - Liver and bile duct abnormalities
 	- Biliary [[USMLE/GI/Cirrhosis\|cirrhosis]] with portal [[USMLE/Cardiology/Hypertension\|hypertension]], jaundice, and/or esophageal varices
@@ -57,7 +57,7 @@ CF is a hereditary autosomal recessive disorder caused by defective <span style=
  - Hemoptysis (Recurrent infections lead to increased vulnerability of the lung tissue)
  - <span style="background:rgba(240, 200, 0, 0.2)">Signs of chronic respiratory insufficiency: [[USMLE/Respiratory/Nail clubbing\|digital clubbing]]</span>
  >[!warning] 
->The main determinant of life expectancy is the severity of pulmonary disease: chronic respiratory infections and mucus plugging �?[[USMLE/Respiratory/Bronchiectasis\|bronchiectasis]] (irreversible) �?progressive respiratory failure �?death
+>The main determinant of life expectancy is the severity of pulmonary disease: chronic respiratory infections and mucus plugging → [[USMLE/Respiratory/Bronchiectasis\|bronchiectasis]] (irreversible) → progressive respiratory failure → death
 ## [[USMLE/MSK/Sweat glands\|Sweat glands]]
 - Particularly salty sweat
 - Possible electrolyte wasting
@@ -92,4 +92,3 @@ Newborn screening (NBS) for CF is essential for early detection and treatment, w
 
 
 ---
-
