@@ -30,9 +30,9 @@
 
 ## Incubation period
 - 2 weeks to 6 months
-## Acute course (< 6 months)
+## Acute course (&lt; 6 months)
 - Asymptomatic in 80% of cases
-## Chronic course (> 6 months)
+## Chronic course (&gt; 6 months)
 - <span style="background:rgba(240, 200, 0, 0.2)">Seen especially in asymptomatic individuals (up to 85%), as the disease may go undiagnosed and treatment may be delayed or never initiated (carrier state).</span>
 - Findings often mild, nonspecific (e.g., fatigue)
 - Liver [[USMLE/GI/Cirrhosis\|cirrhosis]] (up to 25% of cases) within 20 years of infection
