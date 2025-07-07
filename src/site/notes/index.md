@@ -3,6 +3,7 @@
 ---
 
 # About Me
+![669befc6aef5a52c906c72da1399647.jpg](/img/user/appendix/669befc6aef5a52c906c72da1399647.jpg)
 I am passionate about both medicine and bioinformatics. In this blog, I aim to share my USMLE notes and bioinformatic skills with you. I hope you find the information helpful and informative.
 ## My publications
 1. Guo Z, Zhang X, Li Y, Chen Y, Xu Y. Splicing to keep splicing: A feedback system for cellular homeostasis and state transition. Clin Transl Med 2025;15. https://doi.org/10.1002/ctm2.70369.
