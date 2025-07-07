@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/cell-nucleus/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Cell nucleus/"}
 ---
 
 # Structure
@@ -16,4 +16,3 @@
 - Transcription: initial step of protein synthesis
 - Synthesis of rRNA in the nucleolus
 - Packaging and protection of inactive DNA by histones
-

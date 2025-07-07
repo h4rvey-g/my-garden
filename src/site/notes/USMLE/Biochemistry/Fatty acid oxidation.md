@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/fatty-acid-oxidation/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Fatty acid oxidation/"}
 ---
 
 ![Pasted image 20231124104117.png](/img/user/appendix/Pasted%20image%2020231124104117.png)
@@ -10,4 +10,3 @@ Rate-limiting enzyme![Pasted image 20231124112523.png](/img/user/appendix/Pasted
 
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Very long chain fatty acids (VLCFAs) and certain branched-chain fatty acids</span> (eg, phytanic acid) cannot undergo mitochondrial beta-oxidation; these fatty acids are metabolized by a special form of beta-oxidation (VLCFAs) or by alpha-oxidation (branched-chain fatty acids) <span style="background:rgba(240, 200, 0, 0.2)">within peroxisomes</span>.
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/autosomal-dominant-diseases/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Autosomal dominant diseases/","tags":["t1"]}
 ---
 
 # X-link recessive
@@ -70,4 +70,3 @@ See 2:03 in video
 
 	- Mutation: TSC1 or TSC2 genes
 	- Features: Hamartomas in multiple organs, seizures, ash leaf spots
-

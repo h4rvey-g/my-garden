@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/glycogen-storage-diseases/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Glycogen storage diseases/"}
 ---
 
 ![highresdefault_L23545.jpg](/img/user/appendix/highresdefault_L23545.jpg)
@@ -40,4 +40,3 @@
 ![Pasted image 20231114173104.png](/img/user/appendix/Pasted%20image%2020231114173104.png)
 - This condition is caused by deficiency of <span style="background:rgba(240, 200, 0, 0.2)">acid alpha-glucosidase (alpha-1,4 glucosidase or acid maltase)</span>, an enzyme responsible for breaking down glycogen within the acidic environment of lysosomes.
 - Although most glycogen is degraded in the cytoplasm,<span style="background:rgba(240, 200, 0, 0.2)"> a small percentage is inadvertently engulfed by lysosomes</span>, especially in cells containing high amounts of glycogen such as hepatocytes and myocytes. <span style="background:rgba(240, 200, 0, 0.2)"> Deficiency of acid maltase results in pathologic accumulation of glycogen within liver and muscle lysosomes.  Cardiac and skeletal muscle are particularly susceptible because the ballooning lysosomes interfere with contractile function.</span>
-

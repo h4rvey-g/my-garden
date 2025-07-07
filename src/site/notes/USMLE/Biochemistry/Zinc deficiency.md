@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/zinc-deficiency/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Zinc deficiency/"}
 ---
 
 # Zinc function
@@ -36,4 +36,3 @@
 	- Impaired growth and development
 - Diagnosis: measurement of plasma zinc levels
 - Treatment: oral zinc supplementation
-

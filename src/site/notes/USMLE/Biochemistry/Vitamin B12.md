@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vitamin-b12/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vitamin B12/"}
 ---
 
 # Functions
@@ -21,7 +21,7 @@
 
 ![highresdefault_L24633.jpg](/img/user/appendix/highresdefault_L24633.jpg)
 - [[USMLE/GI/Malabsorption\|Malabsorption]]
-	- �?Intrinsic factor (IF)
+	- ↓ Intrinsic factor (IF)
 		- Atrophic gastritis due to
 			- Autoimmune atrophic gastritis: most common cause of vitamin B12 deficiency
 			- H. pylori infection
@@ -47,19 +47,19 @@
 # Pathophysiology
 ## Dysfunctional biochemical reactions
 - Dysfunctional [[USMLE/Biochemistry/Methionine\|methionine]] synthase (normally converts homocysteine to [[USMLE/Biochemistry/Methionine\|methionine]], thereby demethylating N5-methyl-THF to THF) 
-	- �?Tetrahydrofolate (THF; cofactor in purine synthesis) �?�?DNA synthesis �?large, nucleated hematopoietic cells, including megaloblasts  �?megaloblastic precursors undergo apoptosis or are phagocytosed by macrophages �?pancytopenia (including megaloblastic anemia)
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?[[USMLE/Biochemistry/Methionine\|Methionine]] �?neuropathy</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Homocysteine</span> �?endothelial damage �?predisposes to cardiovascular disease
+	- ↓ Tetrahydrofolate (THF; cofactor in purine synthesis) → ↓ DNA synthesis → large, nucleated hematopoietic cells, including megaloblasts  → megaloblastic precursors undergo apoptosis or are phagocytosed by macrophages → pancytopenia (including megaloblastic anemia)
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ [[USMLE/Biochemistry/Methionine\|Methionine]] → neuropathy</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Homocysteine</span> → endothelial damage → predisposes to cardiovascular disease
 	- Can also cause secondary folate deficiency
 - Dysfunctional methylmalonyl CoA mutase
-	- Methylmalonyl CoA cannot be converted to succinyl CoA �?accumulation of methylmalonyl CoA and its precursor propionyl CoA, as well as their associated odd-chain fatty acids, which cannot be completely metabolized
-	- Propionyl CoA replaces acetyl CoA in neuronal membranes �?demyelination �?neurological manifestations
+	- Methylmalonyl CoA cannot be converted to succinyl CoA → accumulation of methylmalonyl CoA and its precursor propionyl CoA, as well as their associated odd-chain fatty acids, which cannot be completely metabolized
+	- Propionyl CoA replaces acetyl CoA in neuronal membranes → demyelination → neurological manifestations
 ## Pernicious anemia
 - A type of vitamin B12 deficiency caused by <span style="background:rgba(240, 200, 0, 0.2)">autoantibodies against [[USMLE/GI/Intrinsic factor\|intrinsic factor]] and/or gastric parietal cells</span> (type II hypersensitivity reaction)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Antiparietal cell antibodies: target gastric parietal cells</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Causes �?acid production and [[USMLE/GI/Atrophic gastritis\|atrophic gastritis]]</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Causes ↓ acid production and [[USMLE/GI/Atrophic gastritis\|atrophic gastritis]]</span>
 			- In turn <span style="background:rgba(240, 200, 0, 0.2)">increases gastrin level</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">�?[[USMLE/GI/Intrinsic factor\|Intrinsic factor]] production �?�?vitamin B12 absorption in terminal ileum</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">↓ [[USMLE/GI/Intrinsic factor\|Intrinsic factor]] production → ↓ vitamin B12 absorption in terminal ileum</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-IF antibodies</span>: bind [[USMLE/GI/Intrinsic factor\|intrinsic factor]] and block the vitamin B12 binding site
 - Associated with other autoimmune diseases (e.g., hypothyroidism, vitiligo)
 - Increases the risk of gastric cancer
@@ -95,4 +95,3 @@
 
 
 ---
-

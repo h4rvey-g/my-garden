@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/intracellular-receptors/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Intracellular receptors/"}
 ---
 
 - Examples of ligands (<span style="background:rgba(240, 200, 0, 0.2)">lipid-soluble, therefore can bypass cell membrane</span>)
@@ -12,4 +12,3 @@
 	- Thyroxine, triiodothyronine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fat-soluble [[USMLE/Biochemistry/Water-soluble vitamins\|vitamins]]</span>
 		- [[USMLE/Biochemistry/Vitamin D\|Vitamin D]]
-

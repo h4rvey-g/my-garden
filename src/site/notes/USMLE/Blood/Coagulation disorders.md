@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/coagulation-disorders/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Coagulation disorders/"}
 ---
 
 - Platelet disorder
@@ -23,4 +23,3 @@
 - Increased PT and aPTT
 	- [[USMLE/Biochemistry/Vitamin K\|Vitamin K]] deficiency
 	- DIC
-

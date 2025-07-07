@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vegan-diet/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vegan diet/"}
 ---
 
 # Associated deficiencies
@@ -9,4 +9,3 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Vitamin B12 deficiency takes years</span>
 - Possible: <span style="background:rgba(240, 200, 0, 0.2)">iron</span>, zinc
 	- Increased risk: children (rapid growth requires higher zinc/iron) & <span style="background:rgba(240, 200, 0, 0.2)">young women (menstrual blood loss requires higher iron).</span>
-

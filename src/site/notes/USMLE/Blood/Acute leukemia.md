@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/acute-leukemia/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Acute leukemia/","tags":["t2"]}
 ---
 
 ![Pasted image 20231218144652.png](/img/user/appendix/Pasted%20image%2020231218144652.png)
@@ -20,15 +20,15 @@
 >Characteristic of CLL would be the "smudge cells"![Pasted image 20231218144924.png](/img/user/appendix/Pasted%20image%2020231218144924.png)
 # Epidemiology
 - Acute lymphoblastic leukemia
-	- Peak incidence: 2�? years
+	- Peak incidence: 2–5 years
 	- <span style="background:rgba(240, 200, 0, 0.2)">Most common malignant disease in children</span>
-	- �?80% of acute leukemias during childhood are lymphoblastic.
+	- ∼ 80% of acute leukemias during childhood are lymphoblastic.
 
 ---
 # Etiology
 ## Acute lymphoblastic leukemia (ALL)
 - Genetic or chromosomal factors
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/Down syndrome\|Down syndrome]]: Risk of ALL is, like that of AML, 10�?0 times higher in patients with [[USMLE/Biochemistry/Down syndrome\|Down syndrome]] compared to the general population.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/Down syndrome\|Down syndrome]]: Risk of ALL is, like that of AML, 10–20 times higher in patients with [[USMLE/Biochemistry/Down syndrome\|Down syndrome]] compared to the general population.</span>
 	- [[USMLE/Neurology/Neurocutaneous disorders\|Neurofibromatosis]] type 1
 	- [[USMLE/Neurology/Ataxia-telangiectasia\|Ataxia telangiectasia]]
 
@@ -90,7 +90,8 @@
 
 >[!mnemonic] 
 ><font color="#ffc000">t(15; 17)</font> = <font color="#ffc000">571</font>工程
-><font color="#ffc000">�?/font>�?font color="#ffc000">�?/font>细胞 = �?font color="#ffc000">�?/font>�?font color="#ffc000">�?/font>�?
+><font color="#ffc000">早</font>幼<font color="#ffc000">粒</font>细胞 = 林<font color="#ffc000">立</font>果<font color="#ffc000">造</font>反
+
 # Differential diagnostics
 ---
 ![Pasted image 20241016204154.png](/img/user/appendix/Pasted%20image%2020241016204154.png)
@@ -101,12 +102,12 @@
 
 | **Feature**         | **Acute Myeloid Leukemia (AML)**                                                         | **Chronic Myeloid Leukemia (CML)**                                                     |
 | ------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Onset & Cells**   | Rapid; �?0% Myeloblasts                                                                  | Gradual; Mature & maturing granulocytes, <10% blasts (chronic phase)                   |
+| **Onset & Cells**   | Rapid; ≥20% Myeloblasts                                                                  | Gradual; Mature & maturing granulocytes, <10% blasts (chronic phase)                   |
 | **Age (Typical)**   | Older adults (can occur at any age)                                                      | Middle-aged to older adults                                                            |
 | **Key Genetic**     | Various (e.g., t(15;17) in APL, FLT3)                                                    | **Philadelphia Chromosome (t(9;22) -> BCR-ABL)**                                       |
 | **Auer Rods**       | <span style="background:rgba(240, 200, 0, 0.2)">**May be present**</span>                | <span style="background:rgba(240, 200, 0, 0.2)">Absent</span>                          |
 | **LAP Score**       | Variable (often normal/high)                                                             | **Low**                                                                                |
-| **WBC Count**       | <span style="background:rgba(240, 200, 0, 0.2)">Variable (can be �? �? or normal)</span> | <span style="background:rgba(240, 200, 0, 0.2)">**Markedly �?* (often >100,000)</span> |
+| **WBC Count**       | <span style="background:rgba(240, 200, 0, 0.2)">Variable (can be ↑, ↓, or normal)</span> | <span style="background:rgba(240, 200, 0, 0.2)">**Markedly ↑** (often >100,000)</span> |
 | **Splenomegaly**    | Less common / less massive                                                               | **Common, often massive**                                                              |
 | **Symptoms**        | Acute: Pancytopenia symptoms (fatigue, bleeding, infection)                              | Chronic phase often asymptomatic or mild (fatigue, weight loss)                        |
 | **Basophilia**      | Not prominent                                                                            | **Often present**                                                                      |
@@ -124,4 +125,3 @@
 >In <font color="#ffc000">APL, the t(15;17) translocation</font> and subsequent formation of the PML-RARA fusion gene can inhibit myeloblast differentiation under physiological levels of retinoic acid. <font color="#ffc000">High doses of ATRA (a [[USMLE/Biochemistry/Vitamin A\|vitamin A]] derivative) may induce myeloblast differentiation and promote remission.</font>
 
 ---
-

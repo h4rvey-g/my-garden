@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/hemolytic-disease-of-the-fetus-and-newborn/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Hemolytic disease of the fetus and newborn/"}
 ---
 
 # Epidemiology
@@ -28,4 +28,3 @@
 # Treatment
 ---
 <% tp.file.cursor() %>
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/familial-dyslipidemias/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Familial dyslipidemias/"}
 ---
 
 # Familial dyslipidemias
@@ -35,6 +35,6 @@
 	- Early
 		- <span style="background:rgba(240, 200, 0, 0.2)">Steatorrhea</span>
 		- Failure to thrive
-		- Fat malabsorption �?fat-soluble vitamin deficiency
+		- Fat malabsorption → fat-soluble vitamin deficiency
 - Diagnostics
 	- <span style="background:rgba(240, 200, 0, 0.2)">Intestinal biopsy: Histology may reveal lipid-laden enterocytes.</span>![Pasted image 20250422103249.png](/img/user/appendix/Pasted%20image%2020250422103249.png)

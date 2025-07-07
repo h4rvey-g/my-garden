@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/lysosomal-storage-diseases/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Lysosomal Storage Diseases/","tags":["t1"]}
 ---
 
 ![Pasted image 20250116200647.png](/img/user/appendix/Pasted%20image%2020250116200647.png)![Pasted image 20250116200658.png](/img/user/appendix/Pasted%20image%2020250116200658.png)
@@ -52,7 +52,7 @@ big = hepatosplenomegaly
 - Hunter syndrome
 	- Milder features than Hurler:
 		- (+) Aggressive behavior
-		- (�? Corneal clouding
+		- (−) Corneal clouding
 	- Death in adolescence/early adulthood
 
 
@@ -69,7 +69,7 @@ big = hepatosplenomegaly
 ---
 - Definition: an autosomal recessive disease caused by a defect in N-acetylglucosaminyl-1-phosphotransferase activity
 - Pathophysiology
-	- Defective N-acetylglucosaminyl-1-phosphotransferase �?<span style="background:rgba(240, 200, 0, 0.2)">impaired phosphorylation of mannose residues of glycoproteins in the Golgi apparatus that should be transported to lysosomes (glycoproteins do not have mannose-6-phosphate) �?extracellular secretion of these glycoproteins</span> instead of delivery to lysosomes �?<span style="background:rgba(240, 200, 0, 0.2)">inability to degrade lysosomal content</span> �?accumulation of abnormal lysosomal substances in the serum![Pasted image 20250423104449.png](/img/user/appendix/Pasted%20image%2020250423104449.png)
+	- Defective N-acetylglucosaminyl-1-phosphotransferase → <span style="background:rgba(240, 200, 0, 0.2)">impaired phosphorylation of mannose residues of glycoproteins in the Golgi apparatus that should be transported to lysosomes (glycoproteins do not have mannose-6-phosphate) → extracellular secretion of these glycoproteins</span> instead of delivery to lysosomes → <span style="background:rgba(240, 200, 0, 0.2)">inability to degrade lysosomal content</span> → accumulation of abnormal lysosomal substances in the serum![Pasted image 20250423104449.png](/img/user/appendix/Pasted%20image%2020250423104449.png)
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Coarse facial features</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Corneal clouding</span>: progresses to blindness

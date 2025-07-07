@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/catecholamine-synthesis/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Catecholamine Synthesis/","tags":["t2"]}
 ---
 
 
@@ -28,4 +28,3 @@
 ![Pasted image 20231107144314.png](/img/user/appendix/Pasted%20image%2020231107144314.png)
 >[!Mnemonic] 
 >Musty -> having a stale, moldy, or damp smell -> <font color="#ffc000">MOLD-E</font>
-

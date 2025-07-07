@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/catabolism-of-amino-acids/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Catabolism of amino acids/","tags":["t2"]}
 ---
 
 # <span style="background:rgba(240, 200, 0, 0.2)">Summary of steps (important!)</span>
@@ -9,19 +9,19 @@
 1. Generation of ammonia in periphery
 2. Transportation of ammonia to liver
 	1. In periphery
-		- Transamination: <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/REVIEW/Amino acids\|amino acids]] + α-ketoglutarate �?α-ketoacids + glutamate</span>
+		- Transamination: <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/REVIEW/Amino acids\|amino acids]] + α-ketoglutarate ⇄ α-ketoacids + glutamate</span>
 	2. Transport to liver, by either
 		- Glutamine cycle (most common)
 			- Glutamate is negatively charged, it needs to get one more ammonia to form glutamine, to be able to get through membrane
-			- <span style="background:rgba(240, 200, 0, 0.2)">Glutamate + NH<sub>4</sub><sup>+</sup> + ATP �?Glutamine + ADP + Pi</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Glutamate + NH<sub>4</sub><sup>+</sup> + ATP → Glutamine + ADP + Pi</span>
 		- Alanine cycle (Cahill cycle)
 			- Similar reason, glutamate gives ammonia to pyruvate to form alanine, to be able to get through membrane. This process is a reversed transamination.
-			- <span style="background:rgba(240, 200, 0, 0.2)">Pyruvate + glutamate �?alanine + α-ketoglutarate</span>
+			- <span style="background:rgba(240, 200, 0, 0.2)">Pyruvate + glutamate ⇄ alanine + α-ketoglutarate</span>
 	3. In liver
 		- Convert back to glutamate, by either
-			- Glutaminase: <span style="background:rgba(240, 200, 0, 0.2)">glutamine + H2O �?glutamate + ammonium</span>
-			- Transamination: <span style="background:rgba(240, 200, 0, 0.2)">alanine + α-ketoglutarate �?pyruvate + glutamate</span>
-		- Release ammonia (Deamination): <span style="background:rgba(240, 200, 0, 0.2)">glutamate + NAD(P)<sup>+</sup> + H<sub>2</sub>O �?α-ketoglutarate + NH<sub>4</sub><sup>+</sup> + NAD(P)H + H<sup>+</sup></span>
+			- Glutaminase: <span style="background:rgba(240, 200, 0, 0.2)">glutamine + H2O → glutamate + ammonium</span>
+			- Transamination: <span style="background:rgba(240, 200, 0, 0.2)">alanine + α-ketoglutarate ⇄ pyruvate + glutamate</span>
+		- Release ammonia (Deamination): <span style="background:rgba(240, 200, 0, 0.2)">glutamate + NAD(P)<sup>+</sup> + H<sub>2</sub>O ⇄ α-ketoglutarate + NH<sub>4</sub><sup>+</sup> + NAD(P)H + H<sup>+</sup></span>
 3. Excretion of ammonia
 	- Urea cycle
 # Transamination
@@ -29,7 +29,7 @@
 - Description: transfer of an amino group from an AA to an α-ketoacid for breakdown, or to an α-ketoacid to form a nonessential AA![Pasted image 20241205095036.png](/img/user/appendix/Pasted%20image%2020241205095036.png)
 - E.g.
 	- ALT: 
-	- AST: aspartate + α-ketoglutarate �?oxalacetate + glutamate 
+	- AST: aspartate + α-ketoglutarate ⇄ oxalacetate + glutamate 
 # Deamination
 ---
 - Description: reaction in which an amino group from an AA is released as ammonium
@@ -61,7 +61,7 @@
 - Epidemiology: <span style="background:rgba(240, 200, 0, 0.2)">most common urea cycle defect</span>
 - Inheritance: X-linked recessive (in contrast to the rest of urea cycle enzyme deficiencies which are all autosomal recessive)
 - Pathophysiology
-	- <span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme ornithine transcarbamylase �?impaired conversion of carbamoyl phosphate and ornithine to citrulline (and phosphate) �?ammonia cannot be eliminated and accumulates</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Defect in the enzyme ornithine transcarbamylase → impaired conversion of carbamoyl phosphate and ornithine to citrulline (and phosphate) → ammonia cannot be eliminated and accumulates</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Conversion of excess carbamoyl phosphate to orotic acid</span> occurs as part of the pyrimidine synthesis pathway
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms commonly manifest in the first days of life but can develop at any age.</span>
@@ -71,9 +71,9 @@
 	- Does not cause megaloblastic anemia (as opposed to [[USMLE/Biochemistry/Orotic aciduria\|orotic aciduria]])
 - Diagnostics
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/Hyperammonemia\|Hyperammonemia]] (usually > 100 μmol/L)</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Orotic acid in urine and blood</span>
-	- �?BUN
-	- �?Carbamoyl phosphate and �?citrulline in the serum
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Orotic acid in urine and blood</span>
+	- ↓ BUN
+	- ↑ Carbamoyl phosphate and ↓ citrulline in the serum
 	- Normal ketone and glucose levels
 
 # Digestion and absorption of dietary proteins

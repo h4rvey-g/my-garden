@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/trinucleotide-repeat-expansion-diseases/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Trinucleotide repeat expansion diseases/","tags":["t1"]}
 ---
 
 | Disease                | Trinucleotide Repeat                           | Mode of Inheritance | Mnemonic                                                                                                                                                                                  |
 | ---------------------- | ---------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[USMLE/Neurology/Huntington disease\|Huntington disease]] | (<font color="#ffc000">CAG</font>)<sub>n</sub> | AD                  | <font color="#ffc000">C</font>audate has �?<font color="#ffc000">A</font>Ch and <font color="#ffc000">G</font>ABA                                                                         |
+| [[USMLE/Neurology/Huntington disease\|Huntington disease]] | (<font color="#ffc000">CAG</font>)<sub>n</sub> | AD                  | <font color="#ffc000">C</font>audate has ↓ <font color="#ffc000">A</font>Ch and <font color="#ffc000">G</font>ABA                                                                         |
 | [[USMLE/MSK/Myotonic syndromes\|Myotonic syndromes]] | (<font color="#ffc000">CTG</font>)<sub>n</sub> | AD                  | <font color="#ffc000">C</font>ataracts, <font color="#ffc000">T</font>oupee (early balding in males), <font color="#ffc000">G</font>onadal atrophy in males, reduced fertility in females |
 | [[USMLE/Reproductive/Fragile X syndrome\|Fragile X syndrome]] | (<font color="#ffc000">CGG</font>)<sub>n</sub> | XD                  | <font color="#ffc000">C</font>hin (protruding), <font color="#ffc000">G</font>iant <font color="#ffc000">G</font>onads                                                                    |
 | [[USMLE/Neurology/Friedreich ataxia\|Friedreich ataxia]]  | (<font color="#ffc000">GAA</font>)<sub>n</sub> | AR                  | Ataxic <font color="#ffc000">GAA</font>it                                                                                                                                                 |
 
 >[!tip] 
 >Patients with DM1 demonstrate somatic mosaicism.  The CTG expansion is <span style="background:rgba(240, 200, 0, 0.2)">notably unstable in nondividing cells</span>, including skeletal muscle, the brain, and myocardium (repeat lengths are several-fold longer in these cells).  In addition, <span style="background:rgba(240, 200, 0, 0.2)">cellular mRNA content typically decreases with mitosis and increases when the cell is not dividing</span>, therefore, cells that remain senescent (eg, myocardial cells) tend to accumulate more mutant mRNAs over time.  These processes help explain why patients with DM1 are more likely to develop symptoms as they age, such as cardiac conduction disturbances.
-
