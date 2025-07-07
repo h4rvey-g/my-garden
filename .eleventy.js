@@ -516,7 +516,7 @@ module.exports = function (eleventyConfig) {
         minifyCSS: true,
         minifyJS: true,
         keepClosingSlash: true,
-        ignoreCustomFragments: [/<(?=\s*\d)/],
+        ignoreCustomFragments: [/<(?=\s*\d)/, /<\?xml[\s\S]*?<\/svg>/],
       });
     }
     return content;
