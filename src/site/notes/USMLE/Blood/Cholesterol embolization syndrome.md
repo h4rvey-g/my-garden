@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/cholesterol-embolization-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Cholesterol embolization syndrome/"}
 ---
 
 # Epidemiology
@@ -14,7 +14,7 @@
 
 # Pathophysiology
 ---
-<span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] �?rupture of atherosclerotic plaque (most commonly from the aorta) �?blockage and inflammation of small to medium arteries by cholesterol crystals �?formation of multiple small peripheral, muscular, or visceral emboli �?end-organ damage</span>
+<span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] → rupture of atherosclerotic plaque (most commonly from the aorta) → blockage and inflammation of small to medium arteries by cholesterol crystals → formation of multiple small peripheral, muscular, or visceral emboli → end-organ damage</span>
 
 # Clinical features
 ---
@@ -39,5 +39,4 @@
 
 # Treatment
 ---
-
 

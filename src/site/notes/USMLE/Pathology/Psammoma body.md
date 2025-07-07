@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Pathology/Psammoma body/"}
+---
+
+A group of concentric, intracellular calcium collections seen in certain neoplasms such as [[USMLE/Endocrine/Thyroid cancer#Papillary thyroid carcinoma\|Thyroid cancer#Papillary thyroid carcinoma]], papillary serous [[USMLE/Reproductive/Endometrial cancer\|endometrial cancer]], [[USMLE/Respiratory/Mesothelioma\|mesothelioma]], [[USMLE/Neurology/Meningioma\|meningioma]], and serous papillary cystadenocarcinoma of [[USMLE/Reproductive/Ovarian cancer\|ovarian cancer]]. Can also appear in chronically inflamed tissue.
+The formation of psammoma bodies is generally understood as a form of <span style="background:rgba(240, 200, 0, 0.2)">**dystrophic calcification**</span>, a process where calcium salts are deposited in degenerating or necrotic (dead) tissue. Tumor cells, especially at the tips of <span style="background:rgba(240, 200, 0, 0.2)">finger-like "papillary" structures</span> common in these cancers, can die due to lack of blood supply. These dead cells become a core (nidus) for calcium to layer upon.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/embryogenesis/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Embryogenesis/"}
 ---
 
 
@@ -18,7 +18,7 @@
 > 	 - Heart begins to beat (<font color="#ffc000">four</font> chambers). Cardiac activity visible by transvaginal ultrasound.
 > 	 - Upper and lower limb buds begin to form (<font color="#ffc000">four</font> limbs).
 >- **Week <font color="#ffc000">8</font>**
->	- Genitalia have male/female characteristics (pronounce “gen<font color="#ffc000">eight</font>alia�?.
+>	- Genitalia have male/female characteristics (pronounce “gen<font color="#ffc000">eight</font>alia”).
 # Abnormalities of morphogenesis
 ---
 - Agenesis: Absent organ due to absent primordial tissue.
@@ -29,7 +29,7 @@
 - Deformation: Extrinsic mechanical distortion (eg, congenital torticollis); occurs during fetal period.
 - Malformation: Intrinsic developmental defect (eg, cleft lip/palate); occurs during embryonic period.
 	- Arteriovenous malformation (an abnormal, high-flow connection between arteries and veins bypassing capillaries which develops due to disrupted angiogenesis)
-- <span style="background:rgba(240, 200, 0, 0.2)">Sequence: Abnormalities result from a single 1° embryologic event (eg, oligohydramnios �?Potter sequence).</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Sequence: Abnormalities result from a single 1° embryologic event (eg, oligohydramnios → Potter sequence).</span>
 - Field defect: Disturbance of tissues that develop in a contiguous physical space (eg, [[USMLE/Reproductive/Holoprosencephaly\|holoprosencephaly]]).
 
 # Aortic arches
@@ -41,6 +41,5 @@
 | First                  | Part of maxillary artery                                           |
 | Second                 | Hyoid artery, Stapedial artery                                     |
 | Third                  | Common carotid artery, Proximal internal carotid artery            |
-| Fourth                 | On left �?aortic arch, On right �?proximal right subclavian artery |
-| Sixth                  | Proximal pulmonary arteries, On left �?ductus arteriosus           |
-
+| Fourth                 | On left → aortic arch, On right → proximal right subclavian artery |
+| Sixth                  | Proximal pulmonary arteries, On left → ductus arteriosus           |

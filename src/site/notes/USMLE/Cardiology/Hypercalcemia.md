@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/hypercalcemia/","title":"Hypercalcemia"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Hypercalcemia/","title":"Hypercalcemia"}
 ---
 
 
@@ -11,7 +11,8 @@ Hypercalcemia is a total serum calcium concentration of > 10.5 mg/dL (> 2.62 mmo
 # Causes
 PTH-mediated or non-PTH-mediated causes
 >[!Mnemonic]
->For causes of hypercalcemia, remember “Thinking Chimpanzees!�?>- Thinking: [[Thiazides\|Thiazides]], thyroid
+>For causes of hypercalcemia, remember “Thinking Chimpanzees!”
+>- Thinking: [[Thiazides\|Thiazides]], thyroid
 >- Calcium supplementation
 >- [[USMLE/Endocrine/Hyperparathyroidism\|Hyperparathyroidism]]
 >- Immobilization, inherited ([[USMLE/Endocrine/Familial hypocalciuric hypercalcemia\|FHH]])
@@ -28,7 +29,7 @@ PTH-mediated or non-PTH-mediated causes
 - <span style="background:rgba(240, 200, 0, 0.2)">Bone pain</span>, arthralgias, myalgias, fractures
 	- Because most of the calcium is released from bones
 - <span style="background:rgba(240, 200, 0, 0.2)">Constipation</span>
-	- Increase in extracellular Ca<sup>2+</sup> �?membrane potential outside is more positive �?more amount of depolarization is needed to initiate action potential �?decreased excitability of muscle and nerve tissue
+	- Increase in extracellular Ca<sup>2+</sup> → membrane potential outside is more positive → more amount of depolarization is needed to initiate action potential → decreased excitability of muscle and nerve tissue
 - <span style="background:rgba(240, 200, 0, 0.2)">Abdominal pain</span>
 - Nausea and vomiting
 - Anorexia
@@ -48,4 +49,3 @@ PTH-mediated or non-PTH-mediated causes
 ---
 - Consider [[USMLE/Endocrine/Calcitonin\|calcitonin]] for rapid-onset, short-term control of hypercalcemia. 
 - Bisphosphonates for slow-onset, long-term control of hypercalcemia
-

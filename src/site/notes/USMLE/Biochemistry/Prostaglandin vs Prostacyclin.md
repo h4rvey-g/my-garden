@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/prostaglandin-vs-prostacyclin/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Prostaglandin vs Prostacyclin/"}
 ---
 
 ![Pasted image 20240317220254.png](/img/user/appendix/Pasted%20image%2020240317220254.png)
@@ -15,5 +15,4 @@
 | Role in Inflammation     | Key mediators in the inflammatory response                                                                                    | Less direct role in inflammation                                                                                              |
 | Half-life                | Short half-life (minutes)                                                                                                     | Short half-life (minutes)                                                                                                     |
 | Clinical Relevance       | Used in various treatments (e.g., <span style="background:rgba(240, 200, 0, 0.2)">labor induction</span>, gastric protection) | Used in treating [[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]] and cardiovascular diseases                                                       |
-
 

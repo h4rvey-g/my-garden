@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/acute-respiratory-distress-syndrome/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Acute respiratory distress syndrome/","tags":["t1"]}
 ---
 
 ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxemia and bilateral pulmonary infiltrates that cannot be fully accounted for by [[USMLE/Cardiology/Heart failure\|heart failure]] or fluid overload.
@@ -25,13 +25,13 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 
 ---
 # Pathophysiology
-- Tissue damage (pulmonary or extrapulmonary) �?release of inflammatory mediators (e.g., interleukin-1) �?inflammatory reaction �?<span style="background:rgba(240, 200, 0, 0.2)">migration of neutrophils into alveoli</span> �?<span style="background:rgba(240, 200, 0, 0.2)">excessive release of neutrophilic mediators (e.g., cytokines, proteases, reactive oxygen species)</span> �?injury to alveolar capillaries and endothelial cells (diffuse alveolar damage, DAD)  leading to:
-	- Exudative phase: excess fluid in interstitium and on alveolar surface �?<span style="background:rgba(240, 200, 0, 0.2)">pulmonary edema</span> with normal [[USMLE/Cardiology/Pulmonary capillary wedge pressure\|pulmonary capillary wedge pressure]] (noncardiogenic pulmonary edema) �?decreased lung compliance and respiratory distress 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Hyaline membrane formation</span>: exudation of neutrophils and protein-rich fluid into the alveolar space �?formation of alveolar hyaline membranes �?impaired gas exchange �?hypoxemia 
-		- Hypoxemia �?compensation through hyperventilation �?respiratory alkalosis
-		- Hypoxemia �?chronic hypoxic pulmonary vasoconstriction �?[[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]] and right-to-left pulmonary shunt (increased shunt fraction) 
-		- Damage to type I and type II pneumocytes �?decrease in surfactant �?alveolar collapse �?intrapulmonary shunting
-	- Organizing phase (late stage): proliferation of type II pneumocytes and infiltration of fibroblasts �?progressive interstitial fibrosis
+- Tissue damage (pulmonary or extrapulmonary) → release of inflammatory mediators (e.g., interleukin-1) → inflammatory reaction → <span style="background:rgba(240, 200, 0, 0.2)">migration of neutrophils into alveoli</span> → <span style="background:rgba(240, 200, 0, 0.2)">excessive release of neutrophilic mediators (e.g., cytokines, proteases, reactive oxygen species)</span> → injury to alveolar capillaries and endothelial cells (diffuse alveolar damage, DAD)  leading to:
+	- Exudative phase: excess fluid in interstitium and on alveolar surface → <span style="background:rgba(240, 200, 0, 0.2)">pulmonary edema</span> with normal [[USMLE/Cardiology/Pulmonary capillary wedge pressure\|pulmonary capillary wedge pressure]] (noncardiogenic pulmonary edema) → decreased lung compliance and respiratory distress 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Hyaline membrane formation</span>: exudation of neutrophils and protein-rich fluid into the alveolar space → formation of alveolar hyaline membranes → impaired gas exchange → hypoxemia 
+		- Hypoxemia → compensation through hyperventilation → respiratory alkalosis
+		- Hypoxemia → chronic hypoxic pulmonary vasoconstriction → [[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]] and right-to-left pulmonary shunt (increased shunt fraction) 
+		- Damage to type I and type II pneumocytes → decrease in surfactant → alveolar collapse → intrapulmonary shunting
+	- Organizing phase (late stage): proliferation of type II pneumocytes and infiltration of fibroblasts → progressive interstitial fibrosis
 
 ---
 # Clinical features
@@ -47,10 +47,10 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 - <span style="background:rgba(240, 200, 0, 0.2)">Bilateral opacities (on chest x-ray or CT)</span>
 	- Similar appearance to pulmonary edema
 	- Not sufficiently explained by pleural effusions, lobar or lung collapse, or nodules
-- <span style="background:rgba(240, 200, 0, 0.2)">Hypoxemia: PaO2/FiO2 �?300 mm Hg</span> (measured with a minimum of 5 cm H<sub>2</sub>O PEEP)
-	- Mild ARDS: PaO2/FiO2 = 201�?00 mm Hg
-	- Moderate ARDS: PaO2/FiO2 = 101�?00 mm Hg
-	- Severe ARDS: PaO2/FiO2 �?100 mm Hg
+- <span style="background:rgba(240, 200, 0, 0.2)">Hypoxemia: PaO2/FiO2 ≤ 300 mm Hg</span> (measured with a minimum of 5 cm H<sub>2</sub>O PEEP)
+	- Mild ARDS: PaO2/FiO2 = 201–300 mm Hg
+	- Moderate ARDS: PaO2/FiO2 = 101–200 mm Hg
+	- Severe ARDS: PaO2/FiO2 ≤ 100 mm Hg
 - <span style="background:rgba(240, 200, 0, 0.2)">Respiratory failure cannot be fully accounted for by [[USMLE/Cardiology/Heart failure\|heart failure]] or fluid overload.</span>
 
 >[!Mnemonic] 
@@ -61,4 +61,3 @@ ARDS is a clinical syndrome of acute respiratory failure characterized by hypoxe
 
 
 ---
-

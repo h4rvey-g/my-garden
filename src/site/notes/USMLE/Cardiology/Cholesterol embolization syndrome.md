@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/cholesterol-embolization-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Cholesterol embolization syndrome/"}
 ---
 
 Cholesterol embolization syndrome is a condition in which cholesterol crystals dislodge from atherosclerotic plaques and enter the bloodstream, blocking small to medium arteries in various organs.
@@ -15,7 +15,7 @@ Cholesterol embolization syndrome is a condition in which cholesterol crystals d
 
 # Pathophysiology
 ---
-[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] �?<span style="background:rgba(240, 200, 0, 0.2)">rupture of atherosclerotic plaque (most commonly from the aorta) �?blockage and inflammation of small to medium arteries by cholesterol crystals �?formation of multiple small peripheral, muscular, or visceral emboli �?end-organ damage</span>
+[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] → <span style="background:rgba(240, 200, 0, 0.2)">rupture of atherosclerotic plaque (most commonly from the aorta) → blockage and inflammation of small to medium arteries by cholesterol crystals → formation of multiple small peripheral, muscular, or visceral emboli → end-organ damage</span>
 
 # Clinical features
 ---
@@ -38,7 +38,7 @@ Cholesterol embolization syndrome is a condition in which cholesterol crystals d
 	- Leukocytosis, eosinophilia
 	- [[USMLE/Blood/Anemia\|Anemia]]
 	- Thrombocytopenia
-- Renal function tests: �?BUN, �?creatinine 
+- Renal function tests: ↑ BUN, ↑ creatinine 
 - Urine studies: proteinuria, hematuria, eosinophiluria
 - Biopsy
 	- <span style="background:rgba(240, 200, 0, 0.2)">Amorphous, eosinophilic material in the vessel lumen</span>
@@ -46,5 +46,4 @@ Cholesterol embolization syndrome is a condition in which cholesterol crystals d
 
 # Treatment
 ---
-
 

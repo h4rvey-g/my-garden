@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/multiple-myeloma/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Multiple myeloma/"}
 ---
 
 # Epidemiology
@@ -13,11 +13,11 @@
 # Pathophysiology
 ---
 - Neoplastic proliferation of plasma cells
-	- Bone marrow infiltration by malignant plasma cells �?suppression of hematopoiesis �?leukopenia, thrombocytopenia, anemia
-	- <span style="background:rgba(240, 200, 0, 0.2)">Cell proliferation �?pro-osteoclastogenic factors (e.g., [[USMLE/Biochemistry/Interferons and Tumor necrosis factor\|TNF-α]], IL-1, RANK-L) �?osteolytic lesions �?[[USMLE/Cardiology/Hypercalcemia\|hypercalcemia]]</span>
-- Overproduction of monoclonal immunoglobulin and/or light chains �?dysproteinemia (a state of pathologically increased synthesis of [[USMLE/Immunology/Immunoglobulins\|immunoglobulins]] and/or their subunits) �?kidney damage (e.g., myeloma cast nephropathy) and/or paraprotein tissue deposition (may cause [[USMLE/Pathology/Amyloidosis\|amyloidosis]]) 
-	- Nonfunctioning antibodies �?functional antibody deficiency
-	- �?Serum viscosity �?hyperviscosity syndrome
+	- Bone marrow infiltration by malignant plasma cells → suppression of hematopoiesis → leukopenia, thrombocytopenia, anemia
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cell proliferation → pro-osteoclastogenic factors (e.g., [[USMLE/Biochemistry/Interferons and Tumor necrosis factor\|TNF-α]], IL-1, RANK-L) → osteolytic lesions → [[USMLE/Cardiology/Hypercalcemia\|hypercalcemia]]</span>
+- Overproduction of monoclonal immunoglobulin and/or light chains → dysproteinemia (a state of pathologically increased synthesis of [[USMLE/Immunology/Immunoglobulins\|immunoglobulins]] and/or their subunits) → kidney damage (e.g., myeloma cast nephropathy) and/or paraprotein tissue deposition (may cause [[USMLE/Pathology/Amyloidosis\|amyloidosis]]) 
+	- Nonfunctioning antibodies → functional antibody deficiency
+	- ↑ Serum viscosity → hyperviscosity syndrome
 
 >[!warning] 
 >[[USMLE/Cardiology/Hypercalcemia\|Hypercalcemia]] in MM is not related to [[USMLE/Renal/Parathyroid hormone-related protein\|PTHrP]]!
@@ -38,7 +38,7 @@
 - [[USMLE/Blood/Anemia\|Anemia]]: Hb < 10 g/dL or more than 2 g/dL below the LLN
 	- Normocytic anemia
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Immunology/Leukocyte extravasation\|Rouleaux formation]]</span>![L25615.jpg](/img/user/appendix/L25615.jpg)
-- Bone lesions: �?1 osteolytic lesions on imaging
+- Bone lesions: ≥ 1 osteolytic lesions on imaging
 ## Bone marrow biopsy
 - Cytology: clusters of plasma cells ![L44127.jpg](/img/user/appendix/L44127.jpg)
 	- Mildly organized monoclonal cells
@@ -54,11 +54,10 @@
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Myeloma cast nephropathy (i.e., myeloma kidney): most common cause of renal injury and renal failure in patients with multiple myeloma</span>
 	- Clinical features: oliguria, peripheral edema, dyspnea
-	- Pathophysiology: excessive production and filtration of light chains into the urine �?<span style="background:rgba(240, 200, 0, 0.2)">precipitation of light chains</span> in renal tubules �?tubular obstruction
+	- Pathophysiology: excessive production and filtration of light chains into the urine → <span style="background:rgba(240, 200, 0, 0.2)">precipitation of light chains</span> in renal tubules → tubular obstruction
 	- Diagnosis: markedly positive urine sulfosalicylic acid test  and/or urine protein electrophoresis
 		- <span style="background:rgba(240, 200, 0, 0.2)">On light microscopy, numerous large, glassy eosinophilic [[USMLE/Renal/Urine sediment\|casts]] are seen.</span>
 	- May progress to end-stage renal disease (ESRD)
 - <span style="background:rgba(240, 200, 0, 0.2)">AL [[USMLE/Pathology/Amyloidosis\|amyloidosis]]: Light chains can accumulate as amyloids and may lead to [[USMLE/Cardiology/Restrictive cardiomyopathy\|restrictive cardiomyopathy]], renal insufficiency, macroglossia, and [[USMLE/GI/Malabsorption\|malabsorption]] syndromes.</span>
 - Infections
 - Secondary plasma cell leukemia
-

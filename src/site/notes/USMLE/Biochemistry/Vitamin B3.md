@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vitamin-b3/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vitamin B3/"}
 ---
 
 # Function
@@ -53,4 +53,3 @@
 - [[USMLE/MSK/Gout\|Hyperuricemia]], podagra 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Niacin decreases renal uric acid excretion.</span>
 - Hyperglycemia
-

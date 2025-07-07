@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/esophageal-motility-disorders/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Esophageal motility disorders/"}
 ---
 
 - Esophageal motility disorders include disorders of hypomotility (e.g., [[USMLE/GI/Achalasia\|achalasia]]) and hypermotility (e.g., diffuse esophageal spasm).
@@ -48,5 +48,4 @@ Esophageal motility disorders typically cause dysphagia with both solids and liq
 - Extrinsic esophageal compression (e.g., hilar lymphadenopathy)
 # Treatment
 ---
-
 

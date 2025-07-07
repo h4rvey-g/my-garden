@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/pharmacology/sympatholytic-drugs/"}
+{"dg-publish":true,"permalink":"/USMLE/Pharmacology/Sympatholytic drugs/"}
 ---
 
 # Alpha receptor antagonists
@@ -12,12 +12,12 @@
 # Alpha-2 receptor agonists
 ---
 ## Alpha-2 receptor functions
-- <span style="background:rgba(240, 200, 0, 0.2)">�?Norepinephrine release and synthesis (negative feedback)</span>
-- �?Insulin release
-- �?Lipolysis
-- �?Aqueous humor production
-- �?salivary secretion
-- �?Platelet aggregation
+- <span style="background:rgba(240, 200, 0, 0.2)">↓ Norepinephrine release and synthesis (negative feedback)</span>
+- ↓ Insulin release
+- ↓ Lipolysis
+- ↓ Aqueous humor production
+- ↓ salivary secretion
+- ↑ Platelet aggregation
 ## Drugs
 - Clonidine, Guanfacine
 	- Indication
@@ -32,4 +32,3 @@
 		- Respiratory depression
 		- Miosis
 		- <span style="background:rgba(240, 200, 0, 0.2)">Bradycardia</span>
-

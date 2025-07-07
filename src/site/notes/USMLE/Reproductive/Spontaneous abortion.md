@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/spontaneous-abortion/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Spontaneous abortion/"}
 ---
 
 # Epidemiology
@@ -40,4 +40,3 @@
 		- Fever, lower abdominal pain
 		- Malodorous, purulent cervical discharge
 		- Tender uterus with dilated cervix
-

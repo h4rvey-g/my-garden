@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/infective-endocarditis/","title":"Infective endocarditis"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Infective endocarditis/","title":"Infective endocarditis"}
 ---
 
 
@@ -7,7 +7,7 @@
 ---
 ## Pathogens
 
-| [[USMLE/Infective disease/Staphylococcus aureus\|Staphylococcus aureus]]                                                                                                                                        | - Approximately <span style="background:rgba(240, 200, 0, 0.2)">35�?0% of native valve IE cases </span><br>- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause of acute IE</span>, including persons who <span style="background:rgba(240, 200, 0, 0.2)">inject drugs and patients with prosthetic valves or pacemakers/ICDs</span> <br>- Typically <span style="background:rgba(240, 200, 0, 0.2)">affects healthy valves.</span><br>- Usually fatal within 6 weeks if left untreated                                                                           |
+| [[USMLE/Infective disease/Staphylococcus aureus\|Staphylococcus aureus]]                                                                                                                                        | - Approximately <span style="background:rgba(240, 200, 0, 0.2)">35–40% of native valve IE cases </span><br>- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause of acute IE</span>, including persons who <span style="background:rgba(240, 200, 0, 0.2)">inject drugs and patients with prosthetic valves or pacemakers/ICDs</span> <br>- Typically <span style="background:rgba(240, 200, 0, 0.2)">affects healthy valves.</span><br>- Usually fatal within 6 weeks if left untreated                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Viridans streptococci                                                                                                                                            | - Approximately 20% of native valve IE cases <br>- Most common cause of subacute IE, especially in <span style="background:rgba(240, 200, 0, 0.2)">predamaged native valves (mainly the mitral valve)</span><br>- Common cause of IE <span style="background:rgba(240, 200, 0, 0.2)">following dental procedures, respiratory tract incision and biopsy</span><br>- <span style="background:rgba(240, 200, 0, 0.2)">Produce dextrans from sucrose that facilitate binding of fibrin-platelet aggregates on heart valves.</span> This ability also enable it to survive on teeth. |
 | Staphylococcus epidermidis                                                                                                                                       | - Bacteremia from <span style="background:rgba(240, 200, 0, 0.2)">infected peripheral venous catheters</span><br>- Common cause of <span style="background:rgba(240, 200, 0, 0.2)">subacute IE in patients with prosthetic heart valves</span>                                                                                                                                                                                                                                                                                                                                   |
@@ -28,10 +28,10 @@
 # Pathophysiology
 ---
 - Pathogenesis
-	1. <span style="background:rgba(240, 200, 0, 0.2)">Damaged valvular endothelium �?exposure of the subendothelial layer �?adherence of platelets and fibrin �?sterile vegetation (microthrombus)</span>
-	2. Localized infection or contamination �?bacteremia �?<span style="background:rgba(240, 200, 0, 0.2)">bacterial colonization of vegetation �?formation of fibrin clots encasing the vegetation �?valve destruction with loss of function (valve regurgitation)</span>
+	1. <span style="background:rgba(240, 200, 0, 0.2)">Damaged valvular endothelium → exposure of the subendothelial layer → adherence of platelets and fibrin → sterile vegetation (microthrombus)</span>
+	2. Localized infection or contamination → bacteremia → <span style="background:rgba(240, 200, 0, 0.2)">bacterial colonization of vegetation → formation of fibrin clots encasing the vegetation → valve destruction with loss of function (valve regurgitation)</span>
 - Clinical consequences
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bacterial vegetation �?bacterial thromboemboli �?vessel occlusion �?infarctions</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bacterial vegetation → bacterial thromboemboli → vessel occlusion → infarctions</span>
 	- Emboli can lead to metastatic infections of other organs.
 # Classifications
 ---
@@ -54,4 +54,3 @@ Coagulase-negative staphylococci (CoNS): Staphylococcus epidermidis, Staphylococ
 ---
 ![Pasted image 20240227172522.png](/img/user/appendix/Pasted%20image%2020240227172522.png)
 vs [[USMLE/Cardiology/Acute rheumatic fever\|rheumatic fever]]![Pasted image 20240227171625.png](/img/user/appendix/Pasted%20image%2020240227171625.png)
-

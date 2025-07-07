@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/pharmacology/skeletal-muscle-relaxants/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Pharmacology/Skeletal muscle relaxants/","tags":["t1"]}
 ---
 
 # Depolarizing NMJ blockers (depolarizing muscle relaxants)
@@ -14,7 +14,7 @@
 	- The muscle fiber becomes unresponsive to any further stimulation![L10321.jpg](/img/user/appendix/L10321.jpg)
 ## Adverse effects
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Hyperkalemia\|Hyperkalemia]]</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism: depolarization of large muscle groups �?efflux of potassium ions into the extracellular space</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism: depolarization of large muscle groups → efflux of potassium ions into the extracellular space</span>
 	- Succinylcholine is contraindicated in case of [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]] or in conditions associated with a high-risk of [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]], including: 
 		- Burn injuries
 		- [[USMLE/Renal/Rhabdomyolysis and crush syndrome\|Rhabdomyolysis]]
@@ -34,7 +34,7 @@
 ---
 <span style="background:rgba(240, 200, 0, 0.2)">Slow onset, long duration</span>
 ## Mechanism of action
-- Compete with ACh to bind with the (nicotinic) ACh receptors at the motor end plate (<span style="background:rgba(240, 200, 0, 0.2)">competitive antagonists</span>) �?<span style="background:rgba(240, 200, 0, 0.2)">prevention of motor end plate depolarization (nondepolarization block)</span>
+- Compete with ACh to bind with the (nicotinic) ACh receptors at the motor end plate (<span style="background:rgba(240, 200, 0, 0.2)">competitive antagonists</span>) → <span style="background:rgba(240, 200, 0, 0.2)">prevention of motor end plate depolarization (nondepolarization block)</span>
 ## Agents
 - Rocuronium 
 - Vecuronium 
@@ -46,4 +46,3 @@
 	- NDMRs block nicotinic acetylcholine receptors (nAChRs) not only at the postsynaptic membrane <span style="background:rgba(240, 200, 0, 0.2)">but also at presynaptic nerve terminals</span>
 	- These presynaptic receptors n<span style="background:rgba(240, 200, 0, 0.2)">ormally provide positive feedback for additional ACh release</span>
 	- When blocked, there's <span style="background:rgba(240, 200, 0, 0.2)">reduced mobilization of ACh vesicles for subsequent stimuli</span>
-

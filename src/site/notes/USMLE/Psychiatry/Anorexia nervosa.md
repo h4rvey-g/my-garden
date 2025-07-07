@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/psychiatry/anorexia-nervosa/"}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Anorexia nervosa/"}
 ---
 
 # Epidemiology
@@ -30,9 +30,9 @@
 	- Cardiac atrophy
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Mitral valve prolapse\|Mitral valve prolapse]]</span>
 - Endocrine	
-	- <span style="background:rgba(240, 200, 0, 0.2)">Stress hormones: �?cortisol, �?adrenaline</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Stress hormones: ↑ cortisol, ↑ adrenaline</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Thyroid: [[USMLE/Endocrine/Euthyroid sick syndrome\|euthyroid sick syndrome]]</span>
-	- Secondary [[USMLE/Reproductive/Amenorrhea\|amenorrhea]] (severe weight loss suppresses the hypothalamic-pituitary-gonadal axis �?hypogonadotropic hypogonadism)
+	- Secondary [[USMLE/Reproductive/Amenorrhea\|amenorrhea]] (severe weight loss suppresses the hypothalamic-pituitary-gonadal axis → hypogonadotropic hypogonadism)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Impaired glucose tolerance, [[USMLE/Endocrine/Hypoglycemia\|hypoglycemia]]</span>
 - Musculoskeletal	
 	- Muscle weakness
@@ -68,4 +68,3 @@
 
 
 ---
-

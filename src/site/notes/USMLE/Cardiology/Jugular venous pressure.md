@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/jugular-venous-pressure/","title":"Cardiovascular examination"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Jugular venous pressure/","title":"Cardiovascular examination"}
 ---
 
 ![Pasted image 20230825214925.png](/img/user/appendix/Pasted%20image%2020230825214925.png)
@@ -29,7 +29,6 @@ Common abnormalities of the JVP waveform include:
 - Cardiac tamponade: elevated JVP (due to increased external atrial pressure), a prominent x descent (exaggerated atrial relaxation), and a blunt or absent y descent (minimal ventricular filling)  
 - Tricuspid regurgitation: prominent v wave as the blood from the right ventricle regurgitates into the right atrium during ventricular systole (atrial diastole), increasing interatrial pressure and volume  
 - Tricuspid stenosis: giant a wave due to high right atrial systolic pressure  
-- Atrial septal defect: v wave �?a wave due to the left-to-right shunting of blood  
+- Atrial septal defect: v wave ≥ a wave due to the left-to-right shunting of blood  
 - <span style="background:rgba(240, 200, 0, 0.2)">Third-degree atrioventricular (AV) block: cannon a waves due to the loss of AV synchronization and contraction of the atria against a closed tricuspid valve</span>
 - Atrial fibrillation: absent a waves due to ineffective contraction of the atria
-

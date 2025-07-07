@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/iron-deficiency-anemia/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Iron deficiency anemia/"}
 ---
 
 # Epidemiology
@@ -25,7 +25,7 @@
 
 # Diagnostics
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">�?Platelet count (reactive thrombocytosis)</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Platelet count (reactive thrombocytosis)</span>
 	- Mechanism unknown
 
 # Differential diagnostics
@@ -33,16 +33,15 @@
 
 |                                                                                                     | Iron deficiency anemia | Anemia of chronic disease |
 | --------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------- |
-| <span style="background:rgba(240, 200, 0, 0.2)">Serum ferritin</span>                               | �?                     | Normal or �?              |
-| Serum iron                                                                                          | �?                     | �?                        |
-| Mean corpuscular volume                                                                             | �?                     | Normal or �?              |
-| <span style="background:rgba(240, 200, 0, 0.2)">Transferrin</span><br>(total iron-binding capacity) | �?                     | Normal or �?              |
-| Transferrin saturation                                                                              | �?                     | �?                        |
-| Erythropoietin                                                                                      | �?                     | Variable*                 |
-| Hepcidin                                                                                            | �?                     | �?                        |
-| C-reactive protein                                                                                  | Normal                 | �?                        |
-| Serum cytokines                                                                                     | Normal                 | �?                        |
+| <span style="background:rgba(240, 200, 0, 0.2)">Serum ferritin</span>                               | ↓                      | Normal or ↑               |
+| Serum iron                                                                                          | ↓                      | ↓                         |
+| Mean corpuscular volume                                                                             | ↓                      | Normal or ↓               |
+| <span style="background:rgba(240, 200, 0, 0.2)">Transferrin</span><br>(total iron-binding capacity) | ↑                      | Normal or ↓               |
+| Transferrin saturation                                                                              | ↓                      | ↓                         |
+| Erythropoietin                                                                                      | ↑                      | Variable*                 |
+| Hepcidin                                                                                            | ↓                      | ↑                         |
+| C-reactive protein                                                                                  | Normal                 | ↑                         |
+| Serum cytokines                                                                                     | Normal                 | ↑                         |
 # Treatment
 ---
-
 

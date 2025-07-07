@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/fat-necrosis-of-the-breast/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Fat necrosis of the breast/"}
 ---
 
 # Epidemiology
@@ -33,5 +33,4 @@ Dead fat tissues replaced by scar tissues
 
 # Treatment
 ---
-
 

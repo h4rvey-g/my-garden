@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vitamin-b1/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vitamin B1/"}
 ---
 
 # Functions
@@ -22,13 +22,13 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 
 ---
 # Pathophysiology
-- Thiamine deficiency �?impaired glucose breakdown �?ATP depletion �?<span style="background:rgba(240, 200, 0, 0.2)">tissue damage that primarily affects highly aerobic tissues (e.g., brain, heart)</span>
+- Thiamine deficiency → impaired glucose breakdown → ATP depletion → <span style="background:rgba(240, 200, 0, 0.2)">tissue damage that primarily affects highly aerobic tissues (e.g., brain, heart)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">High-dose glucose infusions lead to increased ATP depletion, which can trigger [[USMLE/Neurology/Wernicke encephalopathy and Korsakoff syndrome\|Wernicke encephalopathy]].</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">In malnourished individuals and chronic alcohol users/heavy drinkers, thiamine should be administered before glucose infusions.</span>
 
 ---
 # Clinical features
-- Beriberi (脚气�?: inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., [[USMLE/Endocrine/Hyperthyroidism\|hyperthyroidism]], [[USMLE/Reproductive/Pregnancy\|pregnancy]]) 
+- Beriberi (脚气病): inadequate thiamine uptake due to malnutrition, heavy drinking, or increased demand (e.g., [[USMLE/Endocrine/Hyperthyroidism\|hyperthyroidism]], [[USMLE/Reproductive/Pregnancy\|pregnancy]]) 
 	- Dry beriberi
 		- Symmetrical peripheral neuropathy (sensory and motor)
 		- Progressive muscle wasting
@@ -49,11 +49,10 @@ In thiamine pyrophosphate (TPP), <span style="background:rgba(240, 200, 0, 0.2)"
 
 ---
 # Diagnostics
-- Vitamin B1 administration �?�?RBC transketolase activity
+- Vitamin B1 administration → ↑ RBC transketolase activity
 
 ---
 # Treatment
 
 
 ---
-

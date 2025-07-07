@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/lung-cancer/","title":"Lung cancer","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Lung cancer/","title":"Lung cancer","tags":["t1"]}
 ---
 
 # Etiology
@@ -23,7 +23,7 @@
 	- Most common type of lung cancer that originates in pulmonary scars 
 	- Prognosis is usually better than in other types of lung cancer
  >[!note] 
- >�?*A**denocarcinoma of **L**ung **K**inase�? Cancer (adenocarcinoma of lung) and the gene product (tyrosine kinase) are associated with ALK mutations.
+ >“**A**denocarcinoma of **L**ung **K**inase”: Cancer (adenocarcinoma of lung) and the gene product (tyrosine kinase) are associated with ALK mutations.
 ## Lung neuroendocrine tumors
 >[!tip] Histology
 >- Neuroendocrine Kulchitsky cells
@@ -118,4 +118,3 @@ composed mostly of benign cartilage on the right that is jumbled with a fibrov
 ---
 # Treatment
 ---
-

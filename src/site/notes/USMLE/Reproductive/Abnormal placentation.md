@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/abnormal-placentation/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Abnormal placentation/"}
 ---
 
 <span style="background:rgba(240, 200, 0, 0.2)">Defective decidual layer of the placenta leading to abnormal attachment and separation during postpartum period</span>![Pasted image 20240312164749.png](/img/user/appendix/Pasted%20image%2020240312164749.png)
@@ -16,7 +16,7 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Like bladder</span>
 
 >[!Mnemonic] 
->The types of abnormal placental attachment: Placenta <font color="#ffc000">A</font>ccreta �?font color="#ffc000">A</font>ttaches�?to the myometrium, placenta <font color="#ffc000">In</font>creta �?font color="#ffc000">In</font>vades�?the myometrium, and placenta <font color="#ffc000">Per</font>creta �?font color="#ffc000">Per</font>forates�?the myometrium.
+>The types of abnormal placental attachment: Placenta <font color="#ffc000">A</font>ccreta “<font color="#ffc000">A</font>ttaches” to the myometrium, placenta <font color="#ffc000">In</font>creta “<font color="#ffc000">In</font>vades” the myometrium, and placenta <font color="#ffc000">Per</font>creta “<font color="#ffc000">Per</font>forates” the myometrium.
 # Pathophysiology
 ---
 ## Risk factors
@@ -43,5 +43,4 @@
 
 # Treatment
 ---
-
 

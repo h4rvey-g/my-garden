@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/acute-mesenteric-ischemia/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Acute mesenteric ischemia/"}
 ---
 
 Acute reduction in arterial or venous blood flow to the small intestine; may result in bowel ischemia or infarct
@@ -14,10 +14,10 @@ Acute reduction in arterial or venous blood flow to the small intestine; may res
 	- <span style="background:rgba(240, 200, 0, 0.2)">Risk factors include [[USMLE/Cardiology/Atrial fibrillation\|atrial fibrillation]], myocardial infarction</span>
 	- Most commonly involves the SMA
 - Acute mesenteric artery thrombosis
-	- Causes �?25% of cases
+	- Causes ∼ 25% of cases
 	- Risk factors include visceral [[USMLE/Cardiology/Atherosclerosis\|atherosclerosis]]
 - Nonocclusive mesenteric ischemia
-	- Causes �?20% of cases
+	- Causes ∼ 20% of cases
 	- Most commonly occurs in critically ill patients with low cardiac output
 - Mesenteric venous thrombosis
 	- Least common cause of AMI (causes < 10% of all cases)
@@ -25,9 +25,9 @@ Acute reduction in arterial or venous blood flow to the small intestine; may res
 
 # Pathophysiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Sudden interruption of blood flow to small bowel �?intestinal hypoxia �?hemorrhagic infarction and necrosis</span> �?disruption of the mucosal barrier and perforation �?release of bacteria, toxins, and vasoactive substances �?<span style="background:rgba(240, 200, 0, 0.2)">life-threatening sepsis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Sudden interruption of blood flow to small bowel → intestinal hypoxia → hemorrhagic infarction and necrosis</span> → disruption of the mucosal barrier and perforation → release of bacteria, toxins, and vasoactive substances → <span style="background:rgba(240, 200, 0, 0.2)">life-threatening sepsis</span>
 - Sites of vessel occlusion
-	- <span style="background:rgba(240, 200, 0, 0.2)">SMA</span> (�?90% of cases) 
+	- <span style="background:rgba(240, 200, 0, 0.2)">SMA</span> (∼ 90% of cases) 
 
 
 # Clinical features
@@ -39,7 +39,7 @@ Acute reduction in arterial or venous blood flow to the small intestine; may res
 >- Patients with <span style="background:rgba(240, 200, 0, 0.2)">acute mesenteric artery embolism typically present with the classic triad of severe abdominal pain, bloody diarrhea, and [[USMLE/Cardiology/Atrial fibrillation\|atrial fibrillation]].</span>
 >- Patients with <span style="background:rgba(240, 200, 0, 0.2)">acute mesenteric artery thrombosis typically have known cardiovascular or [[USMLE/MSK/Peripheral arterial disease\|peripheral vascular disease]] and/or symptoms of CMI in addition to acute symptoms.</span>
 ## CMI 
-- <span style="background:rgba(240, 200, 0, 0.2)">Postprandial abdominal pain: begins 10�?0 minutes after eating and lasts 1�? hours</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Postprandial abdominal pain: begins 10–30 minutes after eating and lasts 1–2 hours</span>
 - Food aversion (sitophobia): <span style="background:rgba(240, 200, 0, 0.2)">fear of eating</span> because of postprandial pain
 - Unintended weight loss
 # Diagnostics
@@ -48,5 +48,4 @@ Acute reduction in arterial or venous blood flow to the small intestine; may res
 
 # Treatment
 ---
-
 

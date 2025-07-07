@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/psychiatry/alzheimer-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Alzheimer disease/"}
 ---
 
 # Epidemiology
@@ -8,11 +8,11 @@
 ---
 # Etiology
 ## Amyloid precursor protein (APP) gene
-- Linked to 10�?5% of early-onset familial AD cases
+- Linked to 10–15% of early-onset familial AD cases
 - <span style="background:rgba(240, 200, 0, 0.2)">Since the APP gene is located on chromosome 21, individuals with [[USMLE/Biochemistry/Down syndrome\|trisomy 21]] have an increased risk of early-onset AD due to APP overexpression </span>
-- Age at disease onset usually resembles parental age at disease onset (median �?49 years).
+- Age at disease onset usually resembles parental age at disease onset (median ∼ 49 years).
 ## Presenilin-1 	
-- Earlier onset compared to AD due to mutations of other genes (median is �?43 years)
+- Earlier onset compared to AD due to mutations of other genes (median is ∼ 43 years)
 ## Apo ε 	
 - <span style="background:rgba(240, 200, 0, 0.2)">Apolipoprotein E (ApoE)</span>
 - Risk of late-onset AD increases with the number of carried Apo ε4 alleles.
@@ -27,7 +27,7 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Extracellular</span>
 	- Located in the grey matter of the brain
 	- Aβ protein is the main component of the plaques.
-	- <span style="background:rgba(240, 200, 0, 0.2)">Enzymatic cleavage</span> of transmembranous APP by β-secretase and γ-secretase �?<span style="background:rgba(240, 200, 0, 0.2)">Amyloid beta (Aβ) peptide aggregation �?formation of insoluble plaques �?neurotoxic effect </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Enzymatic cleavage</span> of transmembranous APP by β-secretase and γ-secretase → <span style="background:rgba(240, 200, 0, 0.2)">Amyloid beta (Aβ) peptide aggregation → formation of insoluble plaques → neurotoxic effect </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Neurofibrillary tangles</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Intracellular</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tangles are composed of hyperphosphorylated tau protein</span> (an insoluble microtubule-associated protein). 
@@ -92,7 +92,7 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">Acetylcholinesterase inhibitors (AChEIs)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rivastigmine, Galantamine, Donepezil</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mild to moderate AD (first-line)</span>
-	- Reversible cholinesterase inhibition �?�?ACh concentration at the synaptic gap
+	- Reversible cholinesterase inhibition → ↑ ACh concentration at the synaptic gap
 	- Adverse effects
 		- <span style="background:rgba(240, 200, 0, 0.2)">Nausea, vomiting</span>
 		- Dizziness
@@ -101,10 +101,9 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">Bradycardia, conduction abnormalities</span>
 - NMDA receptor antagonist: memantine
 	- <span style="background:rgba(240, 200, 0, 0.2)">Moderate to severe AD</span>; Often used in combination with donepezil
-	- NMDA receptor antagonism �?�?glutamate-induced calcium-mediated excitotoxicity
+	- NMDA receptor antagonism → ↓ glutamate-induced calcium-mediated excitotoxicity
 
 >[!tip] 
 >Pharmacological therapies provide only modest delay in the progression of cognitive decline, with no change in disease course.
 
 ---
-

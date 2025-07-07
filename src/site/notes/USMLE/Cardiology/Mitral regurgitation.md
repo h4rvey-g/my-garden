@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/mitral-regurgitation/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Mitral regurgitation/"}
 ---
 
 # Epidemiology
@@ -37,5 +37,4 @@
 
 # Treatment
 ---
-
 

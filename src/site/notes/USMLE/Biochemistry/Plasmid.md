@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/plasmid/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Plasmid/"}
 ---
 
 **Core Components (Essential for most plasmids, especially those used in labs):**
@@ -37,4 +37,3 @@
 *   **Copy Number:** The number of copies of a particular plasmid found in a single bacterial cell can vary (from one or two to hundreds).
 
 In essence, plasmids are versatile DNA molecules that can carry a variety of genetic information, making them indispensable in biotechnology and crucial for bacterial adaptation and evolution.
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/alpha-1-antitrypsin-deficiency/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Alpha-1 antitrypsin deficiency/"}
 ---
 
 # Etiology
@@ -10,16 +10,16 @@ mutations in SERPINA1 gene
 - The severity of disease depends on the specific genotypic expression, which correlates with the amount of α1-antitrypsin protein synthesis
 	- PiMM: 100% expression of normal protein and therefore normal serum levels of AAT
 	- PiMS: 80% of normal serum levels of AAT
-	- PiSS, PiMZ, PiSZ: 40�?0% of normal serum levels of AAT
-	- <span style="background:rgba(240, 200, 0, 0.2)">PiZZ: 10�?5% of normal serum levels of AAT (severe AAT deficiency)</span>
+	- PiSS, PiMZ, PiSZ: 40–60% of normal serum levels of AAT
+	- <span style="background:rgba(240, 200, 0, 0.2)">PiZZ: 10–15% of normal serum levels of AAT (severe AAT deficiency)</span>
 
 ---
 # Pathophysiology
 ![highresdefault_L27478.jpg](/img/user/appendix/highresdefault_L27478.jpg)
 - <span style="background:rgba(240, 200, 0, 0.2)">Alpha-1 antitrypsin: a protease inhibitor that is synthesized in the liver and protects cells from breakdown by neutrophil elastase</span>
-- Gene mutation induces a conformational change in the structure of AAT protein �?dysfunctional (or absent) AAT
-	- Effect on the liver: accumulation of AAT in hepatocellular [[USMLE/Biochemistry/Endoplasmic reticulum\|endoplasmic reticulum]] �?hepatocyte destruction �?hepatitis and liver [[USMLE/GI/Cirrhosis\|cirrhosis]]
-	- Effect on the lungs: deficient AAT �?uninhibited neutrophil elastase activity �?destruction of the pulmonary parenchyma �?[[USMLE/Respiratory/Chronic obstructive pulmonary disease\|panacinar emphysema]]
+- Gene mutation induces a conformational change in the structure of AAT protein → dysfunctional (or absent) AAT
+	- Effect on the liver: accumulation of AAT in hepatocellular [[USMLE/Biochemistry/Endoplasmic reticulum\|endoplasmic reticulum]] → hepatocyte destruction → hepatitis and liver [[USMLE/GI/Cirrhosis\|cirrhosis]]
+	- Effect on the lungs: deficient AAT → uninhibited neutrophil elastase activity → destruction of the pulmonary parenchyma → [[USMLE/Respiratory/Chronic obstructive pulmonary disease\|panacinar emphysema]]
 
 ---
 # Clinical features
@@ -65,4 +65,3 @@ mutations in SERPINA1 gene
 
 
 ---
-

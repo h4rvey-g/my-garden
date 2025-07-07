@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/immune-thrombocytopenia/","title":"Immune thrombocytopenia (ITP)"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Immune thrombocytopenia/","title":"Immune thrombocytopenia (ITP)"}
 ---
 
 
@@ -29,9 +29,8 @@
 
 <mark style="background: #BBFABBA6;">The acute form is typically seen in children after a viral disease.</span>
 # Pathophysiology
-Antiplatelet antibodies (mostly IgG directed against, e.g., GpIIb/IIIa, GpIb/IX) bind to surface proteins on platelets �?<span style="background:rgba(240, 200, 0, 0.2)">sequestration by spleen and liver</span> �?�?platelet count �?bone marrow megakaryocytes and platelet production increase in response (in most cases).
+Antiplatelet antibodies (mostly IgG directed against, e.g., GpIIb/IIIa, GpIb/IX) bind to surface proteins on platelets → <span style="background:rgba(240, 200, 0, 0.2)">sequestration by spleen and liver</span> → ↓ platelet count → bone marrow megakaryocytes and platelet production increase in response (in most cases).
 # Clinical features
 - Mostly asymptomatic.<span style="background:rgba(240, 200, 0, 0.2)"> [[USMLE/Blood/Splenomegaly\|Splenomegaly]] is very unusual in ITP and makes other diagnoses more likely! </span>
 	- Although platelets can undergo splenic sequestration in ITP, <span style="background:rgba(240, 200, 0, 0.2)">the primary mechanism responsible for the thrombocytopenia is immune destruction.</span>
-
 

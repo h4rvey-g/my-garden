@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/coronary-artery-bypass-grafting/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Coronary artery bypass grafting/"}
 ---
 
 - Types of grafts
@@ -10,4 +10,3 @@
 		- Radial artery: performance modified Allen test before CABG
 	- Venous graft (aortocoronary saphenous vein bypass, or ACVB)
 		- <span style="background:rgba(240, 200, 0, 0.2)">Great saphenous vein</span> (first choice in vein bypass grafts because of good surgical access to the long, superficial leg vein with suitable vessel cross-section)
-

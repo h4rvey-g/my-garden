@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/anemia/","title":"Anemia"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Anemia/","title":"Anemia"}
 ---
 
 # Classification
@@ -57,4 +57,3 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Flow murmur</span>
 	- Pulsatile sound in the ear
 	- <span style="background:rgba(240, 200, 0, 0.2)">Possibly [[USMLE/Cardiology/Heart failure\|heart failure]] (anemia-induced [[USMLE/Cardiology/Heart failure\|heart failure]])</span>
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/adrenoleukodystrophy/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Adrenoleukodystrophy/"}
 ---
 
 - Definition: a rare X-linked neurological disease usually seen in young men
@@ -22,6 +22,5 @@
 	- Death
 - Diagnostics
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased concentration of VLCFA in plasma</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased adrenal function (�?ACTH and �?cortisol)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Decreased adrenal function (↑ ACTH and ↓ cortisol)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Brain MRI: occipitoparietal white matter demyelination</span>
-

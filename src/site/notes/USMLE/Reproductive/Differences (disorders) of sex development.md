@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/differences-disorders-of-sex-development/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Differences (disorders) of sex development/"}
 ---
 
 # Buzzwords
@@ -18,7 +18,7 @@
     
     - **46,XX:** Ambiguous genitalia (virilization).
     - **Both:** Salt-wasting (hypotension, ↓Na+, ↑K+), precocious puberty.
-    - **Buzzword Lab:** **�?17-hydroxyprogesterone**.
+    - **Buzzword Lab:** **↑ 17-hydroxyprogesterone**.
 - **Swyer Syndrome (46,XY Gonadal Dysgenesis):** Phenotypic female, **has a uterus**, "streak gonads" (must be removed), no puberty (no breasts/menses).
     
 - **Kallmann Syndrome:** **Anosmia** (can't smell) + hypogonadism (delayed puberty); ↓GnRH, ↓FSH, ↓LH.
@@ -29,7 +29,7 @@
 | --------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Karyotype             | 46,XX                                                                                        | 46,XY                                                                                                                 | 46,XY                                                                                                                    |
 | Pathogenesis          | <span style="background:rgba(240, 200, 0, 0.2)">Absent or hypoplastic müllerian ducts</span> | <span style="background:rgba(240, 200, 0, 0.2)">Androgen resistance due to X-linked androgen receptor mutation</span> | <span style="background:rgba(240, 200, 0, 0.2)">Deficient conversion of testosterone to dihydrotestosterone (DHT)</span> |
-| Hormone levels        | Normal estrogen & testosterone                                                               | <span style="background:rgba(240, 200, 0, 0.2)">�?Testosterone & estrogen (aromatization)</span>                      | �?Testosterone, <span style="background:rgba(240, 200, 0, 0.2)">�?DHT</span>                                             |
+| Hormone levels        | Normal estrogen & testosterone                                                               | <span style="background:rgba(240, 200, 0, 0.2)">↑ Testosterone & estrogen (aromatization)</span>                      | ↑ Testosterone, <span style="background:rgba(240, 200, 0, 0.2)">↓ DHT</span>                                             |
 | Internal Sex Organs	  | No Uterus/Upper Vagina; Ovaries present                                                      | No Uterus/Upper Vagina; Testes present                                                                                | Testes present; <span style="background:rgba(240, 200, 0, 0.2)">Male ducts (Wolffian)</span>                             |
 | External genitalia    | Normal female                                                                                | Normal female                                                                                                         | Often ambiguous at birth, <span style="background:rgba(240, 200, 0, 0.2)">virilizes at puberty</span>                    |
 | Breasts               | Normal                                                                                       | Normal                                                                                                                | <span style="background:rgba(240, 200, 0, 0.2)">Minimal to absent</span><br>(Testosterone is enough to suppress breast)  |
@@ -37,7 +37,7 @@
 | Wolffian structures   | Absent                                                                                       | Absent                                                                                                                | Partial development                                                                                                      |
 | Gender identity       | Female                                                                                       | Usually female                                                                                                        | May change to male at puberty                                                                                            |
 | Timing of diagnosis   | Usually at adolescence (primary amenorrhea)                                                  | May be diagnosed at birth, puberty, or adulthood                                                                      | Often at birth (ambiguous genitalia) or puberty                                                                          |
-| Risk of malignancy    | No increased risk                                                                            | �?Risk of gonadal tumors after puberty                                                                                | �?Risk of gonadal tumors                                                                                                 |
+| Risk of malignancy    | No increased risk                                                                            | ↑ Risk of gonadal tumors after puberty                                                                                | ↑ Risk of gonadal tumors                                                                                                 |
 
 
 ![L19580.jpg](/img/user/appendix/L19580.jpg)
@@ -54,9 +54,9 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">47,XXY</span> (rarely 48,XXXY or 48,XXYY)
 	- Presence of a Barr body (inactivated X chromosome)
 - <span style="background:rgba(240, 200, 0, 0.2)">Testicular dysgenesis</span> leads to:
-	- <span style="background:rgba(240, 200, 0, 0.2)">Seminiferous tubules dysgenesis �?loss of Sertoli cells �?�?inhibin B �?�?FSH</span>
-	- Leydig cell dysfunction �?�?testosterone �?�?LH
-- Both �?LH and �?FSH lead to <span style="background:rgba(240, 200, 0, 0.2)">increased conversion of testosterone to estrogen.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Seminiferous tubules dysgenesis → loss of Sertoli cells → ↓ inhibin B → ↑ FSH</span>
+	- Leydig cell dysfunction → ↓ testosterone → ↑ LH
+- Both ↑ LH and ↑ FSH lead to <span style="background:rgba(240, 200, 0, 0.2)">increased conversion of testosterone to estrogen.</span>
 
 ## Clinical features
 ![Pasted image 20240207164358.png](/img/user/appendix/Pasted%20image%2020240207164358.png)
@@ -73,12 +73,12 @@
 # Turner syndrome
 ---
 ## Pathophysiology
- - Chromosomal nondisjunction �?<span style="background:rgba(240, 200, 0, 0.2)">chromosome X</span> monosomy/mosaicism �?<span style="background:rgba(240, 200, 0, 0.2)">impaired ovarian development �?malfunctioning streak gonads with connective tissue instead of normal germ cells �?[[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] and progesterone deficiencies</span>
+ - Chromosomal nondisjunction → <span style="background:rgba(240, 200, 0, 0.2)">chromosome X</span> monosomy/mosaicism → <span style="background:rgba(240, 200, 0, 0.2)">impaired ovarian development → malfunctioning streak gonads with connective tissue instead of normal germ cells → [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] and progesterone deficiencies</span>
 	 - The <span style="background:rgba(240, 200, 0, 0.2)">absence of a second X chromosome disrupts X-linked survival signals, causing primordial germ cells to undergo accelerated apoptosis, leading to near-total germ cell loss by birth. Without germ cells, ovarian structures (e.g., follicles) fail to develop, and regressing gonadal ridges are replaced by fibrous connective tissue</span>, forming non-functional streak gonads.
 - Karyotype
-	- Meiotic nondisjunction (most often in paternal gametes) �?complete sex chromosomal monosomy (<span style="background:rgba(240, 200, 0, 0.2)">45,XO</span>; no Barr body)
+	- Meiotic nondisjunction (most often in paternal gametes) → complete sex chromosomal monosomy (<span style="background:rgba(240, 200, 0, 0.2)">45,XO</span>; no Barr body)
 		- Barr body: The inactive X chromosome present in all female somatic cells. Appears as a small, dark-staining spot at the periphery of the nucleus. Consists of tightly-packed, transcriptionally-inactive, heterochromatin.
-	- Mitotic nondisjunction of an embryonic cell �?<span style="background:rgba(240, 200, 0, 0.2)">sex chromosomal mosaicism (45,XO/46,XX)</span> �?mild phenotypic expression
+	- Mitotic nondisjunction of an embryonic cell → <span style="background:rgba(240, 200, 0, 0.2)">sex chromosomal mosaicism (45,XO/46,XX)</span> → mild phenotypic expression
 
 ## Clinical features
 ![Pasted image 20240129204537.png](/img/user/appendix/Pasted%20image%2020240129204537.png)
@@ -119,8 +119,8 @@
 [[USMLE/Reproductive/Hypogonadism\|Hypogonadotropic hypogonadism]] with hyposmia/anosmia
 
 ## Pathophysiology
-- Defective migration of GnRH-releasing neurons from the olfactory bulbs to the hypothalamic preoptic nuclei �?<span style="background:rgba(240, 200, 0, 0.2)">�?GnRH secretion</span> and underdevelopment of the olfactory bulbs
-- �?GnRH �?�?pituitary secretion of FSH and LH �?�?testosterone in male individuals and �?estrogen in female individuals
+- Defective migration of GnRH-releasing neurons from the olfactory bulbs to the hypothalamic preoptic nuclei → <span style="background:rgba(240, 200, 0, 0.2)">↓ GnRH secretion</span> and underdevelopment of the olfactory bulbs
+- ↓ GnRH → ↓ pituitary secretion of FSH and LH → ↓ testosterone in male individuals and ↓ estrogen in female individuals
 
 ## Clinical features
 ![L18599.jpg](/img/user/appendix/L18599.jpg)
@@ -136,8 +136,8 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">Estrogen, which is derived by aromatization of testosterone, may be normal or elevated.</span>
 - Diagnostics
 	- Clinical presentation
-	- <span style="background:rgba(240, 200, 0, 0.2)">Before puberty: �?testosterone</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">After puberty: �?LH, �?estrogen, and normal/�?testosterone levels (no virilization)</span> 
+	- <span style="background:rgba(240, 200, 0, 0.2)">Before puberty: ↑ testosterone</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">After puberty: ↑ LH, ↑ estrogen, and normal/↑ testosterone levels (no virilization)</span> 
 	- Genetic testing
 # SRY Gene Translocation
 ---

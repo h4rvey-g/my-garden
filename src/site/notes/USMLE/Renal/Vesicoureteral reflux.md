@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/renal/vesicoureteral-reflux/"}
+{"dg-publish":true,"permalink":"/USMLE/Renal/Vesicoureteral reflux/"}
 ---
 
 # Epidemiology
@@ -8,9 +8,9 @@
 ---
 # Etiology
 ## Primary VUR (most common type)
-<span style="background:rgba(240, 200, 0, 0.2)">Short intramural ureter</span> �?vesicoureteric junction (VUJ) fails to close completely during bladder contraction �?VUR![highresdefault_L87924.jpg](/img/user/appendix/highresdefault_L87924.jpg)
+<span style="background:rgba(240, 200, 0, 0.2)">Short intramural ureter</span> → vesicoureteric junction (VUJ) fails to close completely during bladder contraction → VUR![highresdefault_L87924.jpg](/img/user/appendix/highresdefault_L87924.jpg)
 ## Secondary VUR
-- Bladder outlet obstruction (anatomic/functional): high pressure within the bladder �?reflux of urine through the VUJ![Pasted image 20230823172334.png](/img/user/appendix/Pasted%20image%2020230823172334.png)
+- Bladder outlet obstruction (anatomic/functional): high pressure within the bladder → reflux of urine through the VUJ![Pasted image 20230823172334.png](/img/user/appendix/Pasted%20image%2020230823172334.png)
 - Anatomic: [[USMLE/Renal/Posterior urethral valves\|posterior urethral valves]] ; urethral meatal stenosis
 
 ---
@@ -38,4 +38,3 @@
 <span style="background:rgba(240, 200, 0, 0.2)">Spontaneous resolution occurs in most patients with mild VUR, because the intravesical ureter length increases with patient growth.</span>
 
 ---
-

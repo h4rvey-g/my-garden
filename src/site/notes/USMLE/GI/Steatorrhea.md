@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/GI/Steatorrhea/"}
+---
+
+# Etiology
+1. <span style="background:rgba(240, 200, 0, 0.2)">_Conditions leading to exocrine pancreatic insufficiency (EPI)_</span> due to [[USMLE/GI/Chronic pancreatitis\|chronic pancreatitis]], [[USMLE/Biochemistry/Cystic fibrosis\|cystic fibrosis]], and conditions resulting in pancreatic duct obstruction or resection of the pancreas (e.g., pancreatic tumors), and conditions leading to inactivation of lipase ([[USMLE/GI/Gastrinoma\|Zollinger-Ellison syndrome]])
+2. <span style="background:rgba(240, 200, 0, 0.2)">_Bile acid deficiency_ </span>either due to cholestasis e.g. [[USMLE/GI/Primary biliary cholangitis\|primary biliary cirrhosis]], currently referred to as [[USMLE/GI/Primary biliary cholangitis\|primary biliary cholangitis]] (PBC), [[USMLE/GI/Primary sclerosing cholangitis\|primary sclerosing cholangitis]] ([[USMLE/GI/Primary sclerosing cholangitis\|PSC]]), or inability to absorb bile acids in the distal ileum resulting in diminished bile acid pool e.g. ileal resection or [[USMLE/GI/Crohn disease\|Crohn disease]] of the ileum or deconjugation of bile acids e.g., small intestinal bacterial overgrowth ([[USMLE/GI/Small intestinal bacterial overgrowth\|SIBO]])
+3. <span style="background:rgba(240, 200, 0, 0.2)">_Diseases affecting proximal small intestines_ </span>such as [[USMLE/GI/Celiac disease\|celiac disease]], tropical sprue, giardiasis, [[USMLE/GI/Whipple disease\|Whipple disease]], lymphoma, [[USMLE/Pathology/Amyloidosis\|amyloidosis]], [[USMLE/GI/Small intestinal bacterial overgrowth\|SIBO]], and HIV enteropathy

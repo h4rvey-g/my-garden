@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/pancytopenia/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Pancytopenia/"}
 ---
 
 # Etiology
@@ -16,4 +16,3 @@
 - Mature blood cell destruction
 	- Intravascular (eg, DIC, [[USMLE/Blood/Thrombotic thrombocytopenic purpura\|TTP]])
 	- Extravascular (eg, hypersplenism)
-

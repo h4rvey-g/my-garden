@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/pulmonary-edema/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Pulmonary edema/"}
 ---
 
 # Epidemiology
@@ -34,4 +34,3 @@ An accumulation of <span style="background:rgba(240, 200, 0, 0.2)">protein-rich 
 # Treatment
 ---
 <% tp.file.cursor() %>
-

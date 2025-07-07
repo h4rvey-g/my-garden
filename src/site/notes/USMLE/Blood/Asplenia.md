@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/asplenia/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Asplenia/"}
 ---
 
 # Infection in asplenic patients
@@ -19,4 +19,3 @@ Increased risk of fulminant and life-threatening infections and sepsis for up to
 >- [[USMLE/Blood/Sickle cell disease\|Sickle cell anemia]]
 >- C3 deficiency
 - Clinical features: initially flu-like symptoms, followed by rapid deterioration within hours with fever, severe malaise, signs of sepsis, and [[USMLE/Infective disease/Meningitis\|meningitis]]
-

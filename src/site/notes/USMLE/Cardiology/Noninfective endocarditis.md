@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Noninfective endocarditis/"}
+---
+
+- Description
+	- Rare, noninfective form of endocarditis due to <span style="background:rgba(240, 200, 0, 0.2)">sterile platelet thrombus formation</span> on the heart valves (<span style="background:rgba(240, 200, 0, 0.2)">usually mitral and aortic valves</span>)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Libman-Sacks endocarditis: a type of noninfective endocarditis with verrucous vegetations in individuals with [[USMLE/Immunology/Systemic lupus erythematosus\|systemic lupus erythematosus]] or [[USMLE/MSK/Antiphospholipid syndrome\|antiphospholipid syndrome]]</span>
+- Etiology
+	- Malignancy (e.g., pancreatic adenocarcinoma)
+	- Hypercoagulable states
+	- Underlying trauma (e.g., from indwelling vascular catheters)
+	- Previous [[USMLE/Cardiology/Acute rheumatic fever\|rheumatic fever]]
+	- Autoimmune conditions (e.g., [[USMLE/Immunology/Systemic lupus erythematosus\|systemic lupus erythematosus]], [[USMLE/MSK/Rheumatoid arthritis\|rheumatoid arthritis]], [[USMLE/MSK/Antiphospholipid syndrome\|antiphospholipid syndrome]]) 
+	- Chronic infections (e.g., TB, [[USMLE/Respiratory/Pneumonia\|pneumonia]], osteomyelitis)
+- Clinical features
+	- Valves and cardiac function are rarely impaired.
+	- Compared to [[USMLE/Cardiology/Infective endocarditis\|Infective endocarditis]], vegetations are <span style="background:rgba(240, 200, 0, 0.2)">easily dislodged and embolization is common</span>, leading to hemorrhages under the nails, skin, and retina
+	- Most affected individuals are asymptomatic until embolization occurs.
+- Diagnostics
+	- <span style="background:rgba(240, 200, 0, 0.2)">Negative blood cultures</span>
+	- Biopsy: sterile vegetations on either surface of the valve composed of immune complexes, mononuclear cells, and thrombi interwoven with fibrin strands

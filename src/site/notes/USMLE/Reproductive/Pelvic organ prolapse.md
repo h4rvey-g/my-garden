@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/pelvic-organ-prolapse/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Pelvic organ prolapse/"}
 ---
 
 # Epidemiology
@@ -26,7 +26,7 @@
 
 ---
 # Clinical features
-- <span style="background:rgba(240, 200, 0, 0.2)">Feeling of pressure on or discomfort around the perineum (“sensation of vaginal fullness�?</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Feeling of pressure on or discomfort around the perineum (“sensation of vaginal fullness”)</span>
 - Lower back and pelvic pain (may become worse with prolonged standing or walking)
 - <span style="background:rgba(240, 200, 0, 0.2)">Rectal fullness, constipation, incomplete rectal emptying</span>
 - Prolapse of the anterior (most common) or the posterior vaginal wall
@@ -41,4 +41,3 @@
 
 
 ---
-

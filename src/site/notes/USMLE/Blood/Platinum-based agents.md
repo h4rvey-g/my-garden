@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/platinum-based-agents/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Platinum-based agents/"}
 ---
 
 # Agents
@@ -7,7 +7,7 @@
 - Carboplatin
 - Oxaliplatin
 # Mechanism
-Cross-links between DNA strands �?�?DNA replication
+Cross-links between DNA strands → ↓ DNA replication
 # Indications
 - Lymphomas
 - Solid tumors
@@ -17,4 +17,3 @@ Cross-links between DNA strands �?�?DNA replication
 - Nephrotoxicity (may manifest as [[USMLE/Renal/Proximal renal tubular acidosis (type 2)\|Fanconi syndrome]])
 - Neurotoxicity (including peripheral neuropathies)
 - Ototoxicity 
-

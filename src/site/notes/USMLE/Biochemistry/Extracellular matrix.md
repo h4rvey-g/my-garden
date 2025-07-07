@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/extracellular-matrix/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Extracellular matrix/"}
 ---
 
 # Extracellular matrix fibers (connective tissue fibers)
@@ -9,7 +9,7 @@ Collagen fibers, Reticular fibers, and Elastic fibers
 ---
 ### Structure
 - A collagen molecule is a protein with a <span style="background:rgba(240, 200, 0, 0.2)">repeating amino acid sequence (Gly-X-Y)<sub>n</sub>.</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">The first amino acid of this triplet is glycine (collagen is comprised of �?glycine).</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">The first amino acid of this triplet is glycine (collagen is comprised of ⅓ glycine).</span>
 	- Position X: most commonly <span style="background:rgba(240, 200, 0, 0.2)">proline</span> (also common: lysine, hydroxylysine)
 	- Position Y: most commonly <span style="background:rgba(240, 200, 0, 0.2)">hydroxyproline</span> (also common: hydroxylysine, lysine)
 ### Types
@@ -49,12 +49,12 @@ See [[USMLE/MSK/Osteogenesis imperfecta\|Osteogenesis imperfecta]]
 ---
 - Definition: proteins with numerous covalently linked GAG side chains 
 - Function
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bind H2O �?shock absorption and a supportive function (e.g., in cartilage �?resistance to compression of articular cartilage)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bind H2O → shock absorption and a supportive function (e.g., in cartilage → resistance to compression of articular cartilage)</span>
 	- Formation of cell-cell junction or cell-matrix junction 
 	- Further signaling and regulatory functions (e.g., by binding signaling molecules)
 - Examples
-	- Aggrecan: large proteoglycan found in cartilage as an aggregate with hyaluronic acid �?shock absorption withstands compression
-	- Decorin: small proteoglycan that binds collagen fibrils �?regulates fibril assembly
+	- Aggrecan: large proteoglycan found in cartilage as an aggregate with hyaluronic acid → shock absorption withstands compression
+	- Decorin: small proteoglycan that binds collagen fibrils → regulates fibril assembly
 # Glycoproteins of the ECM
 ---
 - Definition: proteins with short carbohydrate side chains that contribute to the organization of the extracellular matrix by <span style="background:rgba(240, 200, 0, 0.2)">offering specific binding sites</span> for cells and other matrix molecules
@@ -65,4 +65,3 @@ See [[USMLE/MSK/Osteogenesis imperfecta\|Osteogenesis imperfecta]]
 	- Laminin
 		- Major component and organizer of the basal lamina (besides type IV collagen)
 		- Function: binds to collagens, integrins, and proteoglycans
-

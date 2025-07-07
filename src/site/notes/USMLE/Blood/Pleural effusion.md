@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/pleural-effusion/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Pleural effusion/"}
 ---
 
 # Etiology
@@ -37,4 +37,3 @@ Satisfying any ONE criterium means it is exudative:
 - <span style="background:rgba(240, 200, 0, 0.2)">Accumulation of pus in the pleural cavity</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Exudative effusion (bacterial colonization)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Differ from uncomplicated parapneumonic effusion, which is just exudative effusion (without direct bacterial invasion)</span>
-

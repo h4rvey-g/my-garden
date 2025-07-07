@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/arsenic-toxicity/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Arsenic toxicity/"}
 ---
 
 - Sources of exposure: metal smelting, <span style="background:rgba(240, 200, 0, 0.2)">pesticides</span>, herbicides
@@ -15,10 +15,9 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">CNS (coma, seizures)</span>
 	- Chronic toxicity
 		- Carcinogenic
-		- Arsenical keratosis: hyperkeratosis (especially on the soles and palms) �?risk of developing squamous cell carcinoma) 
+		- Arsenical keratosis: hyperkeratosis (especially on the soles and palms) → risk of developing squamous cell carcinoma) 
 		- White bands across the nails (Mees lines)
 - Treatment
 	- Consider gastric lavage, activated carbon in acute toxicity 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dimercaprol, succimer (in children)</span>
 		- Chelating agents used to treat metal toxicity
-

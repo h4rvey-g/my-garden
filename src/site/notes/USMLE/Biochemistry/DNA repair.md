@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/dna-repair/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/DNA repair/","tags":["t1"]}
 ---
 
 # Single strand
@@ -11,15 +11,15 @@
 	- DNA polymerase and ligase fill and reseal the gap, respectively.
 	- Repairs bulky helix-distorting lesions (e.g., pyrimidine dimers).
 - **When:**
-	- Occurs in G�?phase of cell cycle.
+	- Occurs in G₁ phase of cell cycle.
 - **Clinical relevance:**
 	- Defective in [[USMLE/MSK/Xeroderma pigmentosum\|xeroderma pigmentosum]] (inability to repair DNA pyrimidine dimers caused by UV exposure).
 	- Presents with dry skin, photosensitivity, skin cancer.
 ## Base excision repair
 - **Mechanism:**
 	- Base-specific <span style="background:rgba(240, 200, 0, 0.2)">Glycosylase</span> removes altered base and creates AP (apurinic/apyrimidinic) site.
-	- AP-Endonuclease cleaves 5�?end, removing one or more nucleotides.
-	- AP-Lyase cleaves 3�?end.
+	- AP-Endonuclease cleaves 5′ end, removing one or more nucleotides.
+	- AP-Lyase cleaves 3′ end.
 	- DNA Polymerase-β fills the gap.
 	- DNA ligase seals it.
 - **Mnemonic:**
@@ -35,4 +35,3 @@
 	- Occurs predominantly in S phase of cell cycle.
 - **Clinical relevance:**
 	- Defective in [[USMLE/GI/Lynch syndrome\|Lynch syndrome]].
-

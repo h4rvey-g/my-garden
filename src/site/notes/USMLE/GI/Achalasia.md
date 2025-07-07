@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/achalasia/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Achalasia/"}
 ---
 
 # Epidemiology
@@ -12,7 +12,7 @@
 
 # Pathophysiology
 ---
-- Atrophy of inhibitory neurons in the Auerbach plexus �?lack of inhibitory neurotransmitters (e.g., NO, VIP) �?inability to relax and increased resting pressure of the LES, as well as dysfunctional peristalsis �?<span style="background:rgba(240, 200, 0, 0.2)">esophageal dilation proximal to LES</span>
+- Atrophy of inhibitory neurons in the Auerbach plexus → lack of inhibitory neurotransmitters (e.g., NO, VIP) → inability to relax and increased resting pressure of the LES, as well as dysfunctional peristalsis → <span style="background:rgba(240, 200, 0, 0.2)">esophageal dilation proximal to LES</span>
 
 # Clinical features
 ---
@@ -27,5 +27,4 @@
 
 # Treatment
 ---
-
 

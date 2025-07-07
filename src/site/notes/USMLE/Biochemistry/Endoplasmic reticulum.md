@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/endoplasmic-reticulum/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Endoplasmic reticulum/","tags":["t1"]}
 ---
 
 - **Smooth Endoplasmic Reticulum (SER)**
@@ -11,4 +11,3 @@
 	- Characterized by numerous <span style="background:rgba(240, 200, 0, 0.2)">ribosomes</span> on its outer membrane
 	- <span style="background:rgba(240, 200, 0, 0.2)">They synthesize secretory proteins</span>, the integral membrane <span style="background:rgba(240, 200, 0, 0.2)">proteins of the nucleus and cell membrane</span>, and proteins within the ER, <span style="background:rgba(240, 200, 0, 0.2)">Golgi network, and lysosomes</span>.
 - **Free ribosomes** remain floating in the cytosol throughout protein synthesis.  They are responsible for translating <span style="background:rgba(240, 200, 0, 0.2)">proteins found within the cytosol</span>, nucleosol, peroxisome matrix, and nuclear-encoded mitochondrial proteins 
-

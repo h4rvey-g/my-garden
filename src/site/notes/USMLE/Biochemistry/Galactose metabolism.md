@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/galactose-metabolism/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Galactose metabolism/"}
 ---
 
 # Galactokinase (GALK) deficiency
@@ -14,4 +14,3 @@ Serious systemic manifestations are typically not seen in GALK deficiency, and <
 
 
 ![Pasted image 20231204110400.png](/img/user/appendix/Pasted%20image%2020231204110400.png)
-

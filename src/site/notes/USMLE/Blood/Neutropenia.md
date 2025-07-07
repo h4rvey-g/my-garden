@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/neutropenia/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Neutropenia/"}
 ---
 
 # Etiology
@@ -25,4 +25,3 @@
 		- Acyclovir
 
 Drug-induced neutropenia most often presents with <span style="background:rgba(240, 200, 0, 0.2)">oropharyngeal ulcers and fever (ie, mucus membrane infection).</span> 
-

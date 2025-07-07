@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/cardiac-glycosides/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Cardiac glycosides/"}
 ---
 
 # Pharmacodynamics
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of Na<sup>+</sup>/K<sup>+</sup>-ATPase �?higher intracellular Na<sup>+</sup> concentration �?reduced efficacy of Na<sup>+</sup>/Ca<sup>2+</sup> exchangers �?higher intracellular Ca<sup>2+</sup> concentration</span>![L24819.jpg](/img/user/appendix/L24819.jpg)
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibition of Na<sup>+</sup>/K<sup>+</sup>-ATPase → higher intracellular Na<sup>+</sup> concentration → reduced efficacy of Na<sup>+</sup>/Ca<sup>2+</sup> exchangers → higher intracellular Ca<sup>2+</sup> concentration</span>![L24819.jpg](/img/user/appendix/L24819.jpg)
 	- In cardiomyocytes, this leads to increased contractility (positive inotropic effect), reduced velocity of electric conduction (negative dromotropic effect) via AV node depression, and a reduction of the heart rate (negative chronotropic effect) via SA node depression.
 	- In neurons of the vagal nerve, this leads to increased velocity of electric conduction, which causes reduced heart rate (via increased vagal tone and a reflexive reduction of sympathetic transmission).
 # Digoxin poisoning
@@ -28,5 +28,4 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">Blurred vision, halos, scotomas, diplopia</span>
 		- Photophobia
 		- <span style="background:rgba(240, 200, 0, 0.2)">Xanthopsia (yellow-tinted vision)</span>
-
 

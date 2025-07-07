@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/metabolic-fuel-use/","tags":["t3"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Metabolic fuel use/","tags":["t3"]}
 ---
 
 ![Pasted image 20250411113512.png](/img/user/appendix/Pasted%20image%2020250411113512.png)
@@ -17,11 +17,11 @@
 >- [[USMLE/Biochemistry/Ketone body synthesis\|ketone body]] metabolism: Ketone bodies are synthesized in liver, then transported in blood to other organs for ketogenolysis, to acetyl-CoA
 
 # Regulation by fructose-2,6-bisphosphate
-<span style="background:rgba(240, 200, 0, 0.2)">Main idea: Insulin & glucagon control PFK-2 & FBPase-2 �?control amount of F-2,6-BP �?direction towards gluconeogenesis or glycosis.</span>
+<span style="background:rgba(240, 200, 0, 0.2)">Main idea: Insulin & glucagon control PFK-2 & FBPase-2 → control amount of F-2,6-BP → direction towards gluconeogenesis or glycosis.</span>
 Fructose bisphosphatase-2 (FBPase-2) and phosphofructokinase-2 (PFK-2) are the same bifunctional enzyme whose function is reversed by phosphorylation by protein kinase A. 
 ![Pasted image 20250126202734.png](/img/user/appendix/Pasted%20image%2020250126202734.png)
-- **Fasting state:** �?glucagon �?�?cAMP �?�?protein kinase A �?�?FBPase-2, �?PFK-2, less [[USMLE/Biochemistry/Glycolysis\|glycolysis]], more [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]]. 
-- **Fed state:** �?insulin �?�?cAMP �?�?protein kinase A �?�?FBPase-2, �?PFK-2, more [[USMLE/Biochemistry/Glycolysis\|glycolysis]], less [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]]. 
+- **Fasting state:** ↑ glucagon → ↑ cAMP → ↑ protein kinase A → ↑ FBPase-2, ↓ PFK-2, less [[USMLE/Biochemistry/Glycolysis\|glycolysis]], more [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]]. 
+- **Fed state:** ↑ insulin → ↓ cAMP → ↓ protein kinase A → ↓ FBPase-2, ↑ PFK-2, more [[USMLE/Biochemistry/Glycolysis\|glycolysis]], less [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]]. 
 
 >[!Mnemonic] 
 ><font color="#ffc000">F</font>a<font color="#ffc000">B</font>ian the <font color="#ffc000">P</font>easant (<font color="#ffc000">FBP</font>) has to work hard when starving. 

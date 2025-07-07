@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/lipid-transport/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Lipid transport/"}
 ---
 
 See also [[USMLE/Cardiology/Lipid-lowering agents\|Lipid-lowering agents]]
@@ -99,4 +99,3 @@ Lipids are transported in the blood as lipoproteins, which consist of a lipid co
 ![Pasted image 20231012164231.png](/img/user/appendix/Pasted%20image%2020231012164231.png)
 ![Pasted image 20231012170344.png](/img/user/appendix/Pasted%20image%2020231012170344.png)
 ![Pasted image 20231012170358.png](/img/user/appendix/Pasted%20image%2020231012170358.png)
-

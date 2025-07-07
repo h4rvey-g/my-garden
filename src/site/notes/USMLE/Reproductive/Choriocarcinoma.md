@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Choriocarcinoma/"}
+---
+
+- Definition
+	- A highly malignant gestational trophoblastic disease characterized by invasive, highly vascular, and anaplastic trophoblastic tissue without villi.
+	- Has the tendency to metastasize to the lungs, vagina, CNS, liver, pelvis, GI tract, and kidneys
+- Etiology: Choriocarcinoma is preceded by: 
+	- [[USMLE/Reproductive/hydatidiform mole\|Hydatidiform mole]]
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Spontaneous abortion\|Spontaneous abortion]]</span> or [[USMLE/Reproductive/Ectopic pregnancy\|ectopic pregnancy]]
+- Pathophysiology
+	- Malignant transformation of cytotrophoblastic and syncytiotrophoblastic tissue
+	- Destructive growth into myometrium without chorionic villi → risk of hemorrhage and early metastasis (lung, vagina, brain, liver) 
+- Clinical features: depend on disease extension and metastases location
+	- <span style="background:rgba(240, 200, 0, 0.2)">Postpartum vaginal bleeding and inadequate uterine regression after delivery</span>
+	- Additional symptoms according to the site of metastasis e.g.:
+		- <span style="background:rgba(240, 200, 0, 0.2)">Dyspnea, cough, or hemoptysis from metastases in the lungs</span>
+		- [[USMLE/Neurology/Seizures and epilepsy\|Seizures]], [[USMLE/Neurology/Headaches\|headaches]] from metastases in the brain
+		- Visible vascular lesions from metastases to the vagina
+	- [[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]-mediated endocrine conditions (e.g., [[USMLE/Endocrine/Hyperthyroidism\|hyperthyroidism]], theca lutein cysts)
+- Diagnostics
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Human chorionic gonadotropin\|β-HCG]] levels: very high (initial test of choice)</span>
+	- Chest x-ray
+		- Asses for lung metastases 
+		- <span style="background:rgba(240, 200, 0, 0.2)">“Cannonball metastases” (hematogenous spread → multiple nodules in the lung)</span>![Pasted image 20240201104048.png](/img/user/appendix/Pasted%20image%2020240201104048.png)![Pasted image 20240201104054.png](/img/user/appendix/Pasted%20image%2020240201104054.png)

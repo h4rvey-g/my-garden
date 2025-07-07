@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/ec-gs/","title":"ECGs"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/ECGs/","title":"ECGs"}
 ---
 
 
@@ -15,7 +15,7 @@ The differential diagnosis of a regular narrow tachycardia in general includes 5
 ![Pasted image 20230623214843.png](/img/user/appendix/Pasted%20image%2020230623214843.png)
 # Whenever you see a negative P wave and QRS complex in lead I the likely diagnosis is limb [[lead reversal\|lead reversal]].
 # Multifocal atrial rhythm
-![Multifocal Atrial Tachycardia (MAT) �?At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
+![Multifocal Atrial Tachycardia (MAT) • At least 3 different ... | GrepMed](https://img.grepmed.com/uploads/5407/multifocal-tachycardia-ecg-cardiology-diagnosis-original.png)
 **Differentiate from <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/ectopic atrial rhythm\|ectopic atrial rhythm]]</span>.** In [[USMLE/Cardiology/ectopic atrial rhythm\|ectopic atrial rhythm]], the P-wave morphology remains consistent as the PACs originate from a single ectopic focus. In contrast, multifocal atrial rhythm shows varying P-wave morphologies from beat to beat, reflecting the random discharge of multiple ectopic atrial foci .
 #  Early repolarization
 ![Pasted image 20230617214946.png](/img/user/appendix/Pasted%20image%2020230617214946.png)
@@ -25,14 +25,14 @@ A premature atrial complex (PAC) is a <span style="background:rgba(240, 200, 0, 
 ![Pasted image 20230813210013.png](/img/user/appendix/Pasted%20image%2020230813210013.png)
 >[!tip] 
 >- Abnormal (non-sinus) P wave usually followed by a normal QRS complex (< 120 ms)
->	- PACs arising close to the AV node (“low atrial�?ectopics) cause <span style="background:rgba(240, 200, 0, 0.2)">retrograde activation</span> of the atria, producing an<span style="background:rgba(240, 200, 0, 0.2)"> inverted P wave</span> with a relatively short PR interval �?120 ms (PR interval < 120 ms is classified as a PJC)
->	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked�?or “camel hump�?appearance
->- Post-extrasystolic pauses may be present �?PACs that reach the SA node may depolarise it, causing the SA node to be “reset�? with a longer-than-normal interval before the next sinus beat arrives
+>	- PACs arising close to the AV node (“low atrial” ectopics) cause <span style="background:rgba(240, 200, 0, 0.2)">retrograde activation</span> of the atria, producing an<span style="background:rgba(240, 200, 0, 0.2)"> inverted P wave</span> with a relatively short PR interval ≥ 120 ms (PR interval < 120 ms is classified as a PJC)
+>	- The abnormal P wave may be hidden in the preceding T wave, producing a “peaked” or “camel hump” appearance
+>- Post-extrasystolic pauses may be present — PACs that reach the SA node may depolarise it, causing the SA node to be “reset”, with a longer-than-normal interval before the next sinus beat arrives
 >- PACs may also be conducted aberrantly (usually RBBB morphology), or not conducted at all. P waves will still be visible in both cases
 
 # Premature Ventricular Complex (PVC)
-- Broad QRS complex (�?120 ms) with abnormal morphology
-- Premature �?i.e. occurs earlier than would be expected for the next sinus impulse
+- Broad QRS complex (≥ 120 ms) with abnormal morphology
+- Premature — i.e. occurs earlier than would be expected for the next sinus impulse
 - Discordant ST segment and T wave changes.
 	-  ST segment and T wave are directed opposite to the main vector of the QRS complex
 - Usually followed by a full compensatory pause
@@ -55,16 +55,16 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 >- **Accelerated junctional rhythm** = junctional rhythm at 60-100 bpm
 >- **Junctional tachycardia** = junctional rhythm at > 100 bpm
 # [[USMLE/Cardiology/Hyperkalemia\|Hyperkalemia]]
-| 高钾血症：三低一�?| 低钾血症：三高一�?|
+| 高钾血症：三低一高 | 低钾血症：三高一低 |
 |:------------------:|:------------------:|
-|     兴奋↑（↓）     |       兴奋�?       |
-|       传导�?       |       传导�?       |
-|       自律�?       |       自律�?       |
-|       收缩�?       |     收缩↑（↓）     |
+|     兴奋↑（↓）     |       兴奋↑        |
+|       传导↓        |       传导↓        |
+|       自律↓        |       自律↑        |
+|       收缩↓        |     收缩↑（↓）     |
 
-- Mild [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]]: 5.5�?.4 mEq/L 
-    - <mark style="background: #FFF3A3A6;">Tall, peaked </span>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极�?期加速，反映�?期复极T波狭窄而高�?
-- Moderate [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]]: 6.5�?.0 mEq/L 
+- Mild [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]]: 5.5–6.4 mEq/L 
+    - <mark style="background: #FFF3A3A6;">Tall, peaked </span>[T waves](https://next.amboss.com/us/article/pl0LBT#Z59877cde7bf58740a01493e8f3817758) (膜对K<sup>+</sup>通透性增过，复极化3期加速，反映为3期复极T波狭窄而高耸)
+- Moderate [[USMLE/Cardiology/Hyperkalemia\|hyperkalemia]]: 6.5–8.0 mEq/L 
 	- <mark style="background: #FFF3A3A6;">Lengthening of QRS interval</span>
 		- because of conduction delay
     - Widening and flattening of [P wave](https://next.amboss.com/us/article/pl0LBT#Z322a8570694c6bce37349457185e57ec), which eventually disappears 
@@ -108,7 +108,7 @@ Under normal conditions, subsidiary pacemakers are suppressed by the more rapid 
 mnemonic: William Marrow
 ![Pasted image 20230622220505.png](/img/user/appendix/Pasted%20image%2020230622220505.png)
 In left bundle branch block
-- The R wave in the lateral leads may be either “M-shaped�? notched, monophasic, or an RS complex![Pasted image 20230803202721.png](/img/user/appendix/Pasted%20image%2020230803202721.png)
+- The R wave in the lateral leads may be either “M-shaped”, notched, monophasic, or an RS complex![Pasted image 20230803202721.png](/img/user/appendix/Pasted%20image%2020230803202721.png)
 In right bundle branch block, the right precordial leads will show <span style="background:rgba(240, 200, 0, 0.2)">ST-segment depression and T-wave inversion</span>. Similarly, in left bundle branch block, ST-segment depression and T-wave inversion can be seen in the left lateral leads.
 # [[USMLE/Cardiology/Mitral valve stenosis\|Mitral stenosis]]
 Characteristic findings include:
@@ -131,11 +131,11 @@ AIVR, also known as Accelerated Ventricular Rhythm, results when the <span style
 # STEMI
 ![Pasted image 20230623220754.png](/img/user/appendix/Pasted%20image%2020230623220754.png)
 Timeline of ECG changes in STEMI
-The sequence of ECG changes over several hours to days: hyperacute T wave �?ST elevation �?pathological Q wave �?T-wave inversion �?ST normalization �?T-wave normalization
+The sequence of ECG changes over several hours to days: hyperacute T wave → ST elevation → pathological Q wave → T-wave inversion → ST normalization → T-wave normalization
 ![Pasted image 20230628215011.png](/img/user/appendix/Pasted%20image%2020230628215011.png)
 ## Pathological Q wave
 Top: normal Q wave  
-Bottom: pathological Q wave with a duration �?.04 s and depth >¼ of R wave amplitude (red and green overlays)
+Bottom: pathological Q wave with a duration ≥0.04 s and depth >¼ of R wave amplitude (red and green overlays)
 ![Pasted image 20230628215219.png](/img/user/appendix/Pasted%20image%2020230628215219.png)
 ## Ventricular aneurysm
 The pattern of <span style="background:rgba(240, 200, 0, 0.2)">persistent anterior ST elevation (> 2 weeks after STEMI)</span> plus <span style="background:rgba(240, 200, 0, 0.2)">pathological Q waves</span> has a sensitivity of 38% and a specificity of 84% for the diagnosis of ventricular aneurysm.![Pasted image 20230827215152.png](/img/user/appendix/Pasted%20image%2020230827215152.png)
@@ -160,8 +160,8 @@ In [[USMLE/Cardiology/Supraventricular tachycardia\|AVNRT]], The <span style="ba
 
 ## ST segment
 Time: 0.05-0.15s = 1-3 small block
-Elevation: �?0.1 mV in a limb lead or �?0.2 mV in a precordial lead. 
-Depression: �?0.05 mV (or 0.5 mm) in leads V2 and V3 or �?0.1 mV in all other leads.
+Elevation: ≥ 0.1 mV in a limb lead or ≥ 0.2 mV in a precordial lead. 
+Depression: ≥ 0.05 mV (or 0.5 mm) in leads V2 and V3 or ≥ 0.1 mV in all other leads.
 - Downsloping ST depression or horizontal ST depression: Subendocardial myocardial ischemia, i.e., **NSTEMI**
 - Sagging type ST-segment depression: [[USMLE/Cardiology/Cardiac glycosides\|digoxin]]
 - Secondary repolarization abnormalities: Ventricular hypertrophy, LBBB
@@ -201,5 +201,4 @@ The QT interval includes the QRS complex, the ST segment, and the T wave.
 - [[USMLE/Cardiology/Atrial fibrillation\|Atrial fibrillation]]: 350-400/min -- less than 1 small block
 - Atrial tachycardia, [[USMLE/Cardiology/Supraventricular tachycardia\|AVNRT]]: 130-240 -- 1-2 small block
 - Ventricular tachycardia: >100 -- less than 3 small blocks
-
 

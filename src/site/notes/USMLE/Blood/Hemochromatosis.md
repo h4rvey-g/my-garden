@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/hemochromatosis/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Hemochromatosis/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -13,7 +13,7 @@
 
 ---
 # Pathophysiology
-HFE gene defect (homozygous) �?defective binding of transferrin to its receptor �?<span style="background:rgba(240, 200, 0, 0.2)">�?hepcidin synthesis by the liver �?unregulated ferroportin activity in enterocytes �?�?intestinal iron [[USMLE/GI/Absorption\|absorption]]</span> �?iron accumulation throughout the body �?damage to the affected organs![Pasted image 20231029090123.png](/img/user/appendix/Pasted%20image%2020231029090123.png)
+HFE gene defect (homozygous) → defective binding of transferrin to its receptor → <span style="background:rgba(240, 200, 0, 0.2)">↓ hepcidin synthesis by the liver → unregulated ferroportin activity in enterocytes → ↑ intestinal iron [[USMLE/GI/Absorption\|absorption]]</span> → iron accumulation throughout the body → damage to the affected organs![Pasted image 20231029090123.png](/img/user/appendix/Pasted%20image%2020231029090123.png)
 >[!tip] 
 >Don't mess up with [[USMLE/GI/Wilson disease\|Wilson disease]]
 >- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/Wilson disease\|Wilson disease]] is accumulation of copper, and has neurologic symptoms.</span>
@@ -21,7 +21,7 @@ HFE gene defect (homozygous) �?defective binding of transferrin to its recepto
 # Clinical features
 ---
 >[!tip] 
->Classic triad of [[USMLE/GI/Cirrhosis\|cirrhosis]], [[USMLE/Endocrine/Diabetes mellitus\|diabetes mellitus]], skin pigmentation (“bronze [[USMLE/Endocrine/Diabetes mellitus\|diabetes]]�?.
+>Classic triad of [[USMLE/GI/Cirrhosis\|cirrhosis]], [[USMLE/Endocrine/Diabetes mellitus\|diabetes mellitus]], skin pigmentation (“bronze [[USMLE/Endocrine/Diabetes mellitus\|diabetes]]”).
 
 - Liver
 	- Abdominal pain
@@ -64,4 +64,3 @@ HFE gene defect (homozygous) �?defective binding of transferrin to its recepto
 - <span style="background:rgba(240, 200, 0, 0.2)">Chelating agents: deferoxamine</span>
 
 ---
-

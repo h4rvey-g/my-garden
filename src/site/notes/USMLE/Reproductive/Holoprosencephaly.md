@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/holoprosencephaly/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Holoprosencephaly/"}
 ---
 
 Embryology
@@ -12,5 +12,4 @@ Clinical features
 	- Range from asymptomatic to seizures, severe intellectual disability, death
 - Midface abnormalities
 	- Range from mild hypotelorism and cleft lip/palate to cyclopia, primitive nose, facial cleft
-
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/immunology/immunoglobulins/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunoglobulins/","tags":["t1"]}
 ---
 
 B-lymphocytes rearrange their V, D, and J gene segments to create diverse antibodies. <span style="background:rgba(240, 200, 0, 0.2)">T-lymphocytes, however, only rearrange their T-cell receptor genes.</span> Consequently, in T-cells, the immunoglobulin genes remain in their original, unrearranged "germline" state.
@@ -37,6 +37,5 @@ B-lymphocytes rearrange their V, D, and J gene segments to create diverse antibo
 	- Activation of signaling pathways in the effector cell (e.g., NK cell), leading to cytotoxic granule release
 	- Destruction of the target cell (e.g., via the perforin/granzyme cell death pathway)
 - <span style="background:rgba(240, 200, 0, 0.2)">Clinical significance: monoclonal antibody therapy</span>
-
 
 

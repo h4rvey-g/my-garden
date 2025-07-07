@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/cervical-cancer/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Cervical cancer/"}
 ---
 
 # Epidemiology
@@ -60,7 +60,7 @@ The current standard for reporting cervical histopathology and cytopathology to 
 # Pathology
 - Invasive cervical carcinoma is characterized by invasion of the tumor beyond the basement membrane of the cervical epithelium.
 - <span style="background:rgba(240, 200, 0, 0.2)">HSIL and invasive cervical carcinoma most commonly arise from metaplastic squamous cell epithelium in the cervical transformation zone</span>
-## Squamous cell carcinoma (�?80% of cases)
+## Squamous cell carcinoma (∼ 80% of cases)
 - Subtypes include large cell keratinizing, large cell nonkeratinizing, and papillary squamous cell carcinoma.
 - Irregular cell morphology
 - Hyperchromatic cells with nonspherical nuclei, mitotic activity, and prominent nucleoli
@@ -71,4 +71,3 @@ The current standard for reporting cervical histopathology and cytopathology to 
 
 
 ---
-

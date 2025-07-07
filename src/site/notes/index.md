@@ -12,4 +12,3 @@ I am passionate about both medicine and bioinformatics. In this blog, I aim to s
 If you have any questions, comments, or suggestions, please feel free to reach out to me. You can contact me at howieguo8@outlook.com.
 
 Happy reading and learning!
-

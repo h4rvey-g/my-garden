@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/fibrocystic-breast-changes/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Fibrocystic breast changes/"}
 ---
 
 # Epidemiology
@@ -40,5 +40,4 @@
 
 # Treatment
 ---
-
 

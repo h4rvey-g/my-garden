@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/psychiatry/antidepressants/"}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Antidepressants/"}
 ---
 
 
@@ -24,7 +24,7 @@
 ---
 >[!warning] 
 >Don't use SSRI in [[USMLE/Psychiatry/Bipolar disorder\|Bipolar disorder]], as it can precipitate a manic episode!
-- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of [[USMLE/Neurology/Neurotransmitters\|serotonin]] reuptake in synaptic cleft �?�?serotonin levels</span>
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">inhibition of [[USMLE/Neurology/Neurotransmitters\|serotonin]] reuptake in synaptic cleft → ↑ serotonin levels</span>
 - Drugs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fluoxetine</span>
 	- Paroxetine
@@ -49,7 +49,7 @@
 		- [[USMLE/GI/Diarrhea\|Diarrhea]], nausea, vomiting 
 		- Activating effects (e.g., agitation, anxiety, [[USMLE/Psychiatry/Insomnia disorder\|insomnia]]) 
 	- Late side effects 
-		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Sexual dysfunction\|Sexual dysfunction]] (e.g., anorgasmia, �?libido, erectile or ejaculatory dysfunction)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Sexual dysfunction\|Sexual dysfunction]] (e.g., anorgasmia, ↓ libido, erectile or ejaculatory dysfunction)</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Most common</span>, can occur in more than 50% of patients.
 		- [[USMLE/Neurology/Syndrome of inappropriate antidiuretic hormone secretion\|SIADH]]
 		- [[USMLE/Neurology/Serotonin syndrome\|Serotonin syndrome]]
@@ -67,7 +67,7 @@
 - QT prolongation![Pasted image 20240325102934.png](/img/user/appendix/Pasted%20image%2020240325102934.png)
 # Serotonin-norepinephrine reuptake inhibitors (SNRIs)
 ---
-- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft �?<span style="background:rgba(240, 200, 0, 0.2)">�?serotonin and norepinephrine levels </span>
+- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → <span style="background:rgba(240, 200, 0, 0.2)">↑ serotonin and norepinephrine levels </span>
 - Drugs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Venlafaxine</span>
 	- Duloxetine
@@ -87,7 +87,7 @@
 ---
 - Mechanism of action 
 	- Block postsynaptic type 2 serotonin receptors (5-HT2) 
-	- Weak inhibition of serotonin reuptake �?�?serotonin levels
+	- Weak inhibition of serotonin reuptake → ↑ serotonin levels
 	- Antagonist of H1 (histamine) and α1-adrenergic receptors
 - Drugs
 	- Trazodone
@@ -106,19 +106,19 @@
 	- Two-week washout period before starting other serotonergic drugs
 
 >[!Mnemonic] 
->Think “tra<font color="#ffc000">Zzz</font>o<font color="#ffc000">BONE</font>�?to remember the adverse effects of <font color="#ffc000">sedation (Zzz...) and priapism</font>!
+>Think “tra<font color="#ffc000">Zzz</font>o<font color="#ffc000">BONE</font>” to remember the adverse effects of <font color="#ffc000">sedation (Zzz...) and priapism</font>!
 # Atypical antidepressants
 ---
 ## Mirtazapine
 - Mechanism of action 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Selective α2-adrenergic antagonist �?�?[[USMLE/Neurology/Neurotransmitters\|serotonin]] and norepinephrine release</span>
-	- 5-HT2 and [[USMLE/GI/Antiemetics\|5-HT3 receptor antagonists]] �?�?effect of serotonin on free 5-HT1 receptor is the likely cause of antidepressant action
+	- <span style="background:rgba(240, 200, 0, 0.2)">Selective α2-adrenergic antagonist → ↑ [[USMLE/Neurology/Neurotransmitters\|serotonin]] and norepinephrine release</span>
+	- 5-HT2 and [[USMLE/GI/Antiemetics\|5-HT3 receptor antagonists]] → ↑ effect of serotonin on free 5-HT1 receptor is the likely cause of antidepressant action
 	- H1 antagonist
 - Indications: [[USMLE/Psychiatry/Major depressive disorder\|major depressive disorder]], especially in patients who are underweight and/or who have [[USMLE/Psychiatry/Insomnia disorder\|insomnia]]
 - Side effects
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Appetite and weight gain</span>: can also be a desired effect
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Appetite and weight gain</span>: can also be a desired effect
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sedation (due to H1 antagonism)</span>: can also be a desired effect
-	- �?Serum cholesterol and triglyceride levels
+	- ↑ Serum cholesterol and triglyceride levels
 	- Minimal sexual side effects
 - Drug interactions: risk of [[USMLE/Neurology/Neurotransmitters\|serotonin]] syndrome if used concomitantly with other serotonergic drugs
 >[!Mnemonic] 
@@ -166,8 +166,8 @@
 # Monoamine oxidase inhibitors
 <span style="background:rgba(240, 200, 0, 0.2)">Most powerful among these drugs, also has worst adverse effects</span>
 - Mechanism of action 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Nonselective inhibition of monoamine oxidase �?�?breakdown of epinephrine, norepinephrine, serotonin, and dopamine �?�?levels of epinephrine, norepinephrine, serotonin, and dopamine</span>
-	- Selegiline: selective MAO-B inhibitor �?mainly �?breakdown of dopamine �?�?levels of dopamine
+	- <span style="background:rgba(240, 200, 0, 0.2)">Nonselective inhibition of monoamine oxidase → ↓ breakdown of epinephrine, norepinephrine, serotonin, and dopamine → ↑ levels of epinephrine, norepinephrine, serotonin, and dopamine</span>
+	- Selegiline: selective MAO-B inhibitor → mainly ↓ breakdown of dopamine → ↑ levels of dopamine
 
 >[!tip] 
 >Monoamines include dopamine, serotonin, and epinephrine.
@@ -196,7 +196,7 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Before starting new serotonergic drugs or ceasing dietary restrictions (e.g., foods containing tyramine), MAOI therapy has to be stopped for at least 2 weeks.</span>
 		- To wait for MAO is resynthesized to a level adequate for normal monoamine degradation
 # Tricyclic antidepressants (TCA)
-- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft �?�?serotonin and norepinephrine levels ![Pasted image 20240315204406.png](/img/user/appendix/Pasted%20image%2020240315204406.png)
+- Mechanism of action: inhibition of serotonin and norepinephrine reuptake in synaptic cleft → ↑ serotonin and norepinephrine levels ![Pasted image 20240315204406.png](/img/user/appendix/Pasted%20image%2020240315204406.png)
 - Drugs
 	- Secondary amines 
 		- Nortriptyline
@@ -232,5 +232,4 @@
 
 >[!Mnemonic] 
 >A sodium bi <font color="#ffc000">car</font> bonate can run over a <font color="#ffc000">tricycle </font>![Pasted image 20240315204252.png](/img/user/appendix/Pasted%20image%2020240315204252.png)
-
 

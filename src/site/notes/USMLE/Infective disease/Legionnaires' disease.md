@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/legionnaires-disease/","title":"Legionnaires' disease"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Legionnaires' disease/","title":"Legionnaires' disease"}
 ---
 
 
@@ -14,7 +14,7 @@
 	- Hospitals
 	- Confined travel accommodations (e.g., cruise ships, hotels, resorts)
 # Clinical features
-- Incubation period: 2�?0 days
+- Incubation period: 2–10 days
 - <span style="background:rgba(240, 200, 0, 0.2)">Fever >39 C (102.2 F)</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Bradycardia relative to high fever</span>
 - Severe atypical [[USMLE/Respiratory/Pneumonia\|pneumonia]]: dry cough which can become productive, shortness of breath, bilateral crackles
@@ -32,8 +32,7 @@
 - Microbiological studies
 	- Legionella culture (gold standard) 
 		- Requires buffered charcoal yeast extract agar with iron and cysteine 
-		- Slow (results typically after 3�? days)
+		- Slow (results typically after 3–5 days)
 	- Sample stains
 		- Gram stain of respiratory secretions typically shows many neutrophils but no organisms. 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Visualization of Legionella requires [[USMLE/Infective disease/Silver stain\|silver stain]].</span>
-

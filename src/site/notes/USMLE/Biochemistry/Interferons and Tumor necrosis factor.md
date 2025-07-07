@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/interferons-and-tumor-necrosis-factor/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Interferons and Tumor necrosis factor/"}
 ---
 
 >[!tip] 
@@ -99,4 +99,3 @@
     - Stimulation of [[USMLE/Pathology/Wound healing\|wound healing]]
 ### Therapeutic Significance:
 - TNF inhibitor [[USMLE/Immunology/Immunosuppressants\|etanercept]] can bind lymphotoxin-alpha
-

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/pharmacology/salicylate-poisoning/"}
+{"dg-publish":true,"permalink":"/USMLE/Pharmacology/Salicylate poisoning/"}
 ---
 
 Salicylate poisoning is a serious complication of aspirin overdose and is characterized by mixed respiratory alkalosis and increased anion gap metabolic acidosis.
 # Pathophysiology
 ---
-- Early mixed respiratory alkalosis �?�?anion gap metabolic acidosis
-	1. Salicylates directly stimulate the respiratory center of the brain �?<span style="background:rgba(240, 200, 0, 0.2)">hyperventilation</span> �?CO2 washout �?primary respiratory alkalosis
-	2. <span style="background:rgba(240, 200, 0, 0.2)">Disruption of mitochondrial oxidative phosphorylation</span> �?inhibition of [[USMLE/Biochemistry/TCA cycle\|TCA cycle]] and ATP production �?<span style="background:rgba(240, 200, 0, 0.2)">accumulation of lactic acid and ketones �?�?anion gap metabolic acidosis</span> 
-	3. Fatigue impairs the ability to compensate for acidosis (via hyperventilation) �?hemodynamic instability and end-organ damage
-- �?Pulmonary capillary permeability �?[[USMLE/Respiratory/Acute respiratory distress syndrome\|ARDS]] with [[USMLE/Reproductive/Pulmonary edema\|pulmonary edema]].
+- Early mixed respiratory alkalosis → ↑ anion gap metabolic acidosis
+	1. Salicylates directly stimulate the respiratory center of the brain → <span style="background:rgba(240, 200, 0, 0.2)">hyperventilation</span> → CO2 washout → primary respiratory alkalosis
+	2. <span style="background:rgba(240, 200, 0, 0.2)">Disruption of mitochondrial oxidative phosphorylation</span> → inhibition of [[USMLE/Biochemistry/TCA cycle\|TCA cycle]] and ATP production → <span style="background:rgba(240, 200, 0, 0.2)">accumulation of lactic acid and ketones → ↑ anion gap metabolic acidosis</span> 
+	3. Fatigue impairs the ability to compensate for acidosis (via hyperventilation) → hemodynamic instability and end-organ damage
+- ↑ Pulmonary capillary permeability → [[USMLE/Respiratory/Acute respiratory distress syndrome\|ARDS]] with [[USMLE/Reproductive/Pulmonary edema\|pulmonary edema]].
 
 # Clinical features
 ---
@@ -19,7 +19,7 @@ Salicylate poisoning is a serious complication of aspirin overdose and is charac
 # Diagnostics
 ---
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/usmle/pharmacology/acetaminophen-poisoning/#differential-diagnostics" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/USMLE/Pharmacology/Acetaminophen poisoning/#differential-diagnostics" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -42,4 +42,3 @@ Salicylate poisoning is a serious complication of aspirin overdose and is charac
 # Treatment
 ---
 <% tp.file.cursor() %>
-

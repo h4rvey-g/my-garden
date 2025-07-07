@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/supraventricular-tachycardia/","title":"Supraventricular tachycardia"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Supraventricular tachycardia/","title":"Supraventricular tachycardia"}
 ---
 
 # Clinical features
@@ -21,7 +21,7 @@ WPW syndrome is a specific form of pre-excitation syndrome characterized by a <s
 	- The Delta wave is a slurred upstroke in the QRS complex.![Pasted image 20230819222341.png](/img/user/appendix/Pasted%20image%2020230819222341.png)
 - QRS prolongation > 110ms
 - Discordant ST-segment and T-wave changes (i.e. in the opposite direction to the major component of the QRS complex)
-- Pseudo-infarction pattern in up to 70% of patients �?due to negatively deflected delta waves in inferior/anterior leads (“pseudo-Q waves�?, or prominent R waves in V1-3 (mimicking posterior infarction)![Pasted image 20230819222745.png](/img/user/appendix/Pasted%20image%2020230819222745.png)
+- Pseudo-infarction pattern in up to 70% of patients — due to negatively deflected delta waves in inferior/anterior leads (“pseudo-Q waves”), or prominent R waves in V1-3 (mimicking posterior infarction)![Pasted image 20230819222745.png](/img/user/appendix/Pasted%20image%2020230819222745.png)
 # AVNRT (Atrioventricular nodal reentrant tachycardia)
 P wave is typically not visible (it falls in or is "buried" in the QRS complex)![Pasted image 20240209152845.png](/img/user/appendix/Pasted%20image%2020240209152845.png)
 [[USMLE/Cardiology/Vagal maneuver\|Vagal maneuver]] is the first step to treat AVNRT.
@@ -32,4 +32,3 @@ P wave is typically not visible (it falls in or is "buried" in the QRS comple
 # SVT vs Sinus tachycardia
 The real difference is the rate, practically.
 SVT is generally 150 and above. Sinus tach is 100-150.
-

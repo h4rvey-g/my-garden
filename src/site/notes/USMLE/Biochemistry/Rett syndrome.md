@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/rett-syndrome/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Rett syndrome/","tags":["t1"]}
 ---
 
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">X-linked disorder with progressive loss of intelligence and cognitive abilities</span> such as language, locomotion, and fine motor skills 
@@ -12,7 +12,7 @@
 	- Mutation usually occurs in the paternal allele; thus, <span style="background:rgba(240, 200, 0, 0.2)">females are almost exclusively affected </span>
 	- If affected, <span style="background:rgba(240, 200, 0, 0.2)">male fetuses die in utero or shortly after birth.</span>
 - Clinical features
-	- <span style="background:rgba(240, 200, 0, 0.2)">Normal development until the first symptoms appear, which typically happens at 6�?8 months of age</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Normal development until the first symptoms appear, which typically happens at 6–18 months of age</span>
 	- Symptoms of neurodevelopmental regression, including:
 		- Loss of motor skills, especially targeted hand movements (affected children show characteristic <span style="background:rgba(240, 200, 0, 0.2)">hand wringing</span>)![Pasted image 20240505102026.png](/img/user/appendix/Pasted%20image%2020240505102026.png)
 		- Truncal ataxia, apraxia, choreatic movements
@@ -20,4 +20,3 @@
 		- [[USMLE/Neurology/Seizures and epilepsy\|Seizures]]
 		- Growth failure
 		- Scoliosis
-

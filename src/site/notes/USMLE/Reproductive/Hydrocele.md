@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/hydrocele/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Hydrocele/"}
 ---
 
 - Definition: painless accumulation of fluid in a sac around one or both testicles which derives from the tunica vaginalis, a tissue covering the testes
@@ -18,5 +18,4 @@
 - Clinical features
 	- Fluctuant, painless swelling of affected scrotum
 	- Positive transillumination 
-
 

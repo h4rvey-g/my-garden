@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/leishmaniasis/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Leishmaniasis/"}
 ---
 
 # Epidemiology
@@ -27,5 +27,4 @@
 
 # Treatment
 ---
-
 

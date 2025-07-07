@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/sick-sinus-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Sick sinus syndrome/"}
 ---
 
 # Epidemiology
@@ -28,5 +28,4 @@ Typical ECG findings include <span style="background:rgba(240, 200, 0, 0.2)">bra
 
 # Treatment
 ---
-
 

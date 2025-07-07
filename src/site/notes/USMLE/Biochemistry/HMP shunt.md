@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/hmp-shunt/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/HMP shunt/","tags":["t1"]}
 ---
 
 Goal
@@ -10,4 +10,3 @@ Goal
 
 ![Pasted image 20240223154508.png](/img/user/appendix/Pasted%20image%2020240223154508.png)![Pasted image 20250416101838.png](/img/user/appendix/Pasted%20image%2020250416101838.png)![Pasted image 20231117165259.png](/img/user/appendix/Pasted%20image%2020231117165259.png)
 ![Pasted image 20231117165248.png](/img/user/appendix/Pasted%20image%2020231117165248.png)
-

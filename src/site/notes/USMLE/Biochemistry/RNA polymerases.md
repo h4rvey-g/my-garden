@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/rna-polymerases/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/RNA polymerases/"}
 ---
 
 | Synthesizing Polymerase | Type of RNA Produced          | Function                                                         |
@@ -13,4 +13,3 @@
 
 >[!Mnemonic] 
 ><font color="#ffc000">I, II, and III</font> are numbered in the same order that their products are used in protein synthesis: <font color="#ffc000">rRNA, mRNA, then tRNA</font>.
-

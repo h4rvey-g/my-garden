@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/budd-chiari-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Budd-Chiari syndrome/"}
 ---
 
 # Epidemiology
@@ -32,4 +32,3 @@
 <% tp.file.cursor() %>
 
 ---
-

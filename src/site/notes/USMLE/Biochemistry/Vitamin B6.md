@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vitamin-b6/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vitamin B6/"}
 ---
 
 # Epidemiology
@@ -55,4 +55,3 @@ Active form: pyridoxal phosphate (PLP)
 
 
 ---
-

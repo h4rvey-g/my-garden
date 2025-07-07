@@ -1,6 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/common-note/"}
+{"dg-publish":true,"permalink":"/template/Common-note/"}
 ---
 
 <% tp.file.cursor() %>
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/aplastic-anemia/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Aplastic anemia/"}
 ---
 
 - Description
@@ -19,9 +19,9 @@
 		- Hereditary autosomal recessive disorder due to a <span style="background:rgba(240, 200, 0, 0.2)">DNA crosslink repair defect resulting in bone marrow failure</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Skeletal and organ abnormalities: short stature, hypo- and hyperpigmentation, cafe-au-lait spots, microcephaly, developmental delay, thumb and forearm malformations, kidney, GI, heart, eye, and ear abnormalities</span>
 		- Laboratory tests show <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Blood/Pancytopenia\|pancytopenia]] and normocytic or macrocytic anemia.</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">�?50% of patients with Fanconi anemia will develop [[USMLE/Blood/Acute leukemia\|acute myeloid leukemia]] or [[USMLE/Blood/Myelodysplastic syndromes\|myelodysplastic syndromes]] in early adulthood.</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">∼ 50% of patients with Fanconi anemia will develop [[USMLE/Blood/Acute leukemia\|acute myeloid leukemia]] or [[USMLE/Blood/Myelodysplastic syndromes\|myelodysplastic syndromes]] in early adulthood.</span>
 - Pathophysiology
-	- <span style="background:rgba(240, 200, 0, 0.2)">Multipotent hematopoietic stem cells are destroyed by cytotoxic T cells</span> or direct cytotoxic injury �?bone marrow aplasia/hypoplasia �?lack of circulating peripheral blood cells
+	- <span style="background:rgba(240, 200, 0, 0.2)">Multipotent hematopoietic stem cells are destroyed by cytotoxic T cells</span> or direct cytotoxic injury → bone marrow aplasia/hypoplasia → lack of circulating peripheral blood cells
 
 >[!tip] [[USMLE/Blood/Primary myelofibrosis\|Myelofibrosis]] vs Aplastic anemia
 >- [[USMLE/Blood/Primary myelofibrosis\|Myelofibrosis]]: <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Blood/Splenomegaly\|splenomegaly]]</span>
@@ -34,7 +34,7 @@
 		- CBC: pancytopenia (in contrast to aplastic crisis characterized by anemia only), or normocytic or macrocytic anemia
 		- Reticulocyte count: low
 		- Erythropoietin level: high
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bone marrow findings: hypocellular with prominent fat spaces (“empty marrow�?appearance)</span>![L68294.jpg](/img/user/appendix/L68294.jpg)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bone marrow findings: hypocellular with prominent fat spaces (“empty marrow” appearance)</span>![L68294.jpg](/img/user/appendix/L68294.jpg)
 - Treatment
 	- Consider need for supportive care, e.g.:
 		- Platelet transfusions, and/or blood transfusions

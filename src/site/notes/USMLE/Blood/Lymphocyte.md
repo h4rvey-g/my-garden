@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/lymphocyte/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Lymphocyte/"}
 ---
 
 ![L46316.jpg](/img/user/appendix/L46316.jpg)
@@ -97,7 +97,7 @@ Lymphocytosis: > 33%
 ![Pasted image 20241230145031.png](/img/user/appendix/Pasted%20image%2020241230145031.png)
 1. Th-cell activation as above.
 2. B-cell receptor–mediated endocytosis.
-	- B lymphocytes recognize antigens via their B-cell receptors (membrane‑bound immunoglobulins, IgD or IgM) �?B cell receptor-mediated endocytosis of the BCR/antigen complex �?<span style="background:rgba(240, 200, 0, 0.2)">breakdown of antigen into small fragments by lysosomal proteases �?presentation of antigen fragment via MHC class II receptors on B cell surface to Th cells plus costimulation of B cell CD40 receptor by Th cell CD40L</span> �?<span style="background:rgba(240, 200, 0, 0.2)">T cell‑dependent activation of B cells (plasma cells)</span> �?immunoglobulin production
+	- B lymphocytes recognize antigens via their B-cell receptors (membrane‑bound immunoglobulins, IgD or IgM) → B cell receptor-mediated endocytosis of the BCR/antigen complex → <span style="background:rgba(240, 200, 0, 0.2)">breakdown of antigen into small fragments by lysosomal proteases → presentation of antigen fragment via MHC class II receptors on B cell surface to Th cells plus costimulation of B cell CD40 receptor by Th cell CD40L</span> → <span style="background:rgba(240, 200, 0, 0.2)">T cell‑dependent activation of B cells (plasma cells)</span> → immunoglobulin production
 	- B cell and T cell need to be <span style="background:rgba(240, 200, 0, 0.2)">activated by the same antigen</span>
 3. <span style="background:rgba(240, 200, 0, 0.2)">Exogenous antigen is presented on MHC II and recognized by TCR on Th cell.</span>
 4. <span style="background:rgba(240, 200, 0, 0.2)">CD40 receptor on B cell binds CD40 ligand (CD40L) on Th cell.</span>
@@ -129,7 +129,7 @@ Lymphocytosis: > 33%
 		- Composed of macrophages, reticular cells
 		- Connected to the efferent lymphatic structures
 ### Clinical significance
-- Inflammatory or immune reactions (e.g., due to [[USMLE/Infective disease/Infectious mononucleosis\|EBV]] infection) �?reactive paracortical hyperplasia �?clinically apparent lymphadenopathy
+- Inflammatory or immune reactions (e.g., due to [[USMLE/Infective disease/Infectious mononucleosis\|EBV]] infection) → reactive paracortical hyperplasia → clinically apparent lymphadenopathy
 - <span style="background:rgba(240, 200, 0, 0.2)">Depletion of paracortical lymphocytes: [[USMLE/Immunology/DiGeorge syndrome\|DiGeorge syndrome]]</span>
 # NK cells
 ---
@@ -141,4 +141,3 @@ Lymphocytosis: > 33%
 
 >[!Mnemonic] 
 ><font color="#ffc000">CD16</font> for NK cells because when <font color="#ffc000">16</font> year olds get their <font color="#ffc000">driver's licenses they become killers, naturally.</font>
-

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/acute-appendicitis/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Acute appendicitis/"}
 ---
 
 # Epidemiology
-- Peak incidence: 10�?9 years of age
+- Peak incidence: 10–19 years of age
 
 ---
 # Etiology
@@ -35,4 +35,3 @@
 <% tp.file.cursor() %>
 
 ---
-

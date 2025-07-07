@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Escherichia coli/"}
+---
+
+- Sorbitol and lactose fermenters (except for EHEC, which does not ferment sorbitol)
+- <span style="background:rgba(240, 200, 0, 0.2)">Form pink colonies on MacConkey agar</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Form green colonies with a metallic sheen on eosin-methylene blue agar</span>
+- Present the enterobacterial common antigen (ECA) on their surface
+- Produce beta-galactosidase (cleaves lactose into [[USMLE/Biochemistry/Galactose metabolism\|galactose]] and glucose)
+- Common virulence factors
+	- Lipopolysaccharide (LPS)
+		- Activates macrophages → widespread release of IL-1, IL-6 & [[USMLE/Biochemistry/Interferons and Tumor necrosis factor\|TNF]]-α
+		- Bacteremia & septic shock
+	- K1 capsular polysaccharide
+		- Prevents phagocytosis & [[USMLE/Immunology/Complement system\|complement]]-mediated lysis
+		- Neonatal [[USMLE/Infective disease/Meningitis\|meningitis]]
+	- Shiga toxin
+		- Inactivates 60S ribosomal subunit, halting protein synthesis & causing cell death
+		- Gastroenteritis (bloody)
+	- Heat-stable/heat-labile enterotoxins
+		- Promotes fluid & electrolyte secretion from intestinal epithelium
+		- Gastroenteritis (watery)
+	- <span style="background:rgba(240, 200, 0, 0.2)">P-fimbriae</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Allows adhesion to uroepithelium</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Renal/Urinary tract infections\|Urinary tract infection]]</span>

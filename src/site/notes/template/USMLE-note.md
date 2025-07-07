@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/usmle-note/"}
+{"dg-publish":true,"permalink":"/template/USMLE-note/"}
 ---
 
 # Epidemiology
@@ -29,4 +29,3 @@
 
 # Treatment
 <% tp.file.cursor() %>
-

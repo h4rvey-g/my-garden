@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/gluconeogenesis/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Gluconeogenesis/"}
 ---
 
 ![Pasted image 20231107160524.png](/img/user/appendix/Pasted%20image%2020231107160524.png)
@@ -13,4 +13,3 @@
 	1. <span style="background:rgba(240, 200, 0, 0.2)">Released into the blood during hydrolysis of triacylglycerols in adipose tissue</span>![Pasted image 20240302103109.png](/img/user/appendix/Pasted%20image%2020240302103109.png)
 	2. Phosphorylated by glycerol kinase in the liver
 	3. <span style="background:rgba(240, 200, 0, 0.2)">Oxidized by glycerol phosphate dehydrogenase to dihydroxyacetone phosphate (an intermediate of [[USMLE/Biochemistry/Glycolysis\|glycolysis]])</span>
-

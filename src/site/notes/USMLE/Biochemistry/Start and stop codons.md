@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/start-and-stop-codons/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Start and stop codons/"}
 ---
 
 ![Pasted image 20240206103328.png](/img/user/appendix/Pasted%20image%2020240206103328.png)

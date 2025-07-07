@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/chikungunya-fever/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Chikungunya fever/"}
 ---
 
 - Epidemiology
@@ -10,7 +10,7 @@
 	- Route of transmission: Mosquito bite
 - Clinical features
 	- <span style="background:rgba(240, 200, 0, 0.2)">Symptoms are similar to those of dengue and [[USMLE/Infective disease/Zika virus infection\|Zika virus infection]].</span>
-	- Incubation period: usually 3�? days
+	- Incubation period: usually 3–7 days
 	- Sudden onset <span style="background:rgba(240, 200, 0, 0.2)">fever (typically > 39°C)</span>
 	- Malaise
 	- Severe <span style="background:rgba(240, 200, 0, 0.2)">bilateral polyarthralgia</span> 
@@ -21,4 +21,3 @@
 
 >[!tip] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Chikungunya, dengue, and zika are all mosquito-borne diseases and similar in clinical features.</span>
-

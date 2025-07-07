@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/diabetes-mellitus-in-pregnancy/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Diabetes mellitus in pregnancy/"}
 ---
 
 # Pathophysiology
 - Human placental lactogen (HPL, aka human chorionic somatomammotropin): a hormone synthesized by syncytiotrophoblasts of the placenta, which promotes the production of insulin-like growth factors.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Causes insulin resistance to supply growing fetus with glucose and amino acids.</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Concurrently increases insulin levels; inability to overcome insulin resistance �?gestational [[USMLE/Endocrine/Diabetes mellitus\|diabetes]].</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Concurrently increases insulin levels; inability to overcome insulin resistance → gestational [[USMLE/Endocrine/Diabetes mellitus\|diabetes]].</span>
 # Treatment
 - Glycemic control
 	- Dietary modifications and regular exercise (walking)
@@ -14,7 +14,7 @@
 		- [[USMLE/Biochemistry/Metabolic fuel use\|Fasting]] blood glucose level > 95 mg/dL or one-hour postprandial blood glucose level > 140 mg/dL or 2-hour postprandial blood glucose level > 120 mg/dL
 	- Metformin and glyburide in patients who are unwilling or unable to use insulin
 - Regular ultrasound to evaluate [[USMLE/Reproductive/Embryogenesis\|fetal development]]
-- Consider inducing delivery at week 39�?0, if glycemic control is poor or if complications occur
+- Consider inducing delivery at week 39–40, if glycemic control is poor or if complications occur
 # Complications
 ## Diabetic embryopathy
 - Skeletal defects
@@ -28,21 +28,20 @@
 ## Diabetic fetopathy
 - Definition: any anomaly in a fetus associated with maternal [[USMLE/Endocrine/Diabetes mellitus\|diabetes]], caused by fetal hyperinsulinemia during gestation
 - Onset: <span style="background:rgba(240, 200, 0, 0.2)">second and third trimesters</span>
-- Pathophysiology: maternal hyperglycemia �?fetal hyperglycemia �?<span style="background:rgba(240, 200, 0, 0.2)">stimulation of fetal pancreas �?fetal hyperinsulinemia</span> �?<span style="background:rgba(240, 200, 0, 0.2)">�?metabolic rate, oxygen consumption, and fetal hypoxemia</span> �?metabolic, respiratory, and cardiovascular complications
+- Pathophysiology: maternal hyperglycemia → fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">stimulation of fetal pancreas → fetal hyperinsulinemia</span> → <span style="background:rgba(240, 200, 0, 0.2)">↑ metabolic rate, oxygen consumption, and fetal hypoxemia</span> → metabolic, respiratory, and cardiovascular complications
 ### Manifestations
 - Growth defect: <span style="background:rgba(240, 200, 0, 0.2)">fetal macrosomia</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Polyhydramnios\|Polyhydramnios]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased maternal glucose levels increase fetal glucose levels, as well, resulting in polyuria.</span>
 - Metabolic defects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal [[USMLE/Endocrine/Hypoglycemia\|hypoglycemia]]</span>
-		- maternal hyperglycemia �?fetal hyperglycemia �?<span style="background:rgba(240, 200, 0, 0.2)">beta cell hypertrophy and hyperfunctioning �?fetal and neonatal hyperinsulinemia �?transient [[USMLE/Endocrine/Hypoglycemia\|hypoglycemia]] after birth (when maternal glucose supply stops)</span>
+		- maternal hyperglycemia → fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">beta cell hypertrophy and hyperfunctioning → fetal and neonatal hyperinsulinemia → transient [[USMLE/Endocrine/Hypoglycemia\|hypoglycemia]] after birth (when maternal glucose supply stops)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal polycythemia</span>
-		- maternal hyperglycemia �?chronic fetal hyperglycemia �?<span style="background:rgba(240, 200, 0, 0.2)">�?metabolic effects and oxygen demand �?fetal hypoxemia �?�?erythropoietin concentrations�?�?erythrocyte count</span>
-	- Neonatal hypocalcemia and neonatal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]]: maternal hyperglycemia �?abnormal maternal calcium-phosphorus metabolism �?�?maternal urinary Mg excretion �?maternal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]] �?fetal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]] �?impaired PTH synthesis in the fetus �?fetal hypocalcemia and [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]]
+		- maternal hyperglycemia → chronic fetal hyperglycemia → <span style="background:rgba(240, 200, 0, 0.2)">↑ metabolic effects and oxygen demand → fetal hypoxemia → ↑ erythropoietin concentrations→ ↑ erythrocyte count</span>
+	- Neonatal hypocalcemia and neonatal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]]: maternal hyperglycemia → abnormal maternal calcium-phosphorus metabolism → ↑ maternal urinary Mg excretion → maternal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]] → fetal [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]] → impaired PTH synthesis in the fetus → fetal hypocalcemia and [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]]
 - Respiratory defects
 	- [[USMLE/Respiratory/Acute respiratory distress syndrome\|Acute respiratory distress syndrome]]
 - Cardiovascular defects: transient [[USMLE/Cardiology/Hypertrophic cardiomyopathy\|hypertrophic cardiomyopathy]]
 	- Definition: thickening of one or both of the ventricular walls and the interventricular septum
 	- Clinical features: often asymptomatic in infants but may manifest with symptoms of [[USMLE/Cardiology/Heart failure\|heart failure]] (e.g., tachypnea, poor feeding, irritability)
-	- Pathophysiology: maternal hyperglycemia �?fetal hyperglycemia �?fetal hyperinsulinemia �?�?fat and glycogen in fetal myocardial cells �?thickening of ventricular walls and the intraventricular septum in utero �?�?ventricular size �?left ventricular outflow obstruction and systolic and diastolic cardiac dysfunction
-
+	- Pathophysiology: maternal hyperglycemia → fetal hyperglycemia → fetal hyperinsulinemia → ↑ fat and glycogen in fetal myocardial cells → thickening of ventricular walls and the intraventricular septum in utero → ↓ ventricular size → left ventricular outflow obstruction and systolic and diastolic cardiac dysfunction

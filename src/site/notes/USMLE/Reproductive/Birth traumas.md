@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/birth-traumas/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Birth traumas/"}
 ---
 
 # Neonatal soft tissue injuries
@@ -14,4 +14,3 @@ Soft tissue injuries of the scalp in infants are mostly caused by shearing force
 - <span style="background:rgba(240, 200, 0, 0.2)">Subgaleal hemorrhage </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rupture of the emissary veins and bleeding between the periosteum of the skull and the aponeurosis that may extend across the suture lines</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with a high risk of significant hemorrhage and hemorrhagic shock</span>
-

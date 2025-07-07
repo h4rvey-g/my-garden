@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/aspergillosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Aspergillosis/"}
 ---
 
 # Definition
@@ -28,4 +28,3 @@
 <% tp.file.cursor() %>
 
 ---
-

@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/intestinal-parasites/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Intestinal parasites/"}
 ---
 
 ## 线虫类Nematodes (roundworms)
 
-- **Strongyloides stercoralis**: 粪类圆线�?- **Ancylostoma duodenale**: 十二指肠钩虫
+- **Strongyloides stercoralis**: 粪类圆线虫
+- **Ancylostoma duodenale**: 十二指肠钩虫
 - **Necator americanus**: 美洲钩虫
 - **Ascaris lumbricoides**: 蛔虫
 - **Trichuris trichiura**: 鞭虫
@@ -16,4 +17,3 @@
 - **Diphyllobothrium latum**: 广节裂头绦虫
 - **Hymenolepis nana**: 微小膜壳绦虫
 - **Echinococcus granulosus**: 细粒棘球绦虫
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/ectopic-pregnancy/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Ectopic pregnancy/"}
 ---
 
 # Epidemiology
@@ -28,7 +28,7 @@
 
 ---
 # Diagnostics
-- �?[[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]
+- ↑ [[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Transvaginal ultrasound (TVUS)</span>
 	- Indication: best initial imaging test for determining the location of the [[USMLE/Reproductive/Pregnancy\|pregnancy]]
 	- Supportive findings
@@ -44,4 +44,3 @@
 
 
 ---
-

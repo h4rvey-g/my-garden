@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/homocystinuria/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Homocystinuria/","tags":["t1"]}
 ---
 
 Definition: a group of inherited genetic disorders characterized by impaired homocysteine metabolism
@@ -9,10 +9,10 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 ## Folate cycle
 1. (Folic acid to THF, see [[USMLE/Biochemistry/De novo pyrimidine and purine synthesis\|Folic acid pathway]])
 2. **THF** (empty carrier)
-3. **THF** picks up a **methylene** group (from serine, glycine, etc.) �?forms **5,10-methylene THF** (has a “methylene�?group **bridging the N5 and N10 positions** of the THF molecule.)
+3. **THF** picks up a **methylene** group (from serine, glycine, etc.) → forms **5,10-methylene THF** (has a “methylene” group **bridging the N5 and N10 positions** of the THF molecule.)
 4. **5,10-methylene THF** is _reduced_ to **5-methyl THF** (now with a methyl group at one site)
 5. **5-methyl THF** gives its methyl group to **homocysteine** (with [[USMLE/Biochemistry/Vitamin B12\|vitamin B12]] as a cofactor), creating **[[USMLE/Biochemistry/Methionine\|methionine]]**
-6. **THF** (now “empty�?again) is regenerated and the cycle restarts
+6. **THF** (now “empty” again) is regenerated and the cycle restarts
 ## Functions
 ### Folate Cycle 
 
@@ -42,8 +42,8 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 
 ---
 # Pathophysiology
-- [[USMLE/Biochemistry/Methionine\|Methionine]] synthase (homocysteine methyltransferase) deficiency �?impaired conversion of homocysteine into [[USMLE/Biochemistry/Methionine\|methionine]]
-- Cystathionine synthase deficiency �?impaired conversion of homocysteine into cystathionine
+- [[USMLE/Biochemistry/Methionine\|Methionine]] synthase (homocysteine methyltransferase) deficiency → impaired conversion of homocysteine into [[USMLE/Biochemistry/Methionine\|methionine]]
+- Cystathionine synthase deficiency → impaired conversion of homocysteine into cystathionine
 - All forms result in the accumulation of homocysteine.
 
 ---
@@ -59,7 +59,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 	- Tall, thin
 	- Pectus deformities (e.g., pectus excavatum)
 	- Scoliosis
-	- Elongated limbs (�?arm:height ratio; �?upper:lower body segment ratio), arachnodactyly
+	- Elongated limbs (↑ arm:height ratio; ↓ upper:lower body segment ratio), arachnodactyly
 	- Hyperlaxity of joints and hyperelasticity of the skin
  
 >[!tip] 
@@ -69,7 +69,7 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 
 ---
 # Diagnostics
-- �?Homocysteine in urine and serum
+- ↑ Homocysteine in urine and serum
 - Urine [[USMLE/Blood/Cyanide poisoning\|sodium nitroprusside]] test: Urine changes color to an intense red in the presence of homocysteine.
 - Serum [[USMLE/Biochemistry/Methionine\|methionine]] levels
 	- Increased in cystathionine synthase deficiency
@@ -86,4 +86,3 @@ Definition: a group of inherited genetic disorders characterized by impaired hom
 - MTHFR deficiency: supplementation of folate
 
 ---
-

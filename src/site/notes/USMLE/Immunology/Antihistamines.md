@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/immunology/antihistamines/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Antihistamines/","tags":["t1"]}
 ---
 
 # General physiology
@@ -9,9 +9,9 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Vascular endothelial cell surfaces</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Central nervous system</span>
 - Histamine effects on H1 receptors
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Capillary dilation and permeability</span> �?hypotension and edema
-	- �?Bronchiolar smooth muscle contraction (via IP3 and DAG release) �?<span style="background:rgba(240, 200, 0, 0.2)">bronchoconstriction</span>
-	- �?Nasal and bronchial mucus production
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Capillary dilation and permeability</span> → hypotension and edema
+	- ↑ Bronchiolar smooth muscle contraction (via IP3 and DAG release) → <span style="background:rgba(240, 200, 0, 0.2)">bronchoconstriction</span>
+	- ↑ Nasal and bronchial mucus production
 ## Target: histamine H2 receptors
 - Location of H2 receptors
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gastric parietal cells (oxyntic cells)</span>
@@ -62,4 +62,3 @@
 	- To reduce production of stomach acid
 - Characteristics
 	- Usually used as <span style="background:rgba(240, 200, 0, 0.2)">second-line treatment or in combination with [[USMLE/GI/Proton pump inhibitors\|proton pump inhibitors]] ([[USMLE/GI/Proton pump inhibitors\|PPIs]])</span>
-

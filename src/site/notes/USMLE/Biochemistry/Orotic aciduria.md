@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/orotic-aciduria/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Orotic aciduria/"}
 ---
 
 - Definition: a rare inherited genetic disorder that is characterized by an elevation of orotic acid in the serum and urine due to defective UMP synthase
 - Inheritance: autosomal recessive 
 - Pathophysiology
 	- UMP synthase normally converts orotic acid into uridine monophosphate. 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of UMP synthase �?accumulation of orotic acid in serum and urine</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency of UMP synthase → accumulation of orotic acid in serum and urine</span>
 	- Defective de novo synthesis of pyrimidine nucleotides
 - Clinical features
 	- Manifests in early childhood
@@ -16,12 +16,11 @@
 	- Orotic acid crystalluria
 - Diagnostics 
 	- Serum
-		- �?[[USMLE/Blood/Hemoglobin variants\|Hemoglobin]]
-		- �?Mean corpuscular volume
-		- �?Orotic acid
+		- ↓ [[USMLE/Blood/Hemoglobin variants\|Hemoglobin]]
+		- ↑ Mean corpuscular volume
+		- ↑ Orotic acid
 		- Normal ammonia levels and BUN
-	- <span style="background:rgba(240, 200, 0, 0.2)">Urine: �?orotic acid</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Urine: ↑ orotic acid</span>
 - Treatment 
 	- Uridine monophosphate substitution
 	- Uridine triacetate substitution 
-

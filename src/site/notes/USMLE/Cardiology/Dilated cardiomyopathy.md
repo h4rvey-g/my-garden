@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/dilated-cardiomyopathy/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Dilated cardiomyopathy/"}
 ---
 
 Left or biventricular dilatation with structural and/or functional systolic dysfunction <span style="background:rgba(240, 200, 0, 0.2)">in the absence of [[USMLE/Cardiology/Coronary artery disease\|coronary artery disease]], abnormal loading pressures (e.g., valvular heart disease, [[USMLE/Cardiology/Hypertension\|hypertension]]), or congenital heart disease</span>
@@ -52,4 +52,3 @@ Left or biventricular dilatation with structural and/or functional systolic dysf
 - Thromboembolism (e.g., stroke, [[USMLE/Respiratory/Pulmonary embolism\|pulmonary embolism]], [[USMLE/GI/Acute mesenteric ischemia\|acute mesenteric ischemia]])
 - Arrhythmias (e.g., [[USMLE/Cardiology/Atrial fibrillation\|atrial fibrillation]], ventricular tachycardia, ventricular fibrillation)
 - <span style="background:rgba(240, 200, 0, 0.2)">[[Sudden cardiac death\|Sudden cardiac death]]</span>
-

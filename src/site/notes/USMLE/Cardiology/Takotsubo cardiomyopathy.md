@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/takotsubo-cardiomyopathy/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Takotsubo cardiomyopathy/"}
 ---
 
 # Epidemiology
@@ -12,7 +12,7 @@
 
 # Pathophysiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Emotional/physical stress �?activation of the sympathetic nervous system �?massive catecholamine discharge �?cardiotoxicity, multivessel spasms, and dysfunction �?myocardial stunning</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Emotional/physical stress → activation of the sympathetic nervous system → massive catecholamine discharge → cardiotoxicity, multivessel spasms, and dysfunction → myocardial stunning</span>
 	- A state of abnormal regional LV wall motion that persists for hours to weeks following transient ischemia
 
 # Clinical features
@@ -30,5 +30,4 @@
 
 # Treatment
 ---
-
 

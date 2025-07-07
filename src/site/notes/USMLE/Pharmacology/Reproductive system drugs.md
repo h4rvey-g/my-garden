@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/pharmacology/reproductive-system-drugs/"}
+{"dg-publish":true,"permalink":"/USMLE/Pharmacology/Reproductive system drugs/"}
 ---
 
 ![Pasted image 20250418100112.png](/img/user/appendix/Pasted%20image%2020250418100112.png)
@@ -75,4 +75,3 @@
     *   Hepatotoxicity (Black Box Warning in some regions).
     *   QTc prolongation.
     *   Adrenal insufficiency (due to cortisol synthesis inhibition).
-

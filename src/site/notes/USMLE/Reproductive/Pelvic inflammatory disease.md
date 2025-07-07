@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/pelvic-inflammatory-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Pelvic inflammatory disease/"}
 ---
 
 # Epidemiology
@@ -41,11 +41,11 @@
 # Complications
 ---
 - Long-term complications
-	- Pathophysiology: inflammation (e.g., salpingitis) �?		- Tubal scarring
+	- Pathophysiology: inflammation (e.g., salpingitis) →
+		- Tubal scarring
 		- Adhesions of the fallopian tubes and ovaries
 		- Hydrosalpinx: the accumulation of fluid in the fallopian tubes
 	- Manifestations
 		- <span style="background:rgba(240, 200, 0, 0.2)">Tubal infertility</span> (related to loss of tubal ciliary function)
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Ectopic pregnancy\|Ectopic pregnancy]]</span>
 		- Chronic pelvic pain
-

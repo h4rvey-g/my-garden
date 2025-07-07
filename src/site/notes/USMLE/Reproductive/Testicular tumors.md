@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/testicular-tumors/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Testicular tumors/"}
 ---
 
 # Germ cell tumors
 ## Seminoma
 - Malignant tumor that has slow growth and late metastases
 - Good radiosensitivity
-- “Fried egg�?appearance on histology![Pasted image 20240218102436.png](/img/user/appendix/Pasted%20image%2020240218102436.png)
+- “Fried egg” appearance on histology![Pasted image 20240218102436.png](/img/user/appendix/Pasted%20image%2020240218102436.png)
 >[!Mnemonic] 
 ><font color="#ffc000">Semen</font> eats <font color="#ffc000">egg</font>.
 
@@ -24,7 +24,7 @@
 - Microscopy: <span style="background:rgba(240, 200, 0, 0.2)">Reinke crystals</span> (eosinophilic cytoplasmic inclusions)![Pasted image 20240218112851.png](/img/user/appendix/Pasted%20image%2020240218112851.png)
 # Extragonadal germ cell tumors
 - Definition: <span style="background:rgba(240, 200, 0, 0.2)">primary germ cell tumors that arise outside of the gonads, anywhere along the body's midline from the pineal gland to the coccyx.</span>
-- Epidemiology: 5�?0% of all germ cell tumors; mostly affects young males
+- Epidemiology: 5–10% of all germ cell tumors; mostly affects young males
 - Location
 	- <span style="background:rgba(240, 200, 0, 0.2)">Midline organs</span>
 	- Mediastinal > retroperitoneal > intracranial (pineal gland and suprasellar region)
@@ -36,4 +36,3 @@
 	- Testicular ultrasound: to rule out gonadal primary tumor 
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Pathology/Tumor markers\|Tumor markers]]: [[USMLE/Reproductive/Alpha fetoprotein\|alpha fetoprotein]] ([[USMLE/Reproductive/Alpha fetoprotein\|AFP]]) and [[USMLE/Reproductive/Human chorionic gonadotropin\|human chorionic gonadotropin]] (HCG)</span>
 	- Tumor biopsy (confirmatory)
-

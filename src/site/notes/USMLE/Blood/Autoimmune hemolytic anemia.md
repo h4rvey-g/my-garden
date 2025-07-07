@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/autoimmune-hemolytic-anemia/","title":"Autoimmune hemolytic anemia"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Autoimmune hemolytic anemia/","title":"Autoimmune hemolytic anemia"}
 ---
 
 
@@ -10,4 +10,3 @@ But basically they all cause some degree of both intra and extravascular hemolys
 
 <mark style="background: #BBFABBA6;">If it’s cold- stay inside
 If it’s warm- go outside & play</span>
-

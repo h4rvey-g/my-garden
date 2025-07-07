@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/acute-pancreatitis/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Acute pancreatitis/"}
 ---
 
 # Epidemiology
@@ -8,10 +8,10 @@
 ---
 # Etiology
 ## Most common causes
-- Biliary pancreatitis (�?40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/gallstones\|gallstones]]</span>) 
+- Biliary pancreatitis (∼ 40% of cases; mostly caused by <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/gallstones\|gallstones]]</span>) 
 	- Blockage of the common bile duct and pancreatic duct
-- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced</span> (�?20% of cases)
-- Idiopathic (�?25% of cases)
+- <span style="background:rgba(240, 200, 0, 0.2)">Alcohol-induced</span> (∼ 20% of cases)
+- Idiopathic (∼ 25% of cases)
 ## Other causes
  - Recent endoscopic retrograde cholangiopancreatography (ERCP) procedure
  - Drugs (eg, azathioprine, sulfasalazine, furosemide, valproic acid)
@@ -61,7 +61,7 @@
 ## Diagnostic criteria for acute pancreatitis
 Two of the three following criteria should be met for a diagnosis of acute pancreatitis to be made. 
 - Characteristic abdominal pain
-- <span style="background:rgba(240, 200, 0, 0.2)">�?Serum pancreatic enzymes: lipase or amylase �?3× ULN</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Serum pancreatic enzymes: lipase or amylase ≥ 3× ULN</span>
 - Characteristic findings of acute pancreatitis on cross-sectional imaging (e.g., contrast-enhanced CT abdomen)
 
 ---
@@ -69,4 +69,3 @@ Two of the three following criteria should be met for a diagnosis of acute pancr
 
 
 ---
-

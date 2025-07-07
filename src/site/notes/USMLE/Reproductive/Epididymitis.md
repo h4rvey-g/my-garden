@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/epididymitis/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Epididymitis/"}
 ---
 
 # Epidemiology
@@ -39,5 +39,4 @@
 
 # Treatment
 ---
-
 

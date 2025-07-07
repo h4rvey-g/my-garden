@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/prader-willi-syndrome-and-angelman-syndrome/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Prader-Willi syndrome and Angelman syndrome/","tags":["t1"]}
 ---
 
 # Overview
@@ -10,10 +10,10 @@
 - Etiology: The resulting condition depends on the affected gene copy. 
 	- Angelman syndrome
 		- Deletion or mutation of maternal UBE3A (chromosome 15) gene copy and paternal gene methylation (silencing)
-		- In �?5% of cases, it results from paternal <span style="background:rgba(240, 200, 0, 0.2)">uniparental disomy</span> (i.e. both copies of chromosome 15 are inherited from the father).
+		- In ∼ 5% of cases, it results from paternal <span style="background:rgba(240, 200, 0, 0.2)">uniparental disomy</span> (i.e. both copies of chromosome 15 are inherited from the father).
 	- Prader-Willi syndrome
 		- Deletion or mutation of paternal gene copy and maternal gene methylation (silencing)
-		- Caused by maternal uniparental disomy in about 20�?5% of cases
+		- Caused by maternal uniparental disomy in about 20–35% of cases
 - Diagnosis: genetic tests
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fluorescence in situ hybridization (FISH)</span>
 # Prader-Willi syndrome
@@ -41,4 +41,3 @@
 	- In more than 80% of cases, <span style="background:rgba(240, 200, 0, 0.2)">pronounced epileptic seizures</span>
 	- Ataxia, tremulous movements of the limbs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Characteristic happy demeanor with frequent laughing (inappropriate laughter)</span>
-

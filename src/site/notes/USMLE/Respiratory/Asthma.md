@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/asthma/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Asthma/"}
 ---
 
 # Etiology
@@ -47,9 +47,9 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 	- IgE-mediated type 1 hypersensitivity to a specific allergen
 	- Characterized by mast cell degranulation and release of histamine after a prior phase of sensitization
 - Nonallergic asthma
-	- <span style="background:rgba(240, 200, 0, 0.2)">Irritant asthma: irritant enters lung �?�?release of neutrophils �?submucosal edema �?airway obstruction</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Irritant asthma: irritant enters lung → ↑ release of neutrophils → submucosal edema → airway obstruction</span>
 	- Aspirin-induced asthma (NSAID-exacerbated respiratory disease) is characterized by the Samter triad:
-		- Inhibition of COX-1 �?�?PGE2  �?�?leukotrienes and inflammation �?submucosal edema �?airway obstruction
+		- Inhibition of COX-1 → ↓ PGE2  → ↑ leukotrienes and inflammation → submucosal edema → airway obstruction
 		- Chronic rhinosinusitis with nasal polyposis
 		- Asthma symptoms
 
@@ -60,12 +60,12 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 ---
 # Diagnostics
 ## Spirometry
-- <span style="background:rgba(240, 200, 0, 0.2)">Supportive findings: Expiratory airway limitation: i.e., �?FEV1 and �?FEV1/FVC ratio</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Supportive findings: Expiratory airway limitation: i.e., ↓ FEV1 and ↓ FEV1/FVC ratio</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchodilator Responsiveness Testing</span>:
-	- <span style="background:rgba(240, 200, 0, 0.2)">Used when the patient has abnormal baseline spirometry showing obstruction (FEV1/FVC �?0%)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Used when the patient has abnormal baseline spirometry showing obstruction (FEV1/FVC ≤70%)</span>
 	- Tests if the obstruction is reversible (suggesting asthma) or fixed (suggesting conditions like [[USMLE/Respiratory/Chronic obstructive pulmonary disease\|COPD]])
 	- <span style="background:rgba(240, 200, 0, 0.2)">Not useful if current spirometry is normal</span>, even if the patient has asthma symptoms
-	- Quick test: perform spirometry �?give bronchodilator �?repeat spirometry
+	- Quick test: perform spirometry → give bronchodilator → repeat spirometry
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchial Challenge Testing</span>:
 	- Identify airway hyperresponsiveness and bronchoconstriction <span style="background:rgba(240, 200, 0, 0.2)">in response to direct, nonallergic stimuli (e.g., methacholine, histamine) or indirect stimuli (e.g., exercise, hyperventilation).</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Used when patient has symptoms suggestive of asthma but normal baseline spirometry</span>
@@ -81,12 +81,12 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 - Montelukast, Zafirlukast
 - Uses
 	- <span style="background:rgba(240, 200, 0, 0.2)">Exercise-induced</span>
-	- Prevent leukotrienes from binding to their receptors (CysLT1)�?�?bronchoconstriction and inflammation
+	- Prevent leukotrienes from binding to their receptors (CysLT1)→ ↓ bronchoconstriction and inflammation
 	- Asthma aspirin-induced asthma
 	- Long-term maintenance treatment (particularly in children)
 ### Leukotriene pathway modifiers
 - Zileuton
-- <span style="background:rgba(240, 200, 0, 0.2)">Inhibit 5-lipoxygenase</span> �?�?production of leukotrienes �?�?bronchoconstriction and inflammation
+- <span style="background:rgba(240, 200, 0, 0.2)">Inhibit 5-lipoxygenase</span> → ↓ production of leukotrienes → ↓ bronchoconstriction and inflammation
 - Uses
 	- Exercise-induced asthma
 	- Aspirin-induced asthma
@@ -104,14 +104,13 @@ Asthma is an inflammatory disease <span style="background:rgba(240, 200, 0, 0.2)
 ## Biologics
 ### Anti-IgE antibodies
 - Omalizumab [[USMLE/单抗记忆\|单抗记忆]]
-- Binds to serum IgE �?�?expression of high-affinity IgE receptors (FcεRI) on mast cells and basophils
+- Binds to serum IgE → ↓ expression of high-affinity IgE receptors (FcεRI) on mast cells and basophils
 - Uses
 	- Select cases of severe asthma
 ### IL-5 antibodies
 -  mepolizumab, reslizumab,benralizumab
-- <span style="background:rgba(240, 200, 0, 0.2)">Block the effects of IL-5 on [[USMLE/Immunology/Eosinophils\|eosinophils]]</span> �?�?chemotaxis and �?cell differentiation, maturation, and activation
+- <span style="background:rgba(240, 200, 0, 0.2)">Block the effects of IL-5 on [[USMLE/Immunology/Eosinophils\|eosinophils]]</span> → ↓ chemotaxis and ↓ cell differentiation, maturation, and activation
 - Uses
 	- Refractory severe eosinophilic asthma
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/subclavian-steal-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Subclavian steal syndrome/"}
 ---
 
 # Epidemiology
@@ -14,7 +14,7 @@
 
 # Pathophysiology
 ---
-- Stenosis of the subclavian artery proximal to the origin of the vertebral artery (<span style="background:rgba(240, 200, 0, 0.2)">Left subclavian artery �?70% of cases</span>) �?<span style="background:rgba(240, 200, 0, 0.2)">hypoperfusion distal to the stenosis �?reversal of blood flow in ipsilateral vertebral artery</span> �?compensation through collateral arteries �?<span style="background:rgba(240, 200, 0, 0.2)">reduced blood flow in the basilar artery �?reduced cerebral perfusion upon exertion involving the affected arm</span>
+- Stenosis of the subclavian artery proximal to the origin of the vertebral artery (<span style="background:rgba(240, 200, 0, 0.2)">Left subclavian artery ∼ 70% of cases</span>) → <span style="background:rgba(240, 200, 0, 0.2)">hypoperfusion distal to the stenosis → reversal of blood flow in ipsilateral vertebral artery</span> → compensation through collateral arteries → <span style="background:rgba(240, 200, 0, 0.2)">reduced blood flow in the basilar artery → reduced cerebral perfusion upon exertion involving the affected arm</span>
 	- During arm exertion, increased metabolic demand causes vasodilation and blood diversion from the vertebral artery to supply the arm
 
 ![L14100.jpg](/img/user/appendix/L14100.jpg)
@@ -38,5 +38,4 @@ Imaging of the <span style="background:rgba(240, 200, 0, 0.2)">cerebral and uppe
 
 # Treatment
 ---
-
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/pulmonary-capillary-wedge-pressure/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Pulmonary capillary wedge pressure/","tags":["t1"]}
 ---
 
 ![L22141.jpg](/img/user/appendix/L22141.jpg)
@@ -13,4 +13,3 @@
 
 The left atrium and pulmonary veins are thin-walled and highly compliant chambers. Because of this, any pressure changes in the left atrium are readily transmitted to the pulmonary veins, including the wedged position of the catheter. So, <span style="background:rgba(240, 200, 0, 0.2)">PCWP essentially mirrors LAP.</span>
 The normal pulmonary capillary wedge pressure is between 4 to 12 mmHg.
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/pap-smear/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Pap smear/"}
 ---
 
 ![Pasted image 20240301212953.png](/img/user/appendix/Pasted%20image%2020240301212953.png)
@@ -16,4 +16,3 @@ In the center of the image is an <span style="background:rgba(240, 200, 0, 0.2)"
 ![Pasted image 20240301215747.png](/img/user/appendix/Pasted%20image%2020240301215747.png)
 Pap smear showing severe dysplasia
 <span style="background:rgba(240, 200, 0, 0.2)">There is a loosely connected group of abnormal squamous epithelial cells (blue-green cytoplasm). The nuclei are variable in size with a high nuclear-cytoplasmic ratio and there are course clumps of chromatin.</span> The large cell with pink cytoplasm is a normal superficial squamous cell.
-

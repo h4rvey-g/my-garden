@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/immunology/immunosuppressants/"}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunosuppressants/"}
 ---
 
 ![Pasted image 20240208101326.png](/img/user/appendix/Pasted%20image%2020240208101326.png)![L26057.jpg](/img/user/appendix/L26057.jpg)
 
 # Mycophenolate mofetil
-- Reversible inhibition of inosine monophosphate dehydrogenase �?blockade of purine synthesis �?selective inhibition of [[USMLE/Blood/Lymphocyte\|lymphocyte]] proliferation
+- Reversible inhibition of inosine monophosphate dehydrogenase → blockade of purine synthesis → selective inhibition of [[USMLE/Blood/Lymphocyte\|lymphocyte]] proliferation
 - Indications
 	- [[USMLE/Renal/Diffuse proliferative glomerulonephritis\|Lupus nephritis]]
 	- Used in combination with cyclosporin or tacrolimus as [[USMLE/Immunology/Transplant rejection\|transplant rejection]] prophylaxis
@@ -25,13 +25,13 @@ calcineurin = calcium- and calmodulin-dependent serine-threonine phosphatase
 # mTOR inhibitors
 ---
 - Sirolimus (also known as rapamycin)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Binding to FKBP �?inhibition of mTOR kinase �?inhibition of the IL-2-mediated cell cycle �?�?response to IL-2 �?�?T-cell activation and B-cell differentiation �?�?IgM, IgG, and IgA production</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Binding to FKBP → inhibition of mTOR kinase → inhibition of the IL-2-mediated cell cycle → ↓ response to IL-2 → ↓ T-cell activation and B-cell differentiation → ↓ IgM, IgG, and IgA production</span>
 	- Indication: rMycophenolateenal transplant rejection prophylaxis
 # Glucocorticoids
 ---
 - Mechanism of action
-	- Inhibition of intracellular NF-κB �?<span style="background:rgba(240, 200, 0, 0.2)">inhibition of multiple inflammatory and immune mediators (e.g., cytokines) �?suppression of B cells and T cells function</span>
-	- Long-term effects (in hours) �?direct influence on gene expression
+	- Inhibition of intracellular NF-κB → <span style="background:rgba(240, 200, 0, 0.2)">inhibition of multiple inflammatory and immune mediators (e.g., cytokines) → suppression of B cells and T cells function</span>
+	- Long-term effects (in hours) → direct influence on gene expression
 	- <span style="background:rgba(240, 200, 0, 0.2)">Increased apoptosis of [[USMLE/Immunology/Eosinophils\|eosinophils]], T cells, and monocytes, perhaps by decreasing Bcl-2 expression</span>
 # Immune checkpoint inhibitors
 ---
@@ -54,4 +54,3 @@ A medication that inhibits the action of regulatory proteins, known as checkpoin
 
 >[!Mnemonic] 
 >E<font color="#ffc000">t</font>a<font color="#ffc000">n</font>er<font color="#ffc000">cept</font> <font color="#ffc000">intercepts TN</font>F.
-

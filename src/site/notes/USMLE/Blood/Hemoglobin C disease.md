@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/hemoglobin-c-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Hemoglobin C disease/"}
 ---
 
 # Definition
@@ -14,9 +14,9 @@
 # Pathophysiology
 ---
 Glutamic acid can also be replaced with a lysine, creating hemoglobin C.
-- <span style="background:rgba(240, 200, 0, 0.2)">HbC precipitates as crystals</span> �?�?RBC rigidity and �?deformability �?<span style="background:rgba(240, 200, 0, 0.2)">extravascular hemolysis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">HbC precipitates as crystals</span> → ↑ RBC rigidity and ↓ deformability → <span style="background:rgba(240, 200, 0, 0.2)">extravascular hemolysis</span>
 - β-globin mutation (glutamate replaced by lysine)
-- HbC is less soluble than HbA and tends to form hexagonal crystals, which lead to RBC dehydration (�?MCHC).
+- HbC is less soluble than HbA and tends to form hexagonal crystals, which lead to RBC dehydration (↑ MCHC).
 - RBCs have reduced oxygen-binding capacity and a shorter lifespan.
 
 # Clinical features
@@ -30,4 +30,3 @@ Hemolytic anemia (usually mild)
 # Treatment
 ---
 <% tp.file.cursor() %>
-

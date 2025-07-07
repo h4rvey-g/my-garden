@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/endocrine/adrenal-insufficiency/"}
+{"dg-publish":true,"permalink":"/USMLE/Endocrine/Adrenal insufficiency/"}
 ---
 
 # Epidemiology
@@ -9,7 +9,7 @@
 # Etiology
 ## Primary adrenal insufficiency (Addison disease)
 - <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune adrenalitis</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause in the US</span> (�?80�?0% of all cases of primary adrenal insufficiency)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause in the US</span> (∼ 80–90% of all cases of primary adrenal insufficiency)
 	- Caused by autoimmune destruction of both adrenal cortices
 	- Associated with other autoimmune endocrinopathies
 - Infectious adrenalitis
@@ -17,7 +17,7 @@
 	- [[USMLE/Infective disease/Cytomegalovirus infection\|CMV]] disease in immunosuppressed states (especially AIDS)
 	- [[USMLE/Infective disease/Histoplasmosis\|Histoplasmosis]]
 - Adrenal hemorrhage 
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Infective disease/Sepsis\|Sepsis]]: especially meningococcal [[USMLE/Infective disease/Sepsis\|sepsis]] (endotoxic shock) �?hemorrhagic necrosis ([[USMLE/Infective disease/Waterhouse-Friderichsen syndrome\|Waterhouse-Friderichsen syndrome]])</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Infective disease/Sepsis\|Sepsis]]: especially meningococcal [[USMLE/Infective disease/Sepsis\|sepsis]] (endotoxic shock) → hemorrhagic necrosis ([[USMLE/Infective disease/Waterhouse-Friderichsen syndrome\|Waterhouse-Friderichsen syndrome]])</span>
 	- Disseminated intravascular coagulation (DIC)
 - Infiltration of the adrenal glands
 	- Tumors (adrenocortical tumors, lymphomas, metastatic carcinoma)
@@ -30,7 +30,7 @@
 ## Tertiary adrenal insufficiency
 Tertiary adrenal insufficiency is caused by conditions that <span style="background:rgba(240, 200, 0, 0.2)">decrease CRH production.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">The most common cause is sudden discontinuation of chronic [[USMLE/Pharmacology/Corticosteroids\|glucocorticoid]] therapy.</span>
-- Rarer causes include hypothalamic dysfunction (e.g., due to trauma, mass, hemorrhage, or anorexia): �?CRH �?�?ACTH �?�?cortisol release
+- Rarer causes include hypothalamic dysfunction (e.g., due to trauma, mass, hemorrhage, or anorexia): ↓ CRH → ↓ ACTH → ↓ cortisol release
 
 ---
 # Pathophysiology
@@ -42,11 +42,11 @@ Damage to the adrenal gland leads to the deficiency in all three hormones produc
 	- Loss of libido
 	- Impaired spermatogenesis (in men)
 - Hypocortisolism leads to:
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?ACTH</span> �?�?production of POMC (in order to increase ACTH production) �?�?melanocyte-stimulating hormone (MSH) �?<span style="background:rgba(240, 200, 0, 0.2)">hyperpigmentation of the skin (bronze skin) </span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?ADH level �?retention of free water �?dilutional hyponatremia</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Expression of enzymes involved in gluconeogenesis �?�?rate of gluconeogenesis �?hypoglycemia</span>
-	- Lack of potentiation of catecholamines action �?hypotension
-- Hypoaldosteronism �?hypotension (hypotonic hyponatremia and volume contraction), hyperkalemia, metabolic acidosis
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ACTH</span> → ↑ production of POMC (in order to increase ACTH production) → ↑ melanocyte-stimulating hormone (MSH) → <span style="background:rgba(240, 200, 0, 0.2)">hyperpigmentation of the skin (bronze skin) </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ADH level → retention of free water → dilutional hyponatremia</span> 
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Expression of enzymes involved in gluconeogenesis → ↓ rate of gluconeogenesis → hypoglycemia</span>
+	- Lack of potentiation of catecholamines action → hypotension
+- Hypoaldosteronism → hypotension (hypotonic hyponatremia and volume contraction), hyperkalemia, metabolic acidosis
 # Clinical features
 ---
 ## Hypocortisolism
@@ -59,7 +59,8 @@ Damage to the adrenal gland leads to the deficiency in all three hormones produc
 	- <span style="background:rgba(240, 200, 0, 0.2)">Sugar cravings</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">(Orthostatic) hypotension</span>
 		- Glucocorticoids play an important role in catecholamine‑induced vasoconstriction and myocardial contractility.
-		- Think about 诱发三高和溃�?### Lab findings
+		- Think about 诱发三高和溃疡
+### Lab findings
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Endocrine/Hypoglycemia\|Hypoglycemia]] </span>
 	- Glucocorticoids inhibit peripheral glucose utilization and increase [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]].
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Neurology/Hyponatremia\|Hyponatremia]]</span>
@@ -75,17 +76,17 @@ Damage to the adrenal gland leads to the deficiency in all three hormones produc
 - Loss of libido
 - <span style="background:rgba(240, 200, 0, 0.2)">Loss of axillary and pubic hair</span>
 ### Lab findings
-- �?DHEA-S
+- ↓ DHEA-S
 ## Elevated ACTH
-- <span style="background:rgba(240, 200, 0, 0.2)">Hyperpigmentation of areas that are not normally exposed to sunlight (e.g., palmar creases, mucous membrane of the oral cavity)</span> �?tanned skin![Pasted image 20231222100938.png](/img/user/appendix/Pasted%20image%2020231222100938.png)
+- <span style="background:rgba(240, 200, 0, 0.2)">Hyperpigmentation of areas that are not normally exposed to sunlight (e.g., palmar creases, mucous membrane of the oral cavity)</span> → tanned skin![Pasted image 20231222100938.png](/img/user/appendix/Pasted%20image%2020231222100938.png)
 	- caused by increased production of MSH (Melanocyte-Stimulating Hormone), which is cleaved from the same precursor peptide (POMC, Pro-opiomelanocortin) as ACTH.
 
 ---
 # Diagnostics
 - Overnight <span style="background:rgba(240, 200, 0, 0.2)">metyrapone stimulation test</span>
-	- Physiological response: <span style="background:rgba(240, 200, 0, 0.2)">metyrapone inhibits 11β hydroxylase �?impaired conversion of 11-deoxycortisol to cortisol (last step of cortisol synthesis) �?�?serum cortisol �?�?in CRH and plasma ACTH (negative feedback) �?�?in adrenal steroidogenesis �?�?in 11-deoxycortisol level</span>![L20059.jpg](/img/user/appendix/L20059.jpg)
-	- In primary adrenal insufficiency: metyrapone �?�?cortisol synthesis �?�?in CRH/ACTH �?<span style="background:rgba(240, 200, 0, 0.2)">no increase in adrenal steroid production �?no increase in 11-deoxycortisol or cortisol levels</span>
-	- In secondary/tertiary adrenal insufficiency: metyrapone �?�?cortisol �?no increase in CRH/ACTH �?no increase in adrenal steroid production �?no increase in 11-deoxycortisol or cortisol levels
+	- Physiological response: <span style="background:rgba(240, 200, 0, 0.2)">metyrapone inhibits 11β hydroxylase → impaired conversion of 11-deoxycortisol to cortisol (last step of cortisol synthesis) → ↓ serum cortisol → ↑ in CRH and plasma ACTH (negative feedback) → ↑ in adrenal steroidogenesis → ↑ in 11-deoxycortisol level</span>![L20059.jpg](/img/user/appendix/L20059.jpg)
+	- In primary adrenal insufficiency: metyrapone → ↓ cortisol synthesis → ↑ in CRH/ACTH → <span style="background:rgba(240, 200, 0, 0.2)">no increase in adrenal steroid production → no increase in 11-deoxycortisol or cortisol levels</span>
+	- In secondary/tertiary adrenal insufficiency: metyrapone → ↓ cortisol → no increase in CRH/ACTH → no increase in adrenal steroid production → no increase in 11-deoxycortisol or cortisol levels
 
 
 # Treatment
@@ -137,4 +138,3 @@ Adrenal crisis is an <span style="background:rgba(240, 200, 0, 0.2)">acute, seve
 				- Most commonly
 					- Thyroid autoimmune disease (e.g., [[USMLE/Endocrine/Hashimoto thyroiditis\|Hashimoto thyroiditis]])
 					- [[USMLE/Endocrine/Diabetes mellitus\|Type 1 diabetes]] mellitus
-

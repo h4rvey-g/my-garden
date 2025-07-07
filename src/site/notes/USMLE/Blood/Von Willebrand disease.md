@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/blood/von-willebrand-disease/","title":"Von Willebrand disease"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Von Willebrand disease/","title":"Von Willebrand disease"}
 ---
 
 
@@ -23,8 +23,8 @@ Most common congenital bleeding disorder.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Binds factor VIII (and thereby prevents its degradation)</span>
 
 <span style="background:rgba(240, 200, 0, 0.2)">Deficiency or dysfunction of vWF</span> leads to:![Pasted image 20240209102217.png](/img/user/appendix/Pasted%20image%2020240209102217.png)
-- <span style="background:rgba(240, 200, 0, 0.2)">Dysfunctional platelet adhesion �?impaired primary hemostasis</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Reduced binding of factor VIII �?increased degradation �?�?factor VIII activity �?impaired intrinsic pathway of secondary hemostasis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Dysfunctional platelet adhesion → impaired primary hemostasis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Reduced binding of factor VIII → increased degradation → ↓ factor VIII activity → impaired intrinsic pathway of secondary hemostasis</span>
 # Clinical features
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Often asymptomatic</span>
@@ -41,8 +41,8 @@ Most common congenital bleeding disorder.
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Postpartum hemorrhage\|Postpartum hemorrhage]] </span>
 # Diagnostics
 ---
-- �?Bleeding time
-- Normal or �?aPTT (may be prolonged as a result of factor VIII deficiency)
+- ↑ Bleeding time
+- Normal or ↑ aPTT (may be prolonged as a result of factor VIII deficiency)
 - Ristocetin cofactor assay: measures the ability of von Willebrand factor (vWF) to agglutinate platelets.
 	- Ristocetin is an antibiotic that activates vWF to bind glycoprotein Ib, thereby inducing platelet aggregation.
 	- Interpretation: If ristocetin is added to blood lacking vWF (or the vWF receptor), platelets will not aggregate.
@@ -53,4 +53,3 @@ Most common congenital bleeding disorder.
 	- Not effective for type 3 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Has a minimal effect on the V1 vasopressin receptor. Therefore won't cause vasoconstriction.</span>
 - Concentrates containing vWF and factor VIII: indicated for severe bleeding, as prophylaxis for surgical procedures and if DDAVP treatment is ineffective
-

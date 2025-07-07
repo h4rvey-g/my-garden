@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Endocrine/Insulin/"}
+---
+
+- **Patho/Etiology:** Insulin, produced by pancreatic β-cells, is the primary anabolic hormone crucial for glucose homeostasis. Its secretion is a tightly regulated process primarily triggered by blood glucose levels.
+- **Key Stimulators of Insulin Release:**
+    - **Glucose (Primary):** <span style="background:rgba(240, 200, 0, 0.2)">Enters β-cells via GLUT transporters (mainly GLUT2 in rodents, GLUT1/3 in humans). Metabolism of glucose ↑ATP/ADP ratio → closure of ATP-sensitive K+ (KATP) channels → membrane depolarization → opening of voltage-gated Ca<sup>2+</sup> channels (VGCC) → Ca<sup>2+</sup> influx → insulin granule exocytosis.</span> Glucokinase acts as the glucose sensor and is the rate-limiting step.![Pasted image 20250602103716.png](/img/user/appendix/Pasted%20image%2020250602103716.png)
+    - **Incretin Hormones (GLP-1, GIP):** Released from GI tract post-prandially; potentiate glucose-stimulated insulin secretion (GSIS) via Gs-coupled receptors → ↑cAMP → PKA activation.
+    - **Amino Acids:** (e.g., leucine, arginine) Can stimulate insulin secretion, partly via incretin-dependent mechanisms or direct β-cell effects.
+    - **Fatty Acids:** Can augment GSIS; chronic excess can be detrimental (lipotoxicity).
+    - **Parasympathetic Nervous System (Vagus nerve, Acetylcholine):** Stimulates insulin release via Gq-coupled muscarinic receptors → ↑IP3 & DAG → Ca<sup>2+</sup> release from ER & PKC activation.
+    - **Sulfonylureas & Meglitinides:** Drugs that close KATP channels, mimicking glucose effect.
+    - **Glucagon:** Can stimulate insulin secretion (paracrine effect within islet).
+- **Key Inhibitors of Insulin Release:**
+    - **Somatostatin:** Released from pancreatic δ-cells; acts via Gi-coupled receptors → ↓cAMP, activates K+ channels (hyperpolarization), ↓Ca<sup>2+</sup> influx.
+    - **Sympathetic Nervous System (Norepinephrine, Epinephrine):** Act via α2-adrenergic receptors (Gi-coupled) → ↓cAMP, inhibit adenylyl cyclase, open KATP channels, inhibit Ca<sup>2+</sup> influx, and inhibit exocytosis.
+    - **Diazoxide:** Drug that opens KATP channels, inhibiting insulin secretion.
+    - **Prostaglandins:** Can inhibit insulin release.
+- **Mechanism Highlights:**
+    - **Synthesis:** Preproinsulin → proinsulin (ER) → insulin + C-peptide (Golgi, stored in granules).
+    - **Secretion:** Biphasic: 1st phase (rapid, release of readily releasable pool of granules); 2nd phase (sustained, mobilization and synthesis of new granules).
+    - **Amplifying Pathway:** Mechanisms beyond KATP channel closure and Ca<sup>2+</sup> influx that augment insulin secretion, often involving cAMP and byproducts of glucose metabolism.
+- **Clinical Significance:**
+    - **Diabetes Mellitus (Type 1 & 2):** Deficiency or resistance to insulin.
+    - **Hyperinsulinemia/Insulinoma:** Excessive insulin secretion (e.g., due to tumors, genetic defects like PHHI).
+    - **Drug Targets:** KATP channels (sulfonylureas, meglitinides, diazoxide), GLP-1 receptor agonists, DPP-4 inhibitors (prevent incretin degradation).

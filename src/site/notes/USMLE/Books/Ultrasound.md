@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/books/ultrasound/","title":"Ultrasound"}
+{"dg-publish":true,"permalink":"/USMLE/Books/Ultrasound/","title":"Ultrasound"}
 ---
 
 
@@ -14,5 +14,4 @@ annotation-target: Files/Introduction_to_Bedside_Ultrasound_Volume_1_-_Matt_and_
 >
 >
 >{ #56uvyd0t5hx}
-
 

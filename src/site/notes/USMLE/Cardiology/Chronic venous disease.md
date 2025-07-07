@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/chronic-venous-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Chronic venous disease/"}
 ---
 
 # Epidemiology
@@ -40,4 +40,3 @@
 - Treatment
 	- Initiate treatment of CVI, including compression therapy and referral for interventional treatment.
 	- Identify and treat superimposed infections.
-

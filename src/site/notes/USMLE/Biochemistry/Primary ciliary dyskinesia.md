@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/primary-ciliary-dyskinesia/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Primary ciliary dyskinesia/","tags":["t1"]}
 ---
 
 # Definition
@@ -43,4 +43,3 @@ Dynein: a class of motor proteins that <span style="background:rgba(240, 200, 0,
 
 
 ---
-

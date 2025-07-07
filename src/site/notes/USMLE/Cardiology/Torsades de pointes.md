@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/torsades-de-pointes/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Torsades de pointes/"}
 ---
 
 # Etiology
@@ -14,7 +14,7 @@
 - Often asymptomatic
 - Cardiovascular features
 	- Palpitations
-	- Tachycardia (HR �?00/min; typically regular)
+	- Tachycardia (HR ≥100/min; typically regular)
 	- Chest pain/pressure 
 	- [[USMLE/Respiratory/Dyspnea\|Dyspnea]], orthopnea
 	- Symptoms of reduced cardiac output
@@ -37,4 +37,3 @@
 - Identify and treat the underlying etiology of QT prolongation.
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/endocrine/alkaptonuria/"}
+{"dg-publish":true,"permalink":"/USMLE/Endocrine/Alkaptonuria/"}
 ---
 
 # Epidemiology
@@ -12,8 +12,8 @@ Mutation in the HGD gene
 ---
 # Pathophysiology
 ![Pasted image 20231113173155.png](/img/user/appendix/Pasted%20image%2020231113173155.png)![Pasted image 20231107143619.png](/img/user/appendix/Pasted%20image%2020231107143619.png)
-- Lack of functional homogentisic acid dioxygenase �?impaired conversion of homogentisate to 4-maleylacetoacetate
-- <span style="background:rgba(240, 200, 0, 0.2)">Accumulation of homogentisate �?tissue discoloration and organ damage</span>
+- Lack of functional homogentisic acid dioxygenase → impaired conversion of homogentisate to 4-maleylacetoacetate
+- <span style="background:rgba(240, 200, 0, 0.2)">Accumulation of homogentisate → tissue discoloration and organ damage</span>
 
 ---
 # Clinical features
@@ -38,4 +38,3 @@ Mutation in the HGD gene
 
 
 ---
-

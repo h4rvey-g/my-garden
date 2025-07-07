@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/vitamin-d/"}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Vitamin D/"}
 ---
 
 # Epidemiology
@@ -34,5 +34,4 @@
 
 # Treatment
 ---
-
 

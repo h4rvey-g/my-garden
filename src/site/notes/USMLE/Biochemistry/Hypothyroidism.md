@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/biochemistry/hypothyroidism/","tags":["t3"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Hypothyroidism/","tags":["t3"]}
 ---
 
 ![53b4869667ab7d60531d8d4b5dd514de.jpg](/img/user/appendix/53b4869667ab7d60531d8d4b5dd514de.jpg)
@@ -19,8 +19,8 @@
 	- [[USMLE/Endocrine/Riedel thyroiditis\|Riedel thyroiditis]]: occurs in IgG4-related systemic disease
 	- Wolff-Chaikoff effect
 	- Thyroid dysplasia: a disorder of embryologic development characterized by abnormal development and/or location of thyroid tissue (e.g., lingual thyroid)
-- <span style="background:rgba(240, 200, 0, 0.2)">Secondary hypothyroidism: pituitary disorders (e.g., [[USMLE/Endocrine/Pituitary adenoma\|pituitary adenoma]]) �?TSH deficiency</span>
-- Tertiary hypothyroidism: hypothalamic disorders �?TRH deficiency
+- <span style="background:rgba(240, 200, 0, 0.2)">Secondary hypothyroidism: pituitary disorders (e.g., [[USMLE/Endocrine/Pituitary adenoma\|pituitary adenoma]]) → TSH deficiency</span>
+- Tertiary hypothyroidism: hypothalamic disorders → TRH deficiency
 
 ---
 # Pathophysiology
@@ -66,7 +66,7 @@ Hypothyroidism is treated with lifelong hormone substitution.
 ## Clinical features
 - Asymptomatic at birth
 - Symptomatic weeks to months after birth (as maternal T4 wanes)
-	- Hypometabolism: �?HR & temperature, lethargy/poor feeding, hypotonia, [[USMLE/GI/Constipation\|constipation]], jaundice
+	- Hypometabolism: ↓ HR & temperature, lethargy/poor feeding, hypotonia, [[USMLE/GI/Constipation\|constipation]], jaundice
 	- Mucopolysaccharide accumulation: macroglossia, umbilical hernia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cretinism</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Endocrine/Nonpitting edema\|Nonpitting edema]] (eg, "puffy" face), umbilical hernia, protruding tongue, and a large anterior fontanelle</span>
@@ -76,6 +76,5 @@ Hypothyroidism is treated with lifelong hormone substitution.
 >Most children with congenital hypothyroidism <span style="background:rgba(240, 200, 0, 0.2)">do not have symptoms at the time of birth because the placenta supplies the fetus with maternal thyroid hormone.</span> For this reason, neonatal screening is vital even if children are asymptomatic. Irreversible intellectual disabilities can be avoided through early initiation of adequate therapy!
 
 ## Diagnostics
-- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal screening to measure TSH levels</span> 24�?8 hours after birth is required by law.
+- <span style="background:rgba(240, 200, 0, 0.2)">Neonatal screening to measure TSH levels</span> 24–48 hours after birth is required by law.
 - Increased TSH levels indicate congenital hypothyroidism.
-

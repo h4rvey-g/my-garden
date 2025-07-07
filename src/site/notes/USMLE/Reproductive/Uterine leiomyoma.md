@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/uterine-leiomyoma/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Uterine leiomyoma/"}
 ---
 
 # Epidemiology
@@ -10,7 +10,7 @@
 ## Predisposing factors
 - <span style="background:rgba(240, 200, 0, 0.2)">Nulliparity</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Early menarche (&lt; 10 years of age)</span>
-- Age: 25�?5 years
+- Age: 25–45 years
 	- Fibroids are <span style="background:rgba(240, 200, 0, 0.2)">largely found in women of reproductive age.</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Influenced by hormones</span> (i.e., estrogen, growth hormone, and progesterone)
 	- <span style="background:rgba(240, 200, 0, 0.2)">During [[USMLE/Reproductive/Menopause\|menopause]], hormone levels begin to decrease and leiomyomas begin to shrink.</span>
@@ -67,4 +67,3 @@ Rare malignant tumor arising from the smooth muscle cells of the myometrium
 
 
 ---
-

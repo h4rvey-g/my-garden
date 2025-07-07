@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/gastrinoma/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Gastrinoma/"}
 ---
 
 # Epidemiology
@@ -8,15 +8,15 @@
 ---
 # Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Gastrinomas are assumed to arise from endocrine cells of the gut (mostly the duodenum) or the pancreas. </span>
-- Most gastrinomas occur sporadically (�?75% of cases).
-- Some gastrinomas occur in association with [[USMLE/Endocrine/Multiple endocrine neoplasias\|multiple endocrine neoplasia]] type 1 (MEN 1) (�?25% of cases).
+- Most gastrinomas occur sporadically (∼ 75% of cases).
+- Some gastrinomas occur in association with [[USMLE/Endocrine/Multiple endocrine neoplasias\|multiple endocrine neoplasia]] type 1 (MEN 1) (∼ 25% of cases).
 
 ---
 # Pathophysiology
 - Gastrinomas are neuroendocrine tumors of the GI tract that secrete gastrin. 
-- Hypergastrinemia �?stimulation of parietal cells �?gastric acid hypersecretion, which leads to:
+- Hypergastrinemia → stimulation of parietal cells → gastric acid hypersecretion, which leads to:
 	- [[USMLE/GI/Peptic ulcer disease\|Peptic ulcer disease]]
-	- Inactivation of pancreatic enzymes �?diarrhea, [[USMLE/GI/Steatorrhea\|steatorrhea]] �?[[USMLE/GI/Malabsorption\|malabsorption]]
+	- Inactivation of pancreatic enzymes → diarrhea, [[USMLE/GI/Steatorrhea\|steatorrhea]] → [[USMLE/GI/Malabsorption\|malabsorption]]
 		- The high volume of gastric acid that is produced <span style="background:rgba(240, 200, 0, 0.2)">decreases intestinal pH.</span> <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic lipases, which require an alkaline environment to function, are inactivated and can no longer emulsify fats.</span> Moreover, gastrin acts directly on the intestine and prevents sodium and water reabsorption, resulting in secretory diarrhea.
 
 ---
@@ -38,7 +38,7 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">In individuals with gastrinoma, secretin infusion causes a dramatic increase in gastrin secretion.</span>
 			- Gastrinoma cells have altered receptor signaling that make them respond aberrantly to secretin stimulation.
 	- Findings
-		- �?Serum gastrin by > 120 pg/mL over baseline FSG confirms gastrinoma
+		- ↑ Serum gastrin by > 120 pg/mL over baseline FSG confirms gastrinoma
 - Esophagogastroduodenoscopy (EGD)
 	- Single duodenal ulcers (most common) or multiple ulcers <span style="background:rgba(240, 200, 0, 0.2)">in atypical locations (e.g., distal duodenum, jejunum) </span>
 	- Thick gastric folds
@@ -48,4 +48,3 @@
 
 
 ---
-

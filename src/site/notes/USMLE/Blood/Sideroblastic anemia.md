@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Blood/Sideroblastic anemia/"}
+---
+
+- Description: [[USMLE/Blood/Anemia\|anemia]] caused by defective heme metabolism, which leads to iron trapping inside the mitochondria
+- Etiology
+	- Inherited: X-linked sideroblastic [[USMLE/Blood/Anemia\|anemia]] due to a δ-ALA-synthase gene defect
+	- Acquired
+		- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/Vitamin B6\|Vitamin B6]] deficiency</span>
+		- [[USMLE/Pathology/Lead poisoning\|Lead poisoning]] 
+		- [[USMLE/GI/Alcohol use disorder\|Alcohol use disorder]]
+		- Drugs (e.g., chloramphenicol, <span style="background:rgba(240, 200, 0, 0.2)">isoniazid</span>, linezolid)
+- Diagnostics
+	- CBC: microcytic anemia
+		- Serum iron studies
+		- High ferritin
+		- High iron 
+		- High transferrin saturation
+		- Normal/low TIBC
+	- Peripheral blood smear
+		- Basophilic stippling of RBCs
+	- Prussian blue staining of bone marrow: ringed sideroblasts![Pasted image 20250518170849.png](/img/user/appendix/Pasted%20image%2020250518170849.png)![Pasted image 20231216153044.png](/img/user/appendix/Pasted%20image%2020231216153044.png)![Pasted image 20231216153055.png](/img/user/appendix/Pasted%20image%2020231216153055.png)

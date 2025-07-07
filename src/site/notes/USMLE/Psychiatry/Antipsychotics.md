@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/psychiatry/antipsychotics/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Antipsychotics/","tags":["t2"]}
 ---
 
 >[!Mnemonic] 
@@ -7,7 +7,7 @@
 >Psychotic patients sometimes take a <font color="#ffc000">DetouR</font> from reality.![Pasted image 20240315135310.png](/img/user/appendix/Pasted%20image%2020240315135310.png)
 
 
-- First-generation antipsychotics (also called typical antipsychotics): block D2 receptor �?�?cAMP
+- First-generation antipsychotics (also called typical antipsychotics): block D2 receptor → ↑ cAMP
 	- High-potency antipsychotics have a strong antipsychotic effect even at relatively low doses, but they also more commonly cause neurologic side effects (e.g., extrapyramidal symptoms) than low-potency antipsychotics.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Haloperidol</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Fluphenazine</span>
@@ -48,7 +48,8 @@
 - First discovered, wide range of indications
 - Corneal deposits
 >[!Mnemonic] 
->氯丙嗪，治精神；阻断多巴Ma不灵。止吐冬眠和降温，就是不治晕动病。不良反应帕金森，张口伸舌坐不能。口干好似阿托品，乳汁分泌羞死人�?
+>氯丙嗪，治精神；阻断多巴Ma不灵。止吐冬眠和降温，就是不治晕动病。不良反应帕金森，张口伸舌坐不能。口干好似阿托品，乳汁分泌羞死人。
+
 >[!Mnemonic] 
 ><font color="#ffc000">Chlor</font>-neal deposits
 ### Adverse effects
@@ -101,7 +102,7 @@
 	- Extrapyramidal symptoms (less common than FGAs)
 ## [[USMLE/Endocrine/Hyperprolactinemia\|Hyperprolactinemia]]
 - Elevated prolactin levels: Dopamine inhibits the release of prolactin via the D2 receptor in the tuberoinfundibular pathway. Therefore, <span style="background:rgba(240, 200, 0, 0.2)">dopamine antagonists increase the effects of prolactin</span>.![L26372.jpg](/img/user/appendix/L26372.jpg)
-- <span style="background:rgba(240, 200, 0, 0.2)">�?Prolactin �?suppression of GnRH �?�?LH, �?FSH �?�?[[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]], �?testosterone �?hypogonadotropic hypogonadism</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">↑ Prolactin → suppression of GnRH → ↓ LH, ↓ FSH → ↓ [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]], ↓ testosterone → hypogonadotropic hypogonadism</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Most common in risperidone, amisulpride</span>
 - In men: gynecomastia, galactorrhea, hypogonadotropic hypogonadism (erectile dysfunction, reduced libido, infertility)
 - In women: galactorrhea, oligomenorrhea, hypogonadotropic hypogonadism (<span style="background:rgba(240, 200, 0, 0.2)">amenorrhea</span>, reduced libido, infertility)
@@ -110,8 +111,8 @@
 ><font color="#ffc000">RISE-PAIR</font>-idone gives <font color="#ffc000">RISE</font> to a <font color="#ffc000">PAIR</font>![Pasted image 20240315143057.png](/img/user/appendix/Pasted%20image%2020240315143057.png)
 ## Extrapyramidal symptoms (EPS)
 - Pathophysiology: Inhibition of the nigrostriatal dopaminergic pathways results in EPS.
-	- First-generation high-potency antipsychotics: D2 antagonism �?EPS
-	- Second-generation antipsychotics: weaker D2 antagonism �?fewer EPS
+	- First-generation high-potency antipsychotics: D2 antagonism → EPS
+	- Second-generation antipsychotics: weaker D2 antagonism → fewer EPS
 - Clinical features similar to [[USMLE/Neurology/Parkinson disease\|Parkinson disease]]: Muscle, rustle, and hustle![Pasted image 20240317222923.png](/img/user/appendix/Pasted%20image%2020240317222923.png)
 	- Acute dystonia
 		- Onset: <span style="background:rgba(240, 200, 0, 0.2)">Hours to days</span>
@@ -121,9 +122,9 @@
 		- Oculogyric crisis (upward deviation of the eyes)
 		- In severe cases: laryngospasm, opisthotonus of the back
 	- Pseudoparkinsonism
-		- Onset: �?1�? weeks
+		- Onset: ∼ 1–4 weeks
 	- Akathisia
-		- 1�? weeks
+		- 1–8 weeks
 		- <span style="background:rgba(240, 200, 0, 0.2)">Restlessness/compelling urge to move</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Inability to sit or stand still</span>
 		- See [[USMLE/Neurology/Restless legs syndrome\|Restless legs syndrome]]
@@ -139,7 +140,7 @@
 >[!Mnemonic] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Chewing Tar</span>dive![32wab_.gif](/img/user/appendix/32wab_.gif)
 ## 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/usmle/psychiatry/neuroleptic-malignant-syndrome/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/USMLE/Psychiatry/Neuroleptic malignant syndrome/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -213,7 +214,5 @@ Clinical features similar to [[USMLE/Neurology/Serotonin syndrome\|Serotonin syn
 	- Calcium-channel blockers: for hypertension
 
 
-
 </div></div>
-
 

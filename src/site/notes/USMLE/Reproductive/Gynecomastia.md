@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/gynecomastia/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Gynecomastia/"}
 ---
 
 # Epidemiology
@@ -10,7 +10,7 @@
 ---
 ## Physiological gynecomastia
 - <span style="background:rgba(240, 200, 0, 0.2)">Pubertal gynecomastia</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Occurs in �?50% of adolescent boys</span> (typically occurs in patients aged 10�?4 years)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Occurs in ∼ 50% of adolescent boys</span> (typically occurs in patients aged 10–14 years)
 	- Caused by pubertal [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]]/[[USMLE/Reproductive/Androgen and estrogen synthesis\|androgen]] imbalance 
 	- Clinical features
 		- <span style="background:rgba(240, 200, 0, 0.2)">Small, mobile, firm plaques of breast tissue in the subareolar region</span> that develop during puberty
@@ -22,9 +22,9 @@
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Estrogens**                                        | Direct stimulation of ductal epithelial hyperplasia                                                                   |
 | **Antiandrogens** (e.g., flutamide, bicalutamide)    | Competitive inhibition of testosterone receptor                                                                       |
-| **5-alpha reductase inhibitors** (e.g., finasteride) | �?Conversion of testosterone to dihydrotestosterone                                                                   |
-| **Spironolactone**                                   | <span style="background:rgba(240, 200, 0, 0.2)">�?Testosterone synthesis & inhibition of testosterone receptor</span> |
-| **Ketoconazole**                                     | �?Synthesis of steroid hormones (�?androgen > �?estrogen)                                                             |
+| **5-alpha reductase inhibitors** (e.g., finasteride) | ↓ Conversion of testosterone to dihydrotestosterone                                                                   |
+| **Spironolactone**                                   | <span style="background:rgba(240, 200, 0, 0.2)">↓ Testosterone synthesis & inhibition of testosterone receptor</span> |
+| **Ketoconazole**                                     | ↓ Synthesis of steroid hormones (↓ androgen > ↓ estrogen)                                                             |
 | **Cimetidine**                                       | Inhibition of testosterone receptor                                                                                   |
 | **Androgen-anabolic steroids**                       | Aromatization of androgens to estrogen                                                                                |
 
@@ -43,5 +43,4 @@
 
 # Treatment
 ---
-
 

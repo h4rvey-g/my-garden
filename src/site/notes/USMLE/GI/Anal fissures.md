@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/gi/anal-fissures/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Anal fissures/"}
 ---
 
 # Epidemiology
@@ -26,4 +26,3 @@
 # Treatment
 ---
 <% tp.file.cursor() %>
-
