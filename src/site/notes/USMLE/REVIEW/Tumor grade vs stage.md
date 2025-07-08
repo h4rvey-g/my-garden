@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/review/tumor-grade-vs-stage/"}
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Tumor grade vs stage/"}
 ---
 
 # Tumor Grade: Degree of Differentiation
@@ -29,4 +29,3 @@
 - **Grade = "Differentiation"** (microscopic)
 - **Stage = "Spread"** (anatomic, macroscopic)
 - **Prognosis:** Stage > Grade. The presence of metastases (**M1**) is the single most important prognostic factor in the TNM system.
-

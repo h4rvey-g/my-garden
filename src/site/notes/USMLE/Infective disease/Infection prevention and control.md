@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/infection-prevention-and-control/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Infection prevention and control/"}
 ---
 
 # Disinfectants, antiseptics, and sterilization
@@ -27,4 +27,3 @@
 	- Replace lines that were inserted emergently within 2 days. 
 	- Perform regular maintenance.
 	- <span style="background:rgba(240, 200, 0, 0.2)">Routine replacement of CVCs is not necessary</span> for functional catheters with no evidence of infection.
-

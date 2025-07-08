@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pneumoconioses/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pneumoconioses/"}
 ---
 
 | Disorder                | Risk Factors                                                                                      | Objective Findings                                                                                                             | Complications                                                                                             |
@@ -15,7 +15,8 @@
 
 # Mnemonics
 ---
-## **“Silly** **Sand**y **rock**s! She builds **tunnel**s�?
+## **“Silly** **Sand**y **rock**s! She builds **tunnel**s”
+
 **Silicosis:** 
 
 - Sanblasting  
@@ -27,9 +28,10 @@
 
 ![image](https://64.media.tumblr.com/2cacec5df42c533494517afc5ad416a1/tumblr_o2znklblNB1tkb2p0o1_500.gifv)
 
-[原始发布�?achingtentacles](https://tmblr.co/Zin_dm22KSVqC)
+[原始发布： achingtentacles](https://tmblr.co/Zin_dm22KSVqC)
 
-## �?*Beto** **insul**ts that **ship**’s **pipe**s�?
+## “**Beto** **insul**ts that **ship**’s **pipe**s”
+
 **Asbestosis**
 
 - Insulators  
@@ -41,27 +43,29 @@
 
 ![image](https://64.media.tumblr.com/32930d8023b9faf00f0dc7f8fda7bd8b/tumblr_n3kk00oeiw1ts5cj5o1_500.gifv)
 
-[原始发布�?banditnarwhal](https://tmblr.co/ZdtaUo1CBMh3_)
+[原始发布： banditnarwhal](https://tmblr.co/ZdtaUo1CBMh3_)
 
-## �?*Busy cotton**�?
+## “**Busy cotton**”
+
 Byssinosis:
 
 - Cotton
 
 ![image](https://64.media.tumblr.com/f501f832d92b6063f5c2be9aad649ede/tumblr_ng7yqmy3C61sib7nzo1_500.gifv)
 
-[原始发布�?mabohstarbuck](https://tmblr.co/ZEbRRq1YhH5Px)
+[原始发布： mabohstarbuck](https://tmblr.co/ZEbRRq1YhH5Px)
 
-## �?*Very electronic**�?
+## “**Very electronic**”
+
 Berylliosis:
 
 - Electronic manufacture
 
 ![image](https://64.media.tumblr.com/e6a1329de2c0ecb513397bb997103f55/tumblr_noq606uS6Z1r1d4seo1_500.gifv)
 
-[原始发布�?bullet-proof-love-ptv](https://tmblr.co/Z5rz1x1lMRM7w)
+[原始发布： bullet-proof-love-ptv](https://tmblr.co/Z5rz1x1lMRM7w)
 
-## �?*Sugar** makes me **vaga�?* (vaga is Spanish for lazy)
+## “**Sugar** makes me **vaga”** (vaga is Spanish for lazy)
 
 Bagassosis:
 
@@ -70,7 +74,7 @@ Bagassosis:
 
 ![image](https://64.media.tumblr.com/38560c9a428df55731a2e625ffae8c88/tumblr_nt9var9aIA1udhd59o1_500.gifv)
 
-[原始发布�?yoitskojo](https://tmblr.co/ZV5-ij1sGtb7b)
+[原始发布： yoitskojo](https://tmblr.co/ZV5-ij1sGtb7b)
 
 # Pathophysiology
 
@@ -85,7 +89,7 @@ Bagassosis:
 	- Ship construction workers
 	- Demolishers
 - Clinical features: 
-	- Symptoms typically develop 15�?0 years after initial exposure.
+	- Symptoms typically develop 15–20 years after initial exposure.
 	- Exertional dyspnea
 	- Dry cough that transforms into productive cough
 	- Digital clubbing
@@ -114,7 +118,7 @@ Bagassosis:
 - Chest x-ray
 	- <span style="background:rgba(240, 200, 0, 0.2)">Eggshell calcification</span>: well-defined sickle-shaped calcification of the rims of hilar lymph nodes![Pasted image 20230805164438.png](/img/user/appendix/Pasted%20image%2020230805164438.png)
 	- Bilateral diffuse ground glass opacities
-	- Large number of rounded, solitary, small (�?1 cm in diameter) opacities particularly in the <span style="background:rgba(240, 200, 0, 0.2)">upper lobe of the lungs</span>
+	- Large number of rounded, solitary, small (≤ 1 cm in diameter) opacities particularly in the <span style="background:rgba(240, 200, 0, 0.2)">upper lobe of the lungs</span>
 - Biopsy: silicotic nodules, characterized by weakly <span style="background:rgba(240, 200, 0, 0.2)">birefringent silica particles</span> in a central hyalinized region surrounded by concentric "onion-skin" collagen fibers![Pasted image 20250422114625.png](/img/user/appendix/Pasted%20image%2020250422114625.png)
 - Etiology: 
 - Population at risk: 
@@ -148,4 +152,3 @@ Bagassosis:
 
 
 ---
-

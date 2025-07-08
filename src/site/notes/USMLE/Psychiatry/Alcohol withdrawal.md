@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/psychiatry/alcohol-withdrawal/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Alcohol withdrawal/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -33,4 +33,3 @@
 
 >[!Mnemonic] 
 ><span style="background:rgba(240, 200, 0, 0.2)">Alcohol, barbiturates, and benzodiazepines all enhance GABA receptors, so their withdrawal syndromes share similar symptoms</span> (seizures, tachycardia, and tremors).
-

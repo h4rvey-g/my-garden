@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/nail-clubbing/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Nail clubbing/"}
 ---
 
 - Pathophysiology
@@ -20,5 +20,4 @@
 	- IBD
 	- <span style="background:rgba(240, 200, 0, 0.2)">Not associated with [[USMLE/Respiratory/Chronic obstructive pulmonary disease\|COPD]], [[USMLE/Respiratory/Asthma\|asthma]]</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">COPD per se does not cause clubbing, but if clubbing is present in COPD, underlying lung cancer and bronchiectasis must be ruled out.</span>
-
 

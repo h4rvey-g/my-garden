@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/leptospirosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Leptospirosis/"}
 ---
 
 # Epidemiology
@@ -36,5 +36,4 @@ Most commonly found in tropical climates
 
 # Treatment
 ---
-
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/genetic-diseases-associated-with-cardiac-defects/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Genetic diseases associated with cardiac defects/"}
 ---
 
 - [[USMLE/Reproductive/Differences (disorders) of sex development\|Turner syndrome]] (45,X):
@@ -32,4 +32,3 @@
 	- Ventricular septal defects
 - [[USMLE/Neurology/Friedreich ataxia\|Friedreich ataxia]]
 	- Concentric <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Hypertrophic cardiomyopathy\|hypertrophic cardiomyopathy]]</span>
-

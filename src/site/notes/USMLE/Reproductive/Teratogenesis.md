@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/teratogenesis/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Teratogenesis/"}
 ---
 
 # Medications
@@ -20,4 +20,3 @@
 ## [[USMLE/Neurology/Anticonvulsant drugs\|Antiepileptic drugs]]
 - [[USMLE/Reproductive/Neural tube defects\|Neural tube defects]], cardiac defects, [[USMLE/Reproductive/Cleft lip and cleft palate\|cleft palate]], skeletal abnormalities (eg, phalanx/nail hypoplasia, facial dysmorphism). 
 - Most commonly due to [[USMLE/Neurology/Anticonvulsant drugs\|valproate]], <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Neurology/Anticonvulsant drugs\|carbamazepine]]</span>, phenytoin, phenobarbital; high-dose folate supplementation recommended.
-

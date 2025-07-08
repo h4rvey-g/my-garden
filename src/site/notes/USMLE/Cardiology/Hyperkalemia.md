@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/hyperkalemia/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Hyperkalemia/"}
 ---
 
 # Epidemiology
@@ -47,4 +47,3 @@
 - Adverse effects
 	- Gastrointestinal upset
 	- [[USMLE/Cardiology/Hypokalemia\|Hypokalemia]]
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/hypertrophic-cardiomyopathy/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Hypertrophic cardiomyopathy/"}
 ---
 
 # Epidemiology
@@ -10,7 +10,7 @@
 - HCM is a genetic condition characterized by <span style="background:rgba(240, 200, 0, 0.2)">otherwise unexplained left ventricular hypertrophy. </span>
 - Most common hereditary heart disease
 	- Autosomal dominant inheritance with varying penetrance
-	- Most commonly caused by <span style="background:rgba(240, 200, 0, 0.2)">mutations</span> of the sarcomeric protein genes (e.g., <span style="background:rgba(240, 200, 0, 0.2)">myosin heavy chain</span>, myosin binding protein C) �?<span style="background:rgba(240, 200, 0, 0.2)">disorganization of myocyte</span> architecture characterized by myofibrillar disarray and fibrosis![L65531.jpg](/img/user/appendix/L65531.jpg)![L65544.jpg](/img/user/appendix/L65544.jpg)
+	- Most commonly caused by <span style="background:rgba(240, 200, 0, 0.2)">mutations</span> of the sarcomeric protein genes (e.g., <span style="background:rgba(240, 200, 0, 0.2)">myosin heavy chain</span>, myosin binding protein C) → <span style="background:rgba(240, 200, 0, 0.2)">disorganization of myocyte</span> architecture characterized by myofibrillar disarray and fibrosis![L65531.jpg](/img/user/appendix/L65531.jpg)![L65544.jpg](/img/user/appendix/L65544.jpg)
 - Other conditions that are associated with left-ventricular hypertrophy include the following:
 	- Chronic hypertension (most common cause of left ventricular hypertrophy)
 	- [[USMLE/Cardiology/Aortic valve stenosis\|Aortic stenosis]]
@@ -25,12 +25,12 @@
 ## HOCM
 - Mechanisms of obstruction
 	- <span style="background:rgba(240, 200, 0, 0.2)">Systolic anterior motion (SAM) of the mitral valve, results in mitral-septal contact during mid-to-late systole</span> ; caused by either or both:![Pasted image 20240120195607.png](/img/user/appendix/Pasted%20image%2020240120195607.png)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Venturi effect: accelerated blood flow through ventricular outflow tract creates negative pressure that pulls the mitral valve towards the septum �?increased outflow tract obstruction</span>
-		- Ejection against an elongated and distorted mitral valve causes leaflets to get pulled into the outflow tract �?potential secondary mitral regurgitation 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Venturi effect: accelerated blood flow through ventricular outflow tract creates negative pressure that pulls the mitral valve towards the septum → increased outflow tract obstruction</span>
+		- Ejection against an elongated and distorted mitral valve causes leaflets to get pulled into the outflow tract → potential secondary mitral regurgitation 
 	- Muscular obstruction
 		- Encroachment of the LVOT by the hypertrophic septum
 - <span style="background:rgba(240, 200, 0, 0.2)">LVOT obstruction is dynamic </span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">The following factors can increase the degree of obstruction: �?LV contractility, �?preload, and �?afterload </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">The following factors can increase the degree of obstruction: ↑ LV contractility, ↓ preload, and ↓ afterload </span>
 	- Clinically exacerbating factors 
 		- These factors lead to <span style="background:rgba(240, 200, 0, 0.2)">increased heart contraction force</span> and cardiac output and, thus, enhance the ejection flow. This <span style="background:rgba(240, 200, 0, 0.2)">increases the Venturi effect</span> force described above.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Physical exercise/stress</span>
@@ -74,4 +74,3 @@
 
 
 ---
-

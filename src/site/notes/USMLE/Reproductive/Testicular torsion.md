@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/testicular-torsion/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Testicular torsion/"}
 ---
 
 # Epidemiology
 ---
-Peak incidence: neonatal period (first 30 days of life) and during puberty (10�?4 years)
+Peak incidence: neonatal period (first 30 days of life) and during puberty (10–14 years)
 
 # Etiology
 ---
@@ -15,9 +15,9 @@ Peak incidence: neonatal period (first 30 days of life) and during puberty (10�
 # Pathophysiology
 ---
 - Testicular torsion is a <span style="background:rgba(240, 200, 0, 0.2)">sudden twisting of the spermatic cord (and vascular pedicle) associated with a poorly secured testis.</span>
-	- Because of a congenital abnormality in which the tunica vaginalis attaches to the superior pole of the testis (bell-clapper deformity) �?increased mobility of testis within tunica vaginalis, with possible abnormal transverse lie of testis �?torsion of the testis (along the spermatic cord)![Pasted image 20240216092916.png](/img/user/appendix/Pasted%20image%2020240216092916.png)
+	- Because of a congenital abnormality in which the tunica vaginalis attaches to the superior pole of the testis (bell-clapper deformity) → increased mobility of testis within tunica vaginalis, with possible abnormal transverse lie of testis → torsion of the testis (along the spermatic cord)![Pasted image 20240216092916.png](/img/user/appendix/Pasted%20image%2020240216092916.png)
 - Torsion results in venous engorgement with consequent arterial compromise, tissue ischemia, and possible infarction.
-- Irreversible damage occurs after 6�?2 hours of torsion.
+- Irreversible damage occurs after 6–12 hours of torsion.
 
 ---
 # Clinical features
@@ -48,4 +48,3 @@ Peak incidence: neonatal period (first 30 days of life) and during puberty (10�
 
 
 ---
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Blood/Paroxysmal nocturnal hemoglobinuria/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Paroxysmal nocturnal hemoglobinuria/","tags":["t2"]}
 ---
 
 An acquired genetic defect of the hematopoietic stem cell characterized by <span style="background:rgba(240, 200, 0, 0.2)">a triad of hemolytic [[USMLE/Blood/Anemia\|anemia]], [[USMLE/Blood/Pancytopenia\|pancytopenia]], and thrombosis</span>
@@ -33,7 +33,7 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 	- Headache, [[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]]
 	- Abdominal pain, dysphagia, erectile dysfunction
 - <span style="background:rgba(240, 200, 0, 0.2)">Venous thrombosis in unusual locations (e.g., hepatic, cerebral, and/or abdominal veins)</span>
-	- Hemolysis generates free Hb, which scavenges serum nitric oxide (a vasodilator), causing vasoconstriction.
+	- Hemolysis generates free Hb, which scavenges serum nitric oxide (a [[USMLE/REVIEW/Vasodilators\|vasodilator]]), causing vasoconstriction.
 	- Free Hb also promotes oxidative stress, which activates the endothelium of blood vessels, inducing platelet aggregation.
 - Increased risk of infections (in case of [[USMLE/Blood/Pancytopenia\|pancytopenia]])
 
@@ -47,6 +47,7 @@ An acquired genetic defect of the hematopoietic stem cell characterized by <span
 
 ---
 # Treatment
-
+- Indications include severe anemia, thrombosis, severe fatigue, pain crises, and end-organ damage
+- <span style="background:rgba(240, 200, 0, 0.2)">First-line treatment: complement inhibition with an anti-C5 antibody (e.g., eculizumab, ravulizumab)</span>![Pasted image 20250707203928.png](/img/user/appendix/Pasted%20image%2020250707203928.png)
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/breast-cancer/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Breast cancer/","tags":["t1"]}
 ---
 
 # Breast anatomy
@@ -24,22 +24,22 @@
 - **Fibrocystic Changes:**
     - **General:** Premenopausal; bilateral, often painful, lumpy breasts, symptoms vary with menstrual cycle. Cysts may have a "blue dome" appearance.
     - **Nonproliferative lesions:** No increased cancer risk.
-    - **Sclerosing Adenosis:** Proliferative; acini, stromal fibrosis, often calcifications (can mimic cancer). Slight �?cancer risk.
-    - **Epithelial Hyperplasia (with atypia - ADH, ALH):** Proliferative; significantly �?cancer risk (4-5x).
+    - **Sclerosing Adenosis:** Proliferative; acini, stromal fibrosis, often calcifications (can mimic cancer). Slight ↑ cancer risk.
+    - **Epithelial Hyperplasia (with atypia - ADH, ALH):** Proliferative; significantly ↑ cancer risk (4-5x).
 - **Inflammatory Processes:**
     - **Fat Necrosis:** History of trauma/surgery; firm mass, mammographic calcifications (oil cyst), or skin changes mimicking cancer. Biopsy: necrotic fat, lipid-laden macrophages, giant cells.
     - **Lactational Mastitis:** [[USMLE/Reproductive/Infant nutrition and breastfeeding\|Breastfeeding]] woman; localized erythema, pain, fever. Usually _S. aureus_. **Key:** Continue [[USMLE/Reproductive/Infant nutrition and breastfeeding\|breastfeeding]]/pumping + [[USMLE/Pharmacology/Antibiotics\|antibiotics]].
     - **[[USMLE/Reproductive/Mammary duct ectasia\|Mammary Duct Ectasia]]:** Perimenopausal women, smokers common; periareolar mass, nipple retraction, thick, multicolored (often green-brown) [[USMLE/Reproductive/Nipple discharge\|nipple discharge]]. Plasma cells on histology.
 - **Benign Tumors:**
     - **Fibroadenoma:** Most common in women < 35 yrs; well-defined, mobile ("breast mouse"), rubbery, painless mass. Estrogen sensitive. Usually no increased cancer risk.
-    - <span style="background:rgba(240, 200, 0, 0.2)">**Intraductal Papilloma:** Most common cause of bloody or serosanguineous nipple discharge. Small tumor in lactiferous duct. Slight �?cancer risk.</span>
+    - <span style="background:rgba(240, 200, 0, 0.2)">**Intraductal Papilloma:** Most common cause of bloody or serosanguineous nipple discharge. Small tumor in lactiferous duct. Slight ↑ cancer risk.</span>
     - **Phyllodes Tumor:** Large, bulky mass with "leaf-like" projections on histology. More common in 5th decade. Can be benign, borderline, or malignant.
-- **Gynecomastia:** Benign male breast enlargement due to �?estrogen relative to androgens. Causes: physiologic (newborn, puberty, elderly), cirrhosis, testicular tumors, Klinefelter syndrome, drugs (e.g., **S**pironolactone, **K**etoconazole, **C**imetidine).
+- **Gynecomastia:** Benign male breast enlargement due to ↑ estrogen relative to androgens. Causes: physiologic (newborn, puberty, elderly), cirrhosis, testicular tumors, Klinefelter syndrome, drugs (e.g., **S**pironolactone, **K**etoconazole, **C**imetidine).
     
 
 **II. Malignant Breast Diseases (Breast Cancer)**
 
-- **Key Risk Factors:** �?Age, BRCA1/BRCA2, family history, atypical hyperplasia, unopposed estrogen exposure.
+- **Key Risk Factors:** ↑ Age, BRCA1/BRCA2, family history, atypical hyperplasia, unopposed estrogen exposure.
 - **Noninvasive Carcinomas:**
     - **Ductal Carcinoma In Situ (DCIS):** Malignant cells in duct _without_ basement membrane invasion. Often seen as microcalcifications on mammography. Precursor to invasive ductal carcinoma.
     - **Lobular Carcinoma In Situ (LCIS):** Abnormal cells in lobules _without_ basement membrane invasion. _Loss of E-cadherin_ is characteristic. Often incidental finding. Increased risk of invasive cancer in _either_ breast.
@@ -116,7 +116,7 @@
 ## Invasive carcinomas
 ### Invasive ductal carcinoma (IDC)
 - Characteristics
-	- <span style="background:rgba(240, 200, 0, 0.2)">Most common type of invasive breast cancer (�?80%) </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Most common type of invasive breast cancer (∼ 80%) </span>
 	- Aggressive formation of metastases
 - Localization
 	- Unilateral
@@ -131,11 +131,11 @@
 - Differential diagnosis: fibroadenoma
 ### Invasive lobular carcinoma (ILC) 
 - Characteristics
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?10% of all invasive breast carcinomas</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">∼ 10% of all invasive breast carcinomas</span>
 	- Less aggressive than ductal carcinoma
 	- Monomorphic cells in a <span style="background:rgba(240, 200, 0, 0.2)">single file pattern</span> due to a decrease in E-cadherin expression![paste-225636106895941.jpg](/img/user/appendix/paste-225636106895941.jpg)
 - Localization
-	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral</span> in �?20% of cases
+	- <span style="background:rgba(240, 200, 0, 0.2)">Bilateral</span> in ∼ 20% of cases
 	- <span style="background:rgba(240, 200, 0, 0.2)">Frequently multifocal</span>
 
 >[!Mnemonic] 
@@ -202,6 +202,5 @@ ERBB2-targeted therapy includes <span style="background:rgba(240, 200, 0, 0.2)">
 - Indication: all ERBB2+ tumors
 - First-line agent: trastuzumab
 	- A humanized monoclonal antibody against the ERBB2 tyrosine kinase receptor; used in the treatment of ERBB2+ breast and [[USMLE/GI/Gastric cancer\|gastric cancer]] 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: targets c-erbB2 tyrosine kinase receptor �?�?of ERBB2-initiated cellular signaling and �?antibody-dependent cytotoxicity �?�?tumor growth</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Mechanism of action: targets c-erbB2 tyrosine kinase receptor → ↓ of ERBB2-initiated cellular signaling and ↑ antibody-dependent cytotoxicity → ↓ tumor growth</span>
 	- Adverse effects: cardiotoxicity (e.g., [[USMLE/Cardiology/Dilated cardiomyopathy\|dilated cardiomyopathy]] with systolic CHF)
-

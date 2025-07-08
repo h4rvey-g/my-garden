@@ -14,3 +14,11 @@
 8. Binding of new ATP molecule causes detachment of myosin head from actin filament. Ca<sup>2+</sup> is resequestered.
 9. ATP hydrolysis into ADP and P<sub>i</sub> results in myosin head returning to high-energy position (cocked). The myosin head can bind to a new site on actin to form a crossbridge if Ca<sup>2+</sup> remains available.
 10. Reuptake of calcium by sarco(endo)plasmic reticulum Ca<sup>2+</sup> ATPase (SERCA) → muscle relaxation.
+# Sarcomere
+![Pasted image 20250708093321.png](/img/user/appendix/Pasted%20image%2020250708093321.png)
+- **Sarcomere:** Functional unit, extends from **Z line to Z line**.
+- **Z line:** A dark, zig-zag line that anchors the **(+) ends of actin (thin) filaments**. It forms the borders of the sarcomere.
+- **M line:** A line in the **M**iddle of the A band and H zone that anchors **M**yosin (thick) filaments.
+- **I band:** Lighter band (**I** for **I**sotropic/light) containing only **thin filaments (actin)**. It is bisected by the Z line.
+- **A band:** Darker band (**A** for **A**nisotropic/dark) containing the **entire length of the thick filaments (myosin)**, including regions of overlap with thin filaments.
+- **H zone:** Lighter region in the middle of the A band (**H** for _Helle_, German for "bright"). It contains only **thick filaments (myosin)**.

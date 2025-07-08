@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/immunology/transplant-rejection/"}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Transplant rejection/"}
 ---
 
 
@@ -14,17 +14,17 @@
 | **Buzzword**       | **Pre-formed antibodies**                                    | **T-cell mediated against graft**                                                                    | **Fibrosis, insidious loss of function**                             | **Donor [[USMLE/Blood/Lymphocyte\|lymphocytes]] attack recipient**                                                             |
 # Pathophysiology
 ## Hyperacute rejection
-- <span style="background:rgba(240, 200, 0, 0.2)">Humoral rejection (type II hypersensitivity reaction)</span>: recipient's <span style="background:rgba(240, 200, 0, 0.2)">preformed cytotoxic antibodies against donor's class I [[USMLE/Immunology/HLA system\|HLA]] molecules or blood group antigens </span>�?activation of the [[USMLE/Immunology/Complement system\|complement system]] and adhesion to cells �?<span style="background:rgba(240, 200, 0, 0.2)">thrombosis of vessels �?graft ischemia and necrosis</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Humoral rejection (type II hypersensitivity reaction)</span>: recipient's <span style="background:rgba(240, 200, 0, 0.2)">preformed cytotoxic antibodies against donor's class I [[USMLE/Immunology/HLA system\|HLA]] molecules or blood group antigens </span>→ activation of the [[USMLE/Immunology/Complement system\|complement system]] and adhesion to cells → <span style="background:rgba(240, 200, 0, 0.2)">thrombosis of vessels → graft ischemia and necrosis</span>
 - Preformed antibodies against [[USMLE/Immunology/HLA system\|HLA]] antigens result from exposure to foreign [[USMLE/Immunology/HLA system\|HLA]] haplotypes during [[USMLE/Reproductive/Pregnancy\|pregnancy]], [[USMLE/Blood/Transfusion\|transfusion]], or a previously rejected transplant.
 ## Acute rejection
-- Allorecognition �?T [[USMLE/Blood/Lymphocyte\|lymphocyte]] induced cell-mediated and/or humoral immunity
+- Allorecognition → T [[USMLE/Blood/Lymphocyte\|lymphocyte]] induced cell-mediated and/or humoral immunity
 - <span style="background:rgba(240, 200, 0, 0.2)">Acute cellular rejection ([[USMLE/Immunology/Type IV hypersensitivity reaction\|type IV hypersensitivity reaction]])</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Donor MHC class II antigens react with recipient CD4+ T cells</span>, which then differentiate into Th1 helper T cells �?cytokine (INF-γ) release �?macrophage recruitment �?parenchymal and endothelial inflammation
-	- <span style="background:rgba(240, 200, 0, 0.2)">Donor MHC class I antigens react with recipient CD8+ T cells</span> �?direct cytotoxic cell damage
+	- <span style="background:rgba(240, 200, 0, 0.2)">Donor MHC class II antigens react with recipient CD4+ T cells</span>, which then differentiate into Th1 helper T cells → cytokine (INF-γ) release → macrophage recruitment → parenchymal and endothelial inflammation
+	- <span style="background:rgba(240, 200, 0, 0.2)">Donor MHC class I antigens react with recipient CD8+ T cells</span> → direct cytotoxic cell damage
 - Acute humoral rejection (type II hypersensitivity reaction): recipient antibodies, formed before or after transplantation, react against donor [[USMLE/Immunology/HLA system\|HLA]] antigens
 ## Chronic rejection
 - <span style="background:rgba(240, 200, 0, 0.2)">Combination of humoral rejection (type II hypersensitivity reaction) and cellular rejection ([[USMLE/Immunology/Type IV hypersensitivity reaction\|type IV hypersensitivity reaction]])</span>
-- Donor MHC class II antigens react with recipient CD4+ T cells �?differentiation into Th1 helper T cells �?cytokine (INF-γ) release �?macrophage recruitment �?<span style="background:rgba(240, 200, 0, 0.2)">parenchymal and endothelial inflammation</span>
+- Donor MHC class II antigens react with recipient CD4+ T cells → differentiation into Th1 helper T cells → cytokine (INF-γ) release → macrophage recruitment → <span style="background:rgba(240, 200, 0, 0.2)">parenchymal and endothelial inflammation</span>
 # Graft-versus-host disease
 ---
 ## Etiology
@@ -32,4 +32,3 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Allogeneic hematopoietic stem cell transplantation </span>
 	- Transfusion of nonirradiated blood products
 - HLA mismatch (especially HLA-A, HLA-B, and HLA-DR) is associated with an increased risk of GvHD.
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pneumothorax/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pneumothorax/"}
 ---
 
 # Epidemiology
@@ -12,7 +12,7 @@
 
 # Pathophysiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Spontaneous pneumothorax</span>: rupture of blebs and bullae  �?<span style="background:rgba(240, 200, 0, 0.2)">air moves into pleural space</span> with increasing positive pressure  �?ipsilateral lung is compressed and collapses 
+- <span style="background:rgba(240, 200, 0, 0.2)">Spontaneous pneumothorax</span>: rupture of blebs and bullae  → <span style="background:rgba(240, 200, 0, 0.2)">air moves into pleural space</span> with increasing positive pressure  → ipsilateral lung is compressed and collapses 
 - Traumatic pneumothorax 
 	- Closed pneumothorax: air enters through a hole in the lung (e.g., following blunt trauma) 
 	- Open pneumothorax: air enters through a lesion in the chest wall (e.g., following penetrating trauma)
@@ -37,5 +37,4 @@
 
 # Treatment
 ---
-
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/premature-ovarian-failure/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Premature ovarian failure/"}
 ---
 
 # Epidemiology
@@ -18,7 +18,7 @@
 
 # Pathophysiology
 ---
-Follicular dysfunction or depletion �?�?[[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] levels �?reduced feedback inhibition of [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] on FSH and LH �?span style="background:rgba(240, 200, 0, 0.2)"> �?FSH and LH (usually FSH > LH)</span>
+Follicular dysfunction or depletion → ↓ [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] levels → reduced feedback inhibition of [[USMLE/Reproductive/Androgen and estrogen synthesis\|estrogen]] on FSH and LH →<span style="background:rgba(240, 200, 0, 0.2)"> ↑ FSH and LH (usually FSH > LH)</span>
 
 # Clinical features
 ---
@@ -29,11 +29,10 @@ Follicular dysfunction or depletion �?�?[[USMLE/Reproductive/Androgen and es
 # Diagnostics
 ---
 - Age is < 40 years
-- There has been irregular menstruation for �?3 consecutive months 
-- �?FSH levels (> 30�?0 mIU/mL)
-- �?Estradiol levels (< 50 pg/mL)
+- There has been irregular menstruation for ≥ 3 consecutive months 
+- ↑ FSH levels (> 30–40 mIU/mL)
+- ↓ Estradiol levels (< 50 pg/mL)
 
 # Treatment
 ---
-
 

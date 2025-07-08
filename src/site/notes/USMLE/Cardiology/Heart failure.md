@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/heart-failure/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Heart failure/"}
 ---
 
 # Epidemiology
@@ -22,7 +22,7 @@
 ---
 ## Pathology
 - Sputum analysis in patients with [[USMLE/Reproductive/Pulmonary edema\|pulmonary edema]] may show <span style="background:rgba(240, 200, 0, 0.2)">heart failure cells (hemosiderin-containing cells).</span>![Pasted image 20241218090244.png](/img/user/appendix/Pasted%20image%2020241218090244.png)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary venous congestion may result in intra-alveolar bleeding. Macrophages that subsequently phagocytose the erythrocytes are called “heart failure cells.�?/span> These cells may also be detected in the sputum of patients with pulmonary infarction, [[USMLE/MSK/Vasculitides\|vasculitis]], or aspiration of blood.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pulmonary venous congestion may result in intra-alveolar bleeding. Macrophages that subsequently phagocytose the erythrocytes are called “heart failure cells.”</span> These cells may also be detected in the sputum of patients with pulmonary infarction, [[USMLE/MSK/Vasculitides\|vasculitis]], or aspiration of blood.
 	- Their color is most likely due to <span style="background:rgba(240, 200, 0, 0.2)">hemosiderin from ingested erythrocytes.</span>
 ## ECG
 ![Pasted image 20230723213037.png](/img/user/appendix/Pasted%20image%2020230723213037.png)
@@ -53,4 +53,3 @@
 		- To <span style="background:rgba(240, 200, 0, 0.2)">block the vasoconstrictive effect of angiotensin II accumulation, sacubitril needs to be combined with an ARB</span>.![highresdefault_L25942.jpg](/img/user/appendix/highresdefault_L25942.jpg)
 			- <span style="background:rgba(240, 200, 0, 0.2)">Neprilysin</span> is a zinc-dependent metalloprotease that cleaves peptides at the amino side of hydrophobic residues and <span style="background:rgba(240, 200, 0, 0.2)">inactivates several peptide hormones</span> including glucagon, enkephalins, substance P, neurotensin, oxytocin, and bradykinin.
 	- Indication: Stage C or D HFrEF (preferred initial agent for RAAS inhibition)
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/amebiasis/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Amebiasis/"}
 ---
 
 # Epidemiology
@@ -26,5 +26,4 @@
 
 # Treatment
 ---
-
 

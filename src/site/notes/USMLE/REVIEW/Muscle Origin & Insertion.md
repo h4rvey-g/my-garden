@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/review/muscle-origin-and-insertion/"}
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Muscle Origin & Insertion/"}
 ---
 
 - **General Principles:**
@@ -45,4 +45,3 @@
 	- **Tibialis Anterior:** O: Anterolateral tibia, interosseous membrane. I: Medial cuneiform, base of 1st metatarsal. A: Foot dorsiflexion, inversion. N: Deep peroneal (fibular) n. **Clinical:** Foot drop if deep peroneal n. injured (e.g., fibular neck fx); often involved in anterior compartment syndrome.
 		
 	- **Gastrocnemius & Soleus (Triceps Surae):** O: Femoral condyles (gastroc), post. tibia/fibula (soleus). I: Calcaneus via Achilles tendon. A: Plantarflexion. N: Tibial n. **Clinical:** Achilles tendon rupture (+ Thompson test); gastroc strain ("tennis leg").
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/review/vascular-wall-changes/"}
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Vascular wall changes/"}
 ---
 
 
@@ -11,5 +11,4 @@
 | **Vessel Type**      | Arterioles, small arteries                                      | Arterioles, small arteries                                                      | Arterioles, capillaries, venules                                          |
 
 ![Pasted image 20250518102625.png](/img/user/appendix/Pasted%20image%2020250518102625.png)
-
 

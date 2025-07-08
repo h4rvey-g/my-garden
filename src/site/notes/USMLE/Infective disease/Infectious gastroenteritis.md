@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/infectious-gastroenteritis/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Infectious gastroenteritis/"}
 ---
 
 # Shigellosis
@@ -16,4 +16,3 @@
 	- High infective dose required (over 10<sup>8</sup> pathogens)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Gastric acid provides a natural barrier against V. cholerae infection</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Patients on long [[USMLE/GI/Proton pump inhibitors\|PPI]] are more easily to get infected</span>
-

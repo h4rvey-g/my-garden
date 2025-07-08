@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/congenital-torch-infections/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Congenital TORCH infections/","tags":["t1"]}
 ---
 
 <font color="#ffc000">ToRCHHeS</font>
@@ -64,4 +64,3 @@ Treponema pallidum
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/Hepatomegaly\|Hepatomegaly]] ± [[USMLE/Blood/Splenomegaly\|splenomegaly]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Pathology/Lymphadenopathy\|Lymphadenopathy]]</span>
 	- Anemia, thrombocytopenia, leukopenia/leukocytosis
-

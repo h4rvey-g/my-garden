@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/respiratory-physiology/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Respiratory physiology/","tags":["t1"]}
 ---
 
 # Respiratory muscles
@@ -38,7 +38,7 @@
 1. Bronchi: all
 2. Bronchioles
 	- No cartilage
-	- Pseudostratified epithelium �?Simple epithelium
+	- Pseudostratified epithelium → Simple epithelium
 		- &ndash; Globlet cells and basal cells
 			- Globlet cells produce thick mucus, which could cause obstruction in thinner bronchioles. So it's not needed.
 		- &#43; Club cells
@@ -48,7 +48,7 @@
 			- Act as a reserve for ciliated cells to restore bronchiolar epithelium (stem cell properties) 
 			- Nonciliated, secretory, cuboidal cells located in the terminal and the respiratory bronchioles of the lung
 3. Terminal bronchioles
-	- Columnar ciliated cells �?Cuboidal ciliated cells
+	- Columnar ciliated cells → Cuboidal ciliated cells
 4. Respiratory bronchioles
 	- &#43; Squamous cells
 5. Alveolar sacs
@@ -69,20 +69,19 @@
 # Respiratory adaptation
 ---
 ## Respiratory adaptation to exercise
-- �?O2 consumption and �?CO2 production lead to �?depth and rate of ventilation (hyperventilation).
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Venous CO2 and �?venous O2</span>
+- ↑ O2 consumption and ↑ CO2 production lead to ↑ depth and rate of ventilation (hyperventilation).
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Venous CO2 and ↓ venous O2</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">PaCO2 and PaO2 remain normal despite hyperventilation. </span>
-- �?HR and �?SV �?�?cardiac output �?�?pulmonary blood flow
-- <span style="background:rgba(240, 200, 0, 0.2)">�?Arterial pH (due to lactic acidosis)</span>
+- ↑ HR and ↑ SV → ↑ cardiac output → ↑ pulmonary blood flow
+- <span style="background:rgba(240, 200, 0, 0.2)">↓ Arterial pH (due to lactic acidosis)</span>
 - Rightward shift of the oxygen dissociation curve
 - Oxygen diffusion becomes diffusion-limited (in resting state it is perfusion-limited).
-- �?V/Q ratio (from base to apex) �?V/Q ratio is more evenly distributed throughout the lung during exercise than at rest 
+- ↑ V/Q ratio (from base to apex) → V/Q ratio is more evenly distributed throughout the lung during exercise than at rest 
 ## Respiratory adaptation to high altitude
 Decreased atmospheric oxygen (PiO2) at high altitudes triggers various adaptation mechanisms in the respiratory system. Insufficient adaptation to the high altitude results in altitude sickness.
-- �?PaO2 �?�?ventilation rate (stimulated by hypoxemia) �?�?PaCO2 and �?arterial pH (respiratory alkalosis)
-- �?Renal HCO<sub>3</sub><sup>�?/sup> excretion (to compensate for respiratory alkalosis)
-- �?Pulmonary vascular resistance (Euler-Liljestrand reflex): chronic hypoxia �?pulmonary vasoconstriction �?pulmonary hypertension �?right ventricular hypertrophy
-- �?Hb and hematocrit (due to chronic hypoxia triggering �?erythropoietin levels)
-- �?2,3-BPG concentration �?�?Hb affinity to O2 �?rightward shift of the oxygen dissociation curve
-- �?Number of mitochondria in cells
-
+- ↓ PaO2 → ↑ ventilation rate (stimulated by hypoxemia) → ↓ PaCO2 and ↑ arterial pH (respiratory alkalosis)
+- ↑ Renal HCO<sub>3</sub><sup>−</sup> excretion (to compensate for respiratory alkalosis)
+- ↑ Pulmonary vascular resistance (Euler-Liljestrand reflex): chronic hypoxia → pulmonary vasoconstriction → pulmonary hypertension → right ventricular hypertrophy
+- ↑ Hb and hematocrit (due to chronic hypoxia triggering ↑ erythropoietin levels)
+- ↑ 2,3-BPG concentration → ↓ Hb affinity to O2 → rightward shift of the oxygen dissociation curve
+- ↑ Number of mitochondria in cells
