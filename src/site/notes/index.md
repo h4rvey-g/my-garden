@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Homepage","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"About me","tags":["gardenEntry"]}
 ---
 
 # Zhonghao "Harvey" Guo
