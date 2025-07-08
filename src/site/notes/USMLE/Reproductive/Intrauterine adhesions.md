@@ -1,0 +1,24 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Intrauterine adhesions/"}
+---
+
+- <span style="background:rgba(240, 200, 0, 0.2)">Definition: endometrial adhesions or fibrosis</span>
+- Etiology
+	- <span style="background:rgba(240, 200, 0, 0.2)">Following uterine dilation or curettage (most common cause)</span>
+	- Postinflammatory (e.g., chlamydia)
+- <span style="background:rgba(240, 200, 0, 0.2)">Pathophysiology: uterine dilation or curettage → endometrial basal layer damage</span>
+	- The scar tissue can disrupt the normal shedding of the uterine lining during menstruation.
+- Clinical features
+	- Usually asymptomatic
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Abnormal uterine bleeding\|Abnormal uterine bleeding]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Secondary [[USMLE/Reproductive/Amenorrhea\|amenorrhea]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Infertility</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Recurrent [[USMLE/Reproductive/Pregnancy\|pregnancy]] loss</span>
+	- Periodic abdominal pain 
+- Diagnostics
+	- Negative progesterone withdrawal test: No bleeding after progesterone cessation suggests <span style="background:rgba(240, 200, 0, 0.2)">blockage of the outflow tract.</span>
+	- Confirmatory test: <span style="background:rgba(240, 200, 0, 0.2)">hysteroscopy</span> to directly visualize adhesions
+	- Hysterosalpingography: honeycomb appearance of the uterus
+- Treatment
+	- Hysteroscopic resection of the adhesions
+	- Treatment is only indicated if patients are symptomatic.
