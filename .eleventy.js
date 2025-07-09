@@ -97,6 +97,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+
+  eleventyConfig.setCacheOptions({
+    // Cache duration, e.g., "1d" (one day), "1w" (one week)
+    duration: "1d",
+
+    // The directory where cache files are stored
+    directory: ".cache",
+
+    // Whether to include URL query parameters in the cache key
+    removeUrlQueryParams: false,
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
