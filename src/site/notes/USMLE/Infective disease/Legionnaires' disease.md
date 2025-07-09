@@ -24,6 +24,11 @@
 > [!tip] 
 > Legionnaires' disease should always be considered in patients with signs of atypical pneumonia and diarrhea in combination with possible exposure (e.g., cruise ship travel, use of a whirlpool).
 
+## Pontiac fever
+- Mild course of legionellosis without pneumonia
+- <span style="background:rgba(240, 200, 0, 0.2)">Characterized by flu-like symptoms (e.g., fever, headache, myalgia)</span>
+- Incubation period: 1–2 days 
+- Self-limiting disease; specific treatment is not needed.
 # Diagnostics
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Legionella urinary antigen test</span> 
