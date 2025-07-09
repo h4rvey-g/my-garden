@@ -36,17 +36,17 @@ async function getCachedFrontMatter(filePath) {
   }`;
 
   try {
-    const frontMatter = await EleventyFetch(fullPath, {
+    const frontMatter = await EleventyFetch(async () => {
+      try {
+        const fileContent = fs.readFileSync(fullPath, "utf8");
+        return matter(fileContent).data;
+      } catch (e) {
+        return { notFound: true };
+      }
+    }, {
       duration: "1d",
       type: "json",
-      fetch: async () => {
-        try {
-          const fileContent = fs.readFileSync(fullPath, "utf8");
-          return matter(fileContent).data;
-        } catch (e) {
-          return { notFound: true };
-        }
-      },
+      key: fullPath
     });
 
     if (frontMatter.notFound) {
