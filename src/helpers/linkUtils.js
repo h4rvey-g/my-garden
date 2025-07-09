@@ -38,7 +38,6 @@ async function getGraph(data) {
   const notes = data.collections.note || [];
   let idx = 0;
   for (const v of notes) {
-    await v.read(); // Asynchronously read the template data first.
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
