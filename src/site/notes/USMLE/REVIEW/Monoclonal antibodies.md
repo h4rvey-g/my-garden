@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/review/monoclonal-antibodies/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Monoclonal antibodies/","tags":["t1"]}
 ---
 
 - **Rituximab:**
@@ -47,4 +47,3 @@
     - **Target:** PD-1, PD-L1, or CTLA-4 (release brakes on T-cells)
     - **Use:** Various cancers (melanoma, lung, kidney, etc.)
     - **AE:** **Immune-related adverse events (irAEs)** - colitis, hepatitis, endocrinopathies, pneumonitis
-

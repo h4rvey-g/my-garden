@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/granulosa-cell-tumor/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Granulosa cell tumor/"}
 ---
 
 # Epidemiology
-- <span style="background:rgba(240, 200, 0, 0.2)">Most common type of sex cord-stromal malignancy (�?90%)</span>
-- Peak age: 50�?5 years
+- <span style="background:rgba(240, 200, 0, 0.2)">Most common type of sex cord-stromal malignancy (∼ 90%)</span>
+- Peak age: 50–55 years
 
 ---
 # Etiology
@@ -35,4 +35,3 @@
 
 
 ---
-

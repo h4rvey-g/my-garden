@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pulmonary-alveolar-proteinosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pulmonary alveolar proteinosis/"}
 ---
 
 Syndromes characterized by the <span style="background:rgba(240, 200, 0, 0.2)">progressive accumulation of surfactant protein in the alveoli</span>.
@@ -29,5 +29,4 @@ Progressive surfactant accumulation in the alveoli interferes with gas exchange.
 
 # Treatment
 ---
-
 

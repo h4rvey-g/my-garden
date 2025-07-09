@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/chagas-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Chagas disease/"}
 ---
 
 # Epidemiology
@@ -34,5 +34,4 @@ Best initial test: direct visualization of T. cruzi trypomastigotes in thin and 
 
 # Treatment
 ---
-
 

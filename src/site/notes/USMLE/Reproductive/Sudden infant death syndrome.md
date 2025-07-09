@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/sudden-infant-death-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Sudden infant death syndrome/"}
 ---
 
 # Epidemiology
 ---
-- Peak incidence: 2�? months
+- Peak incidence: 2–4 months
 
 # Etiology
 ---
@@ -27,4 +27,3 @@ Abrupt and unexplained death of an infant
 # Treatment
 ---
 <% tp.file.cursor() %>
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/hydrocephalus/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Hydrocephalus/"}
 ---
 
 # Epidemiology
@@ -36,4 +36,3 @@ Obstruction of the cerebral aqueduct of Sylvius, the lateral foramen of Luschka,
 # Treatment
 ---
 <% tp.file.cursor() %>
-

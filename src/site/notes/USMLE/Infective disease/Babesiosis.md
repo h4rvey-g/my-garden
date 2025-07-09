@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/babesiosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Babesiosis/"}
 ---
 
 # Epidemiology
@@ -32,12 +32,11 @@
 
 # Diagnostics
 ---
-- CBC: �?hematocrit, thrombocytopenia, �?reticulocyte count
+- CBC: ↓ hematocrit, thrombocytopenia, ↑ reticulocyte count
 - Modalities
 	- <span style="background:rgba(240, 200, 0, 0.2)">Peripheral blood smear showing Babesia as intraerythrocytic rings and/or Maltese cross </span>![Pasted image 20240305155054.png](/img/user/appendix/Pasted%20image%2020240305155054.png)
 	- Detection of Babesia DNA on a blood sample (e.g., PCR)
 
 # Treatment
 ---
-
 

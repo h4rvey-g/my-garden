@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pulmonary-auscultation/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pulmonary auscultation/"}
 ---
 
 
@@ -10,5 +10,4 @@
 | Pleural effusion | Decreased or absent                                              | Decreased                                                        |                                                              Dullness |
 | Pneumothorax     | Decreased or absent                                              | Decreased                                                        | <span style="background:rgba(240, 200, 0, 0.2)">Hyperresonance</span> |
 | Atelectasis      | Decreased or absent                                              | Decreased                                                        |                                                              Dullness |
-
 

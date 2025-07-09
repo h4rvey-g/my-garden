@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/renal-artery-stenosis/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Renal artery stenosis/"}
 ---
 
 # Epidemiology
@@ -8,14 +8,14 @@
 
 # Etiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] (�?90% of cases): occurs more often in men > 50 years of age; increased risk in smokers </span>
-- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/MSK/Fibromuscular dysplasia\|Fibromuscular dysplasia]] (�?10% of cases): mostly affects women < 50 years of age</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Cardiology/Atherosclerosis\|Atherosclerosis]] (∼ 90% of cases): occurs more often in men > 50 years of age; increased risk in smokers </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/MSK/Fibromuscular dysplasia\|Fibromuscular dysplasia]] (∼ 10% of cases): mostly affects women < 50 years of age</span>
 
 # Pathophysiology
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">Narrowing of one or both renal arteries</span> �?obstruction of renal blood flow �?ischemia �?renin release and activation of the renin-angiotensin-aldosterone system �?hyperreninemic [[USMLE/Endocrine/Primary hyperaldosteronism\|hyperaldosteronism]] (increased renin �?increased angiotensin �?increased aldosterone) �?increased sodium retention and peripheral vascular resistance �?renovascular hypertension (secondary hypertension) 
-- Prolonged renal hypoperfusion �?chronic stimulation of the juxtaglomerular apparatus to secrete renin �?hyperplasia of the juxtaglomerular apparatus 
-- No improvement in renal blood flow �?ischemic renal injury �?renal insufficiency and progressive renal atrophy (unilateral or bilateral depending on laterality of RAS) 
+- <span style="background:rgba(240, 200, 0, 0.2)">Narrowing of one or both renal arteries</span> → obstruction of renal blood flow → ischemia → renin release and activation of the renin-angiotensin-aldosterone system → hyperreninemic [[USMLE/Endocrine/Primary hyperaldosteronism\|hyperaldosteronism]] (increased renin → increased angiotensin → increased aldosterone) → increased sodium retention and peripheral vascular resistance → renovascular hypertension (secondary hypertension) 
+- Prolonged renal hypoperfusion → chronic stimulation of the juxtaglomerular apparatus to secrete renin → hyperplasia of the juxtaglomerular apparatus 
+- No improvement in renal blood flow → ischemic renal injury → renal insufficiency and progressive renal atrophy (unilateral or bilateral depending on laterality of RAS) 
 
 # Clinical features
 ---
@@ -27,7 +27,7 @@
 
 # Diagnostics
 ---
-- <span style="background:rgba(240, 200, 0, 0.2)">New-onset or worsening of renal dysfunction (�?serum creatinine) after initiating ACE inhibitors or ARBs</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">New-onset or worsening of renal dysfunction (↑ serum creatinine) after initiating ACE inhibitors or ARBs</span>
 	- ACE inhibitors and ARBs can induce or worsen renal insufficiency, particularly in patients with severe bilateral renal artery stenosis or high-grade unilateral stenosis.
 - <span style="background:rgba(240, 200, 0, 0.2)">Unexplained renal atrophy or asymmetry of > 1.5 cm between the kidneys</span>
 - Unexplained acute pulmonary edema
@@ -35,5 +35,4 @@
 
 # Treatment
 ---
-
 

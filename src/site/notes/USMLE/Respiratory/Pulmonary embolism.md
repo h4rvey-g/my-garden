@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pulmonary-embolism/","title":"Pulmonary embolism"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pulmonary embolism/","title":"Pulmonary embolism"}
 ---
 
 # Etiology
@@ -20,7 +20,7 @@
 ---
 ![L26143.jpg](/img/user/appendix/L26143.jpg)
 - The lung is supplied by <span style="background:rgba(240, 200, 0, 0.2)">dual circulation from both the pulmonary arteries and bronchial arteries.</span> This collateral circulation can help protect against lung infarction as a complication of pulmonary embolism (PE).
-- <span style="background:rgba(240, 200, 0, 0.2)">Distal PEs in small arteries (�? mm) are more likely to cause infarction</span> as they may occlude areas distal to the pulmonary-bronchial anastomoses.  
+- <span style="background:rgba(240, 200, 0, 0.2)">Distal PEs in small arteries (≤3 mm) are more likely to cause infarction</span> as they may occlude areas distal to the pulmonary-bronchial anastomoses.  
 - When a pulmonary infarction does occur, it is typically hemorrhagic (red) rather than ischemic (white) due to the relatively low density of lung tissue and the dual blood supply.
 # Clinical features
 ---
@@ -28,7 +28,7 @@
 	- Acute onset of symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Dyspnea (> 75% of cases)</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tachycardia and tachypnea (up to 50% of cases)</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Sudden pleuritic chest pain (�?20% of cases) </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Sudden pleuritic chest pain (∼ 20% of cases) </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cough and hemoptysis</span>
 	- Associated features of DVT: e.g., unilaterally painful leg swelling
 - Features of massive PE (e.g., due to a saddle thrombus)
@@ -53,7 +53,8 @@ Most common findings
 - Sinus tachycardia 
 - Normal ECG
 - S<sub>1</sub>Q<sub>3</sub>T<sub>3</sub> pattern (neither sensitive nor specific)![Pasted image 20230808202409.png](/img/user/appendix/Pasted%20image%2020230808202409.png)
-Predictors of adverse outcomes: See “High-risk ECG findings in PE.�?Other ECG findings in PE: sinus bradycardia (< 60/min); uncommon) 
+Predictors of adverse outcomes: See “High-risk ECG findings in PE.”
+Other ECG findings in PE: sinus bradycardia (< 60/min); uncommon) 
 # Treatment
 ---
 ## Reperfusion therapy
@@ -61,4 +62,3 @@ Predictors of adverse outcomes: See “High-risk ECG findings in PE.�?Other EC
 	- Massive PE (hemodynamic instability and/or right [[USMLE/Cardiology/Heart failure\|heart failure]]) with a low bleeding risk
 - <span style="background:rgba(240, 200, 0, 0.2)">Recombinant tissue plasminogen activator (tPA), e.g., alteplase (preferred)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Endothelial-derived TPA is limited primarily to the bronchial circulation, and spontaneous recanalization of the pulmonary artery is a slow process.</span>
-

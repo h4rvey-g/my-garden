@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/menstrual-cycle/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Menstrual cycle/"}
 ---
 
 ![Pasted image 20250610110642.png](/img/user/appendix/Pasted%20image%2020250610110642.png)

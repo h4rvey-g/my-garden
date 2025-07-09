@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/reproductive/uterine-atony/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Uterine atony/"}
 ---
 
 <span style="background:rgba(240, 200, 0, 0.2)">Failure of the uterus to effectively contract after complete or incomplete delivery of the placenta</span>, which can lead to severe postpartum bleeding from the myometrial vessels
@@ -35,4 +35,3 @@
 		- Prostaglandins such as misoprostol: useful when injectable uterotonic agents are unavailable or contraindicated (can also be given intracavitary)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Tranexamic acid</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Given concomitantly with uterotonic agents</span>
-

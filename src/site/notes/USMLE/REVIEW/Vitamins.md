@@ -53,4 +53,3 @@
 - **Vitamin C (Ascorbic Acid)**
     - **Function:** Collagen synthesis (hydroxylation), antioxidant, iron absorption.
     - **Deficiency:** **Scurvy**: Bleeding gums, petechiae, poor wound healing, corkscrew hairs.
-

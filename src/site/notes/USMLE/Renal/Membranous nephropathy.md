@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/renal/membranous-nephropathy/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Renal/Membranous nephropathy/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -31,4 +31,3 @@ There is diffuse thickening of the glomerular basement membrane and capillaries.
 
 
 ---
-

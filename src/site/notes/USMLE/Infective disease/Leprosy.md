@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/leprosy/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Leprosy/"}
 ---
 
 # Epidemiology
@@ -29,7 +29,7 @@
 Both: Nerve involvement leads to nerve enlargement and peripheral nerve palsies which present with sensory, motor, and/or autonomic deficits.
 ## Tuberculoid leprosy (TT)
 * **Cutaneous manifestations**
-    * <span style="background:rgba(240, 200, 0, 0.2)">Few (usually 1�? lesions), localized, hypopigmented</span> macules, plaques, and/or papules with well-defined, erythematous, and/or raised margins![Pasted image 20250524160235.png](/img/user/appendix/Pasted%20image%2020250524160235.png)
+    * <span style="background:rgba(240, 200, 0, 0.2)">Few (usually 1–3 lesions), localized, hypopigmented</span> macules, plaques, and/or papules with well-defined, erythematous, and/or raised margins![Pasted image 20250524160235.png](/img/user/appendix/Pasted%20image%2020250524160235.png)
     * Lesions are dry, scaly, anhidrotic.
     * <span style="background:rgba(240, 200, 0, 0.2)">Hair loss</span>
     * <span style="background:rgba(240, 200, 0, 0.2)">Hyperesthesia of the skin lesion is common and occurs early (hypoaesthesia of the skin develops in later stages).</span>
@@ -42,7 +42,7 @@ Both: Nerve involvement leads to nerve enlargement and peripheral nerve palsies 
 * **Cutaneous manifestations**
     * <span style="background:rgba(240, 200, 0, 0.2)">Multiple symmetrical</span> macules, plaques, and/or nodules
         * Generalized involvement of the skin
-        * <span style="background:rgba(240, 200, 0, 0.2)">Nodules on the face may coalesce �?leonine facies</span>
+        * <span style="background:rgba(240, 200, 0, 0.2)">Nodules on the face may coalesce → leonine facies</span>
         * Nodules may ulcerate
     * Hypesthesia of the skin lesion is less common and occurs only in the late stages of the disease.
     * Supraciliary and ciliary madarosis
@@ -65,7 +65,7 @@ The lepromin skin test (in which M leprae antigens are injected intradermally) c
 ---
 ## Dapsone
 - Mechanism of action
-	- <span style="background:rgba(240, 200, 0, 0.2)">Competitive antagonist of para-aminobenzoic acid (PABA) for dihydropteroate synthetase �?inhibition of dihydrofolic acid synthesis</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Competitive antagonist of para-aminobenzoic acid (PABA) for dihydropteroate synthetase → inhibition of dihydrofolic acid synthesis</span>
 	- Structurally different from sulfonamides but a similar mechanism of action
 - Clinical use
 	- <span style="background:rgba(240, 200, 0, 0.2)">M. leprae: lepromatous and tuberculoid leprosy</span>
@@ -76,5 +76,4 @@ The lepromin skin test (in which M leprae antigens are injected intradermally) c
 	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Respiratory/Methemoglobinemia\|Methemoglobinemia]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Triggers [[USMLE/Blood/Hemolytic anemia\|hemolytic anemia]] in patients with [[USMLE/Blood/Glucose-6-phosphate dehydrogenase deficiency\|G6PD deficiency]]</span>
 	- Agranulocytosis
-
 

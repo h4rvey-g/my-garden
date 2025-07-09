@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/cardiology/hypertension/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Hypertension/"}
 ---
 
 # Epidemiology
@@ -26,7 +26,7 @@
 ---
 - <span style="background:rgba(240, 200, 0, 0.2)">Direct arteriolar vasodilators</span>
 	- Mechanism
-		- <span style="background:rgba(240, 200, 0, 0.2)">Increase the release of [[USMLE/Biochemistry/Signal transduction\|cGMP]]</span> �?relaxation of smooth muscle �?vasodilation �?�?afterload
+		- <span style="background:rgba(240, 200, 0, 0.2)">Increase the release of [[USMLE/Biochemistry/Signal transduction\|cGMP]]</span> → relaxation of smooth muscle → vasodilation → ↓ afterload
 	- Agents
 		- <span style="background:rgba(240, 200, 0, 0.2)">Hydralazine</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Hydralazine is a treatment option in pregnant patients.</span>
@@ -50,4 +50,3 @@
 		- Arteriovenous nicking: a tapering of a retinal venule at the point where a retinal arteriole crosses the retinal venule
 			- Marked swelling and prominence of the optic disk with indistinct borders due to papilledema and optic atrophy (end-stage disease) 
 		- The presence of papilledema in a hypertensive patient may indicate a [[USMLE/Cardiology/Hypertensive crises\|hypertensive crisis]] and warrants urgent lowering of blood pressure
-

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/obstructive-sleep-apnea/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Obstructive sleep apnea/"}
 ---
 
 # Epidemiology
@@ -11,10 +11,10 @@
 
 ---
 # Pathophysiology
-- Obstruction of the upper airways �?apnea �?<span style="background:rgba(240, 200, 0, 0.2)">�?partial pressure of oxygen in arterial blood (PaO2), �?partial pressure of carbon dioxide in arterial blood (PaCO<sub>2</sub>, also known as hypercapnia)</span>, which leads to:
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Hypoxic pulmonary vasoconstriction �?�?[[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]] �?[[USMLE/Respiratory/Pulmonary hypertension\|cor pulmonale]]</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">�?Sympathetic activity �?secondary hypertension</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory acidosis �?renal compensation �?increased HCO<sub>3</sub><sup>�?/sup> retention and decreased chloride reabsorption </span>
+- Obstruction of the upper airways → apnea → <span style="background:rgba(240, 200, 0, 0.2)">↓ partial pressure of oxygen in arterial blood (PaO2), ↑ partial pressure of carbon dioxide in arterial blood (PaCO<sub>2</sub>, also known as hypercapnia)</span>, which leads to:
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Hypoxic pulmonary vasoconstriction → ↑ [[USMLE/Respiratory/Pulmonary hypertension\|pulmonary hypertension]] → [[USMLE/Respiratory/Pulmonary hypertension\|cor pulmonale]]</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ Sympathetic activity → secondary hypertension</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory acidosis → renal compensation → increased HCO<sub>3</sub><sup>−</sup> retention and decreased chloride reabsorption </span>
 
 ---
 # Clinical features
@@ -37,4 +37,3 @@
 	- Other procedures include <span style="background:rgba(240, 200, 0, 0.2)">hypoglossal nerve stimulation</span>, radiofrequency ablation of tongue and/or soft palate tissue, and palatal implants.
 
 ---
-

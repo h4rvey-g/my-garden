@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/review/microscopic-features-of-malignant-cells/"}
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Microscopic Features of Malignant Cells/"}
 ---
 
 # Overview

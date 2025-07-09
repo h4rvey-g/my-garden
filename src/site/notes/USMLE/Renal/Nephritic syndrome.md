@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/renal/nephritic-syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Renal/Nephritic syndrome/"}
 ---
 
 # Etiology
@@ -47,8 +47,8 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Mild to moderate proteinuria of > 150 mg/24 h but &lt; 3.5 g/24 h (nonselective glomerular proteinuria)</span> 
 	- Sterile pyuria and sometimes WBC [[USMLE/Renal/Urine sediment\|casts]]
 - Blood tests
-	- �?Creatinine, �?GFR
-	- Azotemia with �?BUN 
+	- ↑ Creatinine, ↓ GFR
+	- Azotemia with ↑ BUN 
 	- [[USMLE/Immunology/Complement system\|Complement]], ANA, ANCA, and anti-GBM antibodies
 
 ---
@@ -56,4 +56,3 @@
 
 
 ---
-

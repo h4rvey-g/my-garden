@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/infective-disease/cat-scratch-disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Cat scratch disease/"}
 ---
 
 # Epidemiology
@@ -18,12 +18,12 @@
 # Clinical features
 ---
 ## Localized CSD
-Uncomplicated localized disease occurs in 85�?0% of patients with CSD and includes the following:
-- �?1 papule and/or pustule at the cutaneous site of inoculation
-	- 5�?0 mm, erythematous, nontender  
-	- Typically manifests 3�?2 days after exposure
+Uncomplicated localized disease occurs in 85–90% of patients with CSD and includes the following:
+- ≥ 1 papule and/or pustule at the cutaneous site of inoculation
+	- 5–10 mm, erythematous, nontender  
+	- Typically manifests 3–12 days after exposure
 - Regional lymphadenopathy
-	- <span style="background:rgba(240, 200, 0, 0.2)">Swollen, tender lymph nodes 7�?0 days after exposure </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Swollen, tender lymph nodes 7–60 days after exposure </span>
 	- Usually unilateral
 	- Most commonly involves lymph nodes proximal to the site of exposure in the axilla, neck, or groin 
 	- Occasionally suppurate
@@ -54,5 +54,4 @@ Uncomplicated localized disease occurs in 85�?0% of patients with CSD and incl
 | **Treatment**     | **Antibiotics** (Doxycycline, Erythromycin)      | **ART** (first-line), Chemotherapy/Radiation for severe disease |
 # Treatment
 ---
-
 

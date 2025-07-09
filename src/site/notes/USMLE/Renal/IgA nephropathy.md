@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/renal/ig-a-nephropathy/"}
+{"dg-publish":true,"permalink":"/USMLE/Renal/IgA nephropathy/"}
 ---
 
 # Etiology
@@ -8,7 +8,7 @@
 
 ---
 # Pathophysiology
-<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> �?<span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> �?mesangial cell and [[USMLE/Immunology/Complement system\|complement system]] activation �?[[USMLE/Renal/Nephritic syndrome\|glomerulonephritis]] (<span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Immunology/Type III hypersensitivity reactions\|type III hypersensitivity reaction]]</span>)
+<span style="background:rgba(240, 200, 0, 0.2)">An increased number of defective, circulating IgA antibodies are synthesized</span> <span style="background:rgba(240, 200, 0, 0.2)">(often triggered by mucosal infections, i.e., upper respiratory tract and gastrointestinal infections)</span> → <span style="background:rgba(240, 200, 0, 0.2)">IgA antibodies form immune complexes that deposit in the renal mesangium</span> → mesangial cell and [[USMLE/Immunology/Complement system\|complement system]] activation → [[USMLE/Renal/Nephritic syndrome\|glomerulonephritis]] (<span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Immunology/Type III hypersensitivity reactions\|type III hypersensitivity reaction]]</span>)
 
 ---
 # Clinical features
@@ -19,7 +19,7 @@
 	- And/or [[USMLE/Renal/Nephritic syndrome\|nephritic syndrome]] (including hypertension)
 	- Usually during or immediately following a respiratory or gastrointestinal infection
 - Can progress to [[USMLE/Renal/Rapidly progressive glomerulonephritis\|RPGN]] and/or [[USMLE/Renal/Nephrotic syndrome\|nephrotic syndrome]] (< 10% of patients)
-- Up to 50% of patients progress to end-stage renal disease within 20�?5 years.
+- Up to 50% of patients progress to end-stage renal disease within 20–25 years.
 
 >[!tip] 
 >IgA nephropathy and [[USMLE/MSK/IgA vasculitis\|IgA vasculitis]] are both IgA-mediated [[USMLE/MSK/Vasculitides\|vasculitides]] triggered by a mucosal infection. [[USMLE/MSK/IgA vasculitis\|IgA vasculitis]] most commonly occurs in children < 10 years of age and affects multiple organ systems (palpable purpura, abdominal pain, arthralgia). IgA nephropathy is limited to the kidneys and typically affects adults.
@@ -49,4 +49,3 @@
 
 
 ---
-

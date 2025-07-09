@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/pneumonia/","title":"Pneumonia"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pneumonia/","title":"Pneumonia"}
 ---
 
 # Pathophysiology
@@ -12,7 +12,7 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">Bronchopneumonia: mostly commonly a descending infection that affects the bronchioles and adjacent alveoli</span>
 	- Primarily caused by pneumococci and/or other streptococci
 	- Characterized by acute inflammatory infiltrates that fill the bronchioles and the adjacent alveoli (patchy distribution) 
-	- Usually involves the lower lobes or right middle lobe and affects �?1 lobe
+	- Usually involves the lower lobes or right middle lobe and affects ≥ 1 lobe
 	- Manifests as typical pneumonia
 	- Necrotizing bronchopneumonia and pneumatocele are caused by Staphylococcus aureus and are often preceded by an influenza infection. 
 - Interstitial pneumonia: interstitial inflammation, typically caused by Mycoplasma and viral infections
@@ -49,7 +49,7 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 ### Microbiology
 - Incomplete/absent cell wall (not visible on gram stain) 
 - Bacterial membrane stabilized by cholesterol (obtained from host cell)
-- <span style="background:rgba(240, 200, 0, 0.2)">Grows on [[USMLE/Infective disease/Eaton agar\|Eaton agar]] �?“fried egg�?appearance</span>![Pasted image 20230806165400.png](/img/user/appendix/Pasted%20image%2020230806165400.png)
+- <span style="background:rgba(240, 200, 0, 0.2)">Grows on [[USMLE/Infective disease/Eaton agar\|Eaton agar]] → “fried egg” appearance</span>![Pasted image 20230806165400.png](/img/user/appendix/Pasted%20image%2020230806165400.png)
 ### Epidemiology
 - One of the most common causes of atypical pneumonia
 - More common in school-aged children and adolescents
@@ -77,11 +77,11 @@ Atypical pneumonia typically has an indolent course (slow onset) and commonly ma
 ## Clinical features
 - Aspiration pneumonitis
 	- <span style="background:rgba(240, 200, 0, 0.2)">Present hours after aspiration event</span>
-	- Range from no symptoms to nonproductive cough, �?O2, respiratory distress
+	- Range from no symptoms to nonproductive cough, ↓ O2, respiratory distress
 	- CXR infiltrates (one or both lower lobes) resolve without [[USMLE/Pharmacology/Antibiotics\|antibiotics]]
 - Aspiration pneumonia
 	- <span style="background:rgba(240, 200, 0, 0.2)">Present days after aspiration event</span>
-	- Fever, cough, �?sputum
+	- Fever, cough, ↑ sputum
 	- CXR infiltrate in dependent lung segment (classically RLL)
 	- Can progress to <span style="background:rgba(240, 200, 0, 0.2)">abscess</span>
 ## Diagnostics
@@ -92,4 +92,3 @@ Imaging: The lung region in which the infiltrates are seen depends on the patien
 
 >[!Mnemonic] 
 >Inhale a bite, goes down the right
-

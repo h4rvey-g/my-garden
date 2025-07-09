@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/respiratory/paraneoplastic-syndromes/","title":"Paraneoplastic syndromes"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Paraneoplastic syndromes/","title":"Paraneoplastic syndromes"}
 ---
 
 # Neuromuscular
@@ -32,4 +32,3 @@
 	- Local osteolytic [[USMLE/Cardiology/Hypercalcemia\|hypercalcemia]]: osteolytic activity at sites of skeletal metastases
 		- [[USMLE/Blood/Multiple myeloma\|Multiple myeloma]]
 		- [[USMLE/Reproductive/Breast cancer\|Breast cancer]]
-
