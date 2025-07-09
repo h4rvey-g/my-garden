@@ -10,14 +10,16 @@ module.exports = {
     const noteCount = data.collections.note ? data.collections.note.length : 0;
     const cacheKey = `graph-cache-${noteCount}`;
 
-    return EleventyFetch(cacheKey, {
-      duration: "1d",
-      type: "json",
-      fetch: async () => {
-        // getGraph is synchronous, but the fetch wrapper must be async.
+    return EleventyFetch(
+      async () => {
         return getGraph(data);
       },
-    });
+      {
+        duration: "1d",
+        type: "json",
+        key: cacheKey,
+      }
+    );
   },
   filetree: (data) => getFileTree(data),
   userComputed: (data) => userComputed(data),
