@@ -48,6 +48,11 @@ Lymphocytosis: > 33%
 | Th17 | IL-1, -6, TGF-β | IFN-γ, IL-4  | IL-17, -21, and -22    |
 | Treg | TGF-β, IL-2     | IL-6         | TGF-β, IL-10, -35      |
 
+>[!Mnemonic] 
+>- Th1：你（1）干（γ）吗（α）啊（2）
+>- Th2：你是（4）我（5）的，我是（10）你的谁（13）
+
+
 ![Pasted image 20240222102853.png](/img/user/appendix/Pasted%20image%2020240222102853.png)![L39839.jpg](/img/user/appendix/L39839.jpg)![Pasted image 20240222102955.png](/img/user/appendix/Pasted%20image%2020240222102955.png)
 ![L69431.jpg](/img/user/appendix/L69431.jpg)
 ## T-cell development
@@ -63,7 +68,7 @@ Lymphocytosis: > 33%
 		- <span style="background:rgba(240, 200, 0, 0.2)">T cells that do not bind receive survival signal.</span>
 		- T cells that bind self-antigens undergo apoptosis, except for a few that become regulatory T cells.
 	- Self-antigen presentation is mediated by the autoimmune regulator protein (AIRE protein), dysfunction of which can lead to:
-		- Adrenal insufficiency
+		- [[USMLE/Endocrine/Adrenal insufficiency\|Adrenal insufficiency]]
 		- Chronic mucocutaneous candidiasis
 		- Hypoparathyroidism
 ## T-cell subtypes

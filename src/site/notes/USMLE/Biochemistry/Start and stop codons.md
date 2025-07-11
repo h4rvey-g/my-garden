@@ -4,8 +4,15 @@
 
 ![Pasted image 20240206103328.png](/img/user/appendix/Pasted%20image%2020240206103328.png)
 ![L26544.jpg](/img/user/appendix/L26544.jpg)
-# Translation process
+# Transcription
+## Regulation of transcription
+### Eukaryotic gene regulation
+- Distal regulatory elements: DNA sequences that can affect the transcription rate of a gene and <span style="background:rgba(240, 200, 0, 0.2)">can be located before, within, or after an intron of the gene they regulate</span>. <span style="background:rgba(240, 200, 0, 0.2)">They may be near the gene or thousands of base pairs away</span>
+	- Enhancers![Pasted image 20250709173624.png](/img/user/appendix/Pasted%20image%2020250709173624.png)
+
 ---
+
+# Translation process
 ## Initiation
 - <span style="background:rgba(240, 200, 0, 0.2)">Initiator met-tRNA, eukaryotic IF2 (eIF2)</span>, and GTP bind to the small ribosomal subunit to form a preinitiation complex (initially a 43s preinitiation complex). 
 	- eIF2: a small G protein 

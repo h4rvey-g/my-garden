@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/GI/Diarrhea/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Diarrhea/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -7,6 +7,59 @@
 
 ---
 # Etiology
+Diarrhea is classified by mechanism (secretory, osmotic, inflammatory) or duration (acute <2 wks, persistent 2-4 wks, chronic >4 wks). Stool characteristics and patient history are key to diagnosis.
+
+| Feature           | Non-Inflammatory Diarrhea                 | Inflammatory Diarrhea (Dysentery)                                                         |
+| :---------------- | :---------------------------------------- | :---------------------------------------------------------------------------------------- |
+| **Pathology**     | No mucosal invasion; toxin-mediated       | <span style="background:rgba(240, 200, 0, 0.2)">**Mucosal invasion & destruction**</span> |
+| **Location**      | Small Bowel                               | **Colon**                                                                                 |
+| **Stool Volume**  | Large                                     | Small, frequent                                                                           |
+| **Stool Content** | Watery                                    | **Bloody, mucoid (pus)**                                                                  |
+| **Fever**         | Usually absent                            | **Common**                                                                                |
+| **Fecal WBCs**    | Absent                                    | <span style="background:rgba(240, 200, 0, 0.2)">**Present**</span>                        |
+| **Key Symptom**   | Dehydration                               | **Tenesmus, severe abd pain**                                                             |
+| **Example Bugs**  | *V. cholerae*, ETEC, Norovirus, *Giardia* | *Shigella*, *Campylobacter*, EHEC, *Salmonella*                                           |
+## I. Watery Diarrhea: Non-inflammatory
+Characterized by large volume, watery stools without blood or pus. Fecal leukocytes are typically absent.
+
+### A. Secretory Diarrhea
+*   **Hallmark:** Persists with fasting. Stool osmotic gap <50 mOsm/kg. Caused by net secretion of electrolytes/water.
+*   **Distinguishing Features:**
+    *   **Vibrio cholerae:** Profuse "rice-water" stools, severe dehydration. Toxin activates Gs → ↑cAMP.
+    *   **ETEC (Enterotoxigenic *E. coli*):** #1 cause of **traveler's diarrhea**. Watery stools, cramps. Heat-labile (↑cAMP) and heat-stable (↑cGMP) toxins.
+    *   **Norovirus:** #1 cause of adult gastroenteritis. Outbreaks on **cruise ships**, schools, hospitals. Vomiting is a prominent feature.
+    *   **Rotavirus:** #1 cause of severe diarrhea in **unvaccinated children**. Vomiting, fever.
+    *   **VIPoma/Carcinoid Syndrome:** Rare endocrine tumors causing chronic diarrhea. Associated with flushing, wheezing (carcinoid).
+
+### B. Osmotic Diarrhea
+*   **Hallmark:** Stops with fasting. Stool osmotic gap >125 mOsm/kg. Caused by non-absorbable solutes in the gut.
+*   **Distinguishing Features:**
+    *   **Lactose Intolerance:** Diarrhea, bloating, flatulence after consuming dairy.
+    *   **Laxative Abuse:** Often seen in patients with eating disorders.
+    *   **Celiac Disease:** Can present with osmotic diarrhea and/or steatorrhea.
+
+## II. Inflammatory/Invasive Diarrhea (Dysentery)
+*   **Hallmark:** Bloody or mucoid, small-volume stools. Associated with fever, tenesmus, and severe abdominal pain. **Fecal leukocytes/calprotectin are present.**
+*   **Distinguishing Features:**
+    *   ***Campylobacter jejuni:*** Most common cause of bacterial gastroenteritis in the US. Source: **undercooked poultry**. Antecedent for **Guillain-Barré syndrome** and reactive arthritis.
+    *   ***Shigella:*** Very low infectious dose. High fever, tenesmus. Shiga toxin can cause **hemolytic uremic syndrome (HUS)**, especially in children.
+    *   ***Salmonella* (non-typhoidal):** Source: **poultry, eggs, pet reptiles**. Can cause osteomyelitis in **sickle cell disease** patients.
+    *   **EHEC (Enterohemorrhagic *E. coli* O157:H7):** Source: **undercooked beef**. Causes bloody diarrhea **without fever**. Toxin causes HUS. **Do NOT treat with antibiotics** (increases HUS risk).
+    *   ***Yersinia enterocolitica:*** Source: contaminated pork, milk. Causes fever, RLQ pain, mimicking **appendicitis** (pseudoappendicitis).
+    *   ***Clostridioides difficile:*** History of **antibiotic use** (esp. clindamycin, fluoroquinolones) or hospitalization. Watery or bloody diarrhea. Dx: stool toxin A/B assay. Tx: Oral vancomycin or fidaxomicin.
+
+## III. Protozoal Diarrhea
+*   **Distinguishing Features:**
+    *   ***Giardia lamblia:*** Hiker/camper drinking from a **freshwater stream**. Causes foul-smelling, fatty stools (**steatorrhea**), bloating, and flatulence. No blood.
+    *   ***Entamoeba histolytica:*** Travel to developing nations. Causes dysentery (bloody diarrhea) and can lead to **liver abscess** ("anchovy paste" aspirate).
+    *   ***Cryptosporidium:*** Severe, chronic, watery diarrhea in **immunocompromised patients** (e.g., AIDS with CD4 < 100). Oocysts on acid-fast stain.
+## IV. Pre-formed Toxin (Rapid Onset Food Poisoning)
+*   **Hallmark:** Symptoms appear very quickly (1-8 hours) after ingestion. Vomiting is often more prominent than diarrhea.
+*   **Distinguishing Features:**
+    *   ***Staphylococcus aureus:*** Rapid onset vomiting, cramps, and diarrhea. Source: **mayonnaise, potato salad, custards** left at room temp.
+    *   ***Bacillus cereus:*** Emetic type (rapid onset) from **reheated fried rice**. Diarrheal type has a longer incubation.
+
+
 ## Watery diarrhea
 ### Viral
 

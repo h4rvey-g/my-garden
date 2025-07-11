@@ -37,6 +37,12 @@
 >- MRSA
 >- Enterococci (with the exception of ceftaroline, which does act against MRSA).
 
+---
+
+# Nitrofurans
+- Examples: <span style="background:rgba(240, 200, 0, 0.2)">nitrofurantoin</span>
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">reduced by bacterial nitroreductases to reactive metabolites → bind to bacterial ribosomes → impaired metabolism, impaired synthesis of protein, DNA, and RNA → cell death (bactericidal effect)</span>
+- Treatment and prophylaxis of acute uncomplicated <span style="background:rgba(240, 200, 0, 0.2)">UTIs</span> (e.g., urethritis, cystitis)
 # Drug resistance
 ---
 ## Mechanisms

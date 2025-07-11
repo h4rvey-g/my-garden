@@ -20,8 +20,8 @@ Dynein: a class of motor proteins that <span style="background:rgba(240, 200, 0,
 - [[USMLE/Respiratory/Bronchiectasis\|Bronchiectasis]]
 - Conductive [[USMLE/Neurology/Hearing loss\|hearing loss]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Displaced heart sounds (as a result of dextrocardia)</span>
-- Infertility in men due to decreased sperm motility as a result of defective flagella
-- Reduced fertility in women (and rarely ectopic pregnancy) due to defective cilia in fallopian tubes
+- <span style="background:rgba(240, 200, 0, 0.2)">Infertility in men due to decreased sperm motility as a result of defective flagella</span>
+- Reduced fertility in women (and rarely [[USMLE/Reproductive/Ectopic pregnancy\|ectopic pregnancy]]) due to defective cilia in fallopian tubes
 - <span style="background:rgba(240, 200, 0, 0.2)">Kartagener syndrome: classic triad of situs inversus, recurrent [[USMLE/Respiratory/Sinusitis\|sinusitis]], and [[USMLE/Respiratory/Bronchiectasis\|bronchiectasis]]</span>
 
 >[!Mnemonic] 
@@ -32,7 +32,7 @@ Dynein: a class of motor proteins that <span style="background:rgba(240, 200, 0,
 - <span style="background:rgba(240, 200, 0, 0.2)">Nasal nitric oxide test: reduced nasal nitric oxide (screening test)</span>
 	- Ciliary beating is thought to play a role in stimulating nitric oxide synthase (NOS), the enzyme responsible for NO production
 - Genetic tests for dynein arm mutations
-- Chest x-ray: bronchiectasis, dextrocardia, and situs inversus (suggests Kartagener syndrome) 
+- Chest x-ray: [[USMLE/Respiratory/Bronchiectasis\|bronchiectasis]], dextrocardia, and situs inversus (suggests Kartagener syndrome) 
 
 ![Pasted image 20240506213541.png](/img/user/appendix/Pasted%20image%2020240506213541.png)
 >[!tip] 

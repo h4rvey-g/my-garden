@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Cavernous sinus syndrome/"}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Cavernous sinus syndrome/","tags":["t1"]}
 ---
 
 - Etiology

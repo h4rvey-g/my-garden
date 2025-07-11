@@ -53,6 +53,7 @@ Hypothyroidism is treated with lifelong hormone substitution.
 	- <span style="background:rgba(240, 200, 0, 0.2)">First-line choice</span> for the treatment of hypothyroidism
 	- <span style="background:rgba(240, 200, 0, 0.2)">Peripherally converted to T3</span> (biologically active metabolite) and <span style="background:rgba(240, 200, 0, 0.2)">rT3 (biologically inactive metabolite)</span>
 		- In patients with severe [[USMLE/Endocrine/Euthyroid sick syndrome\|Euthyroid Sick Syndrome]], aka non-thyroidal illnesses (like sepsis or major trauma), rT3 levels often rise while active T3 levels fall, even if TSH is normal or low.
+	- <span style="background:rgba(240, 200, 0, 0.2)">**Administration:** Take on an empty stomach (e.g., 30-60 min before breakfast) as iron, calcium, and antacids can decrease absorption.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Liothyronine: synthetic form of T3</span>
 	- Part of the treatment for myxedema coma
 	- Not recommended as monotherapy or in combination with levothyroxine for the long-term treatment of hypothyroidism

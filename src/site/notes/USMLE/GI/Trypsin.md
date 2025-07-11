@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20250606110342.png](/img/user/appendix/Pasted%20image%2020250606110342.png)
-- **Pancreatic enzymes** (except amylase and lipase) are synthesized and secreted in an **inactive form** to protect the pancreas from autodigestion. 
+- **Pancreatic enzymes** (except amylase and lipase) are synthesized and secreted in an **inactive form** to protect the [[USMLE/Endocrine/Pancreas\|pancreas]] from autodigestion. 
 	- These proenzymes (zymogens) are activated by **trypsin** in the duodenal lumen.
 	- <span style="background:rgba(240, 200, 0, 0.2)">**Trypsinogen** is converted into active trypsin by **enteropeptidase** (duodenal brush border enzyme).</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Works best in the **slightly alkaline pH (~8.0)**</span>

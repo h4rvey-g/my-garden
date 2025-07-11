@@ -16,7 +16,7 @@
 ---
 # Clinical features
 - <span style="background:rgba(240, 200, 0, 0.2)">CNS arousal and sympathetic hyperactivity</span>
-	- Tachycardia, hypertension
+	- Tachycardia, [[USMLE/Cardiology/Hypertension\|hypertension]]
 	- Anxiety, [[USMLE/Psychiatry/Insomnia disorder\|insomnia]], irritability, agitation
 	- Mydriasis, <span style="background:rgba(240, 200, 0, 0.2)">yawning, lacrimation</span>, sneezing
 	- Hyperreflexia, muscle cramps
@@ -41,11 +41,11 @@ Neonatal abstinence syndrome is caused by maternal drug use during [[USMLE/Repro
 - Respiratory symptoms
 	- Tachypnea, apnea
 	- Sneezing, nasal congestion
-- Sympathetic hyperactivity: hypertension, tachycardia
+- Sympathetic hyperactivity: [[USMLE/Cardiology/Hypertension\|hypertension]], tachycardia
 - CNS stimulation
 	- <span style="background:rgba(240, 200, 0, 0.2)">High pitched crying, irritability</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Muscle tone and movement disorders (e.g., hyperreflexia, [[USMLE/Neurology/Tremor\|tremor]], jerking)</span>
-	- Seizures
+	- [[USMLE/Neurology/Seizures and epilepsy\|Seizures]]
 	- Uncoordinated sucking reflexes
 
 

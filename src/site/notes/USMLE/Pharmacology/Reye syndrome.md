@@ -5,16 +5,19 @@
 - Description: a rare type of <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/Hepatic encephalopathy\|hepatic encephalopathy]]</span> that is associated with <span style="background:rgba(240, 200, 0, 0.2)">aspirin use for viral illness in children</span> < 19 years ![Pasted image 20231023105815.png](/img/user/appendix/Pasted%20image%2020231023105815.png)
 - Etiology: aspirin use in individuals < 19 years of age with a febrile illness
 - Pathophysiology
-	- Viruses alter the metabolism of salicylates → accumulation of salicylate metabolites in the liver → mitochondrial injury and reversible inhibition of enzymes required for [[USMLE/Biochemistry/Fatty acid oxidation\|fatty acid oxidation]] → failure of hepatic ATP production → acute hepatic failure → [[USMLE/Biochemistry/Hyperammonemia\|hyperammonemia]], metabolic acidosis, and hepatic steatosis → acute encephalopathy
-	- [[USMLE/Biochemistry/Hyperammonemia\|Hyperammonemia]] → cerebral edema → ↑ ICP
+	- Aspirin use in children during viral infection (eg, [[USMLE/Infective disease/Influenza\|influenza]], varicella)
+	- Mitochondrial toxicity → <span style="background:rgba(240, 200, 0, 0.2)">impaired fatty acid metabolism</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Microvesicular fat deposits in the liver</span>
+	- Hepatic dysfunction → [[USMLE/Biochemistry/Hyperammonemia\|hyperammonemia]]
+	- Diffuse astrocyte swelling (ie, cerebral edema)
 - Clinical features
 	- Preceding viral infection (e.g., [[USMLE/Infective disease/Influenza\|influenza]], varicella or viral gastroenteritis): The first symptoms of Reye syndrome usually begin 3–5 days after a viral illness.
 	- Acute encephalopathy
-		- Severe vomiting 
-		- Altered mental status (ranging from lethargy to [[USMLE/Psychiatry/Delirium\|delirium]] and coma)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Severe vomiting </span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">Altered mental status (ranging from lethargy to [[USMLE/Psychiatry/Delirium\|delirium]] and coma)</span>
 		- Neurological symptoms (e.g., [[USMLE/Neurology/Seizures and epilepsy\|seizures]], fixed pupils)
 	- Liver failure
-		- Fatty degeneration
+		- <span style="background:rgba(240, 200, 0, 0.2)">Fatty degeneration</span>
 		- [[USMLE/GI/Hepatomegaly\|Hepatomegaly]]
 - Prevention
 	- Aspirin should be avoided in individuals < 19 years of age, especially those with fever.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Opioid overdose/"}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Opioid overdose/","tags":["t1"]}
 ---
 
 # Epidemiology

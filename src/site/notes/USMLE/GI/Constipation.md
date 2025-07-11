@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/GI/Constipation/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/GI/Constipation/","tags":["t2"]}
 ---
 
 # Epidemiology
@@ -45,5 +45,5 @@
 	- Decreases stool surface tension, enabling water to enter stool
 - Chloride channel agonist (eg, lubiprostone)
 	- Causes chloride efflux into intestinal lumen, which is followed by sodium and watered
-- Peripherally acting µ-opioid receptor antagonists (eg, methylnaltrexone)
-	- Counteracts inhibitory effect of [[USMLE/Pharmacology/Opioids\|opioids]] on peristalsis
+- <span style="background:rgba(240, 200, 0, 0.2)">Peripherally acting µ-opioid receptor antagonists (eg, methylnaltrexone)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Counteracts inhibitory effect of [[USMLE/Pharmacology/Opioids\|opioids]] on peristalsis</span>

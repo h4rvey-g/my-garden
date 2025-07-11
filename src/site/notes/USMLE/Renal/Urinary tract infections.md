@@ -55,6 +55,16 @@
 
 # Treatment
 ---
+*   **Uncomplicated Cystitis:**
+    *   **First-line:** <span style="background:rgba(240, 200, 0, 0.2)">Nitrofurantoin (5 days), TMP-SMX</span> (3 days, if local resistance <20%), or Fosfomycin (single dose).
+*   **Complicated Cystitis:**
+    *   Longer course (7-14 days) of oral fluoroquinolones (e.g., Ciprofloxacin) or TMP-SMX.
+*   **Outpatient Pyelonephritis (Mild-to-Moderate):**
+    *   Oral fluoroquinolones (e.g., Ciprofloxacin, Levofloxacin) for 7-14 days.
+*   **Inpatient Pyelonephritis (Severe):**
+    *   IV antibiotics (e.g., Fluoroquinolones, extended-spectrum Cephalosporins like Ceftriaxone, or Piperacillin-tazobactam).
+*   **Asymptomatic Bacteriuria:**
+    *   Generally **not treated**, except in **pregnant patients** or before urologic procedures.
 
 
 # UTI in [[USMLE/Reproductive/Pregnancy\|pregnancy]]
