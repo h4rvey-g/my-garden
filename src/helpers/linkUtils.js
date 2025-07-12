@@ -30,14 +30,12 @@ function extractLinks(content) {
   ];
 }
 
-async function getGraph(data) {
+function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  const notes = data.collections.note || [];
-  let idx = 0;
-  for (const v of notes) {
+  (data.collections.note || []).forEach((v, idx) => {
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
@@ -65,9 +63,8 @@ async function getGraph(data) {
       (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
     ) {
       homeAlias = v.url;
-    idx++;
-  }
     }
+  });
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
