@@ -1,6 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Renal/Urinary incontinence/"}
+{"dg-publish":true,"permalink":"/USMLE/Renal/Urinary incontinence/","tags":["t1"]}
 ---
+
+
+| Feature                           | Stress Incontinence                                                                                                       | Urge Incontinence (Overactive Bladder)                                                                                                 | Overflow Incontinence                                                                                    |
+|:--------------------------------- |:------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------- |
+| **Etiology**                      | Multiparous women (pelvic floor weakness), post-prostatectomy in men.                                                     | Often idiopathic. Can be associated w/ neurologic d/o (MS, stroke, Parkinson's).                                                       | **BPH** (men), **diabetic neuropathy**, spinal cord injury, anticholinergic meds.                        |
+| **Pathophysiology**               | **Urethral hypermobility** or **intrinsic sphincter deficiency (ISD)**. ↑ intra-abdominal pressure > urethral resistance. | **Detrusor overactivity/instability**. Involuntary bladder contractions.                                                               | **Impaired detrusor contractility** (underactive bladder) or **bladder outlet obstruction** (e.g., BPH). |
+| **Classic Presentation**          | Leaks small amounts of urine with **coughing, laughing, sneezing, lifting**. No urge beforehand.                          | Sudden, overwhelming **urge to urinate**, followed by involuntary loss of a large volume of urine. Associated w/ frequency & nocturia. | **Constant dribbling**, incomplete bladder emptying, weak stream. High post-void residual (PVR) volume.  |
+| **Dx Evaluation**                 | **Cough stress test:** direct observation of leakage from urethra with coughing. Normal/low PVR.                          | Often a clinical diagnosis. Urodynamic studies show detrusor contractions during filling. Normal/low PVR.                              | **↑ Post-void residual (PVR) volume** on bladder US or catheterization is key finding.                   |
+| **1st Line Management**           | **Pelvic floor muscle exercises (Kegel)**; lifestyle mods (weight loss).                                                  | **Bladder training** (timed voiding); lifestyle mods (↓ caffeine/alcohol).                                                             | **Intermittent or indwelling catheterization** to relieve obstruction/retention.                         |
+| **Pharmacotherapy**               | Limited role. Pessaries can be used. Surgery (mid-urethral sling) is definitive.                                          | **Antimuscarinics** (e.g., oxybutynin, tolterodine) or **β3-agonists** (e.g., mirabegron).                                             | **α-blockers** (e.g., tamsulosin) for BPH. **Bethanechol** for atonic bladder (rarely used).             |
+| **Buzzwords/Key Differentiators** | "Leaks when I laugh/cough."                                                                                               | "Gotta go NOW!"                                                                                                                        | "Constantly wet," "can't empty." **High PVR**.                                                           |
+
+---
+**Mixed Incontinence:** Features of both stress and urge incontinence. Very common, especially in older women. Treatment is directed at the more predominant symptom first.
+
+**Functional Incontinence:** Patient has normal bladder control but cannot reach the toilet in time due to physical or cognitive impairment (e.g., dementia, severe arthritis). Management involves treating the underlying condition and using scheduled/prompted voiding.
 
 # Epidemiology
 - [[USMLE/Renal/Stress incontinence\|Stress incontinence]] and mixed incontinence are the most common types of incontinence in female patients.

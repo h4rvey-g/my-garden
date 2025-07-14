@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Signal transduction/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Signal transduction/","tags":["t3"]}
 ---
 
 

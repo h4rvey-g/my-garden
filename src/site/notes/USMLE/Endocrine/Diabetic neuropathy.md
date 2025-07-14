@@ -39,11 +39,11 @@
 - Laboratory evaluation typically unremarkable
 ### Genitourinary autonomic neuropathy
 - [[USMLE/Reproductive/Sexual dysfunction\|Sexual dysfunction]] (e.g., erectile dysfunction)
-- Neurogenic bladder, e.g.:
+- <span style="background:rgba(240, 200, 0, 0.2)">Neurogenic bladder</span>, e.g.:
 	- Urinary retention
 	- Incomplete bladder emptying
 	- Bladder distention
-	- Overflow incontinence
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Renal/Urinary incontinence\|Overflow incontinence]]</span>
 	- Poor urinary stream
 ### Cardiovascular autonomic neuropathy
 - Early: decreased heart variability

@@ -15,3 +15,6 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Has the highest amount of cytochrome P-450</span>
 
 ![Pasted image 20231207091221.png](/img/user/appendix/Pasted%20image%2020231207091221.png)
+
+>[!tip] 
+>胆小管是肝细胞膜凹陷自然形成的，用来引流胆汁，所以只有增生没有缺如。

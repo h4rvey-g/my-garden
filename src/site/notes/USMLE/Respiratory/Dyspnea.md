@@ -4,7 +4,7 @@
 
 - <span style="background:rgba(240, 200, 0, 0.2)">Upper airway signs: inspiratory stridor, suprasternal retractions, drooling</span>
 	- e.g., laryngospasm, [[USMLE/Immunology/Angioedema\|angioedema]], anaphylaxis, tumors, [[USMLE/Respiratory/Croup\|croup]], [[USMLE/Respiratory/Epiglottitis\|epiglottitis]], [[USMLE/Infective disease/Diphtheria\|diphtheria]], drowning, [[USMLE/Respiratory/Obstructive sleep apnea\|OSA]]
-	- Above the level of the vocal cords: nasal cavity, nasopharynx, oropharynx, hypopharynx, larynx
+	- Above the level of the vocal cords: nasal cavity, nasopharynx, oropharynx, hypopharynx, larynx. <span style="background:rgba(240, 200, 0, 0.2)">They are mostly soft tissues, easily to collapse with negative pressure.</span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Lower airway signs: expiratory wheezing, rhonchi, prolonged exhalation</span>
 	- e.g., [[USMLE/Respiratory/Chronic obstructive pulmonary disease\|AECOPD]], acute [[USMLE/Respiratory/Asthma\|asthma]] exacerbation, [[USMLE/Respiratory/Bronchiolitis\|bronchiolitis]], aspiration, [[USMLE/Respiratory/Bronchiectasis\|bronchiectasis]], [[USMLE/Biochemistry/Cystic fibrosis\|cystic fibrosis]]
 	- Below the vocal cords (subglottic): trachea, bronchi, bronchioles, alveoli

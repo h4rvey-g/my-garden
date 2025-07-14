@@ -1,14 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/MSK/Motor neuron action potential to muscle contraction/"}
+{"dg-publish":true,"permalink":"/USMLE/MSK/Motor neuron action potential to muscle contraction/","tags":["t1"]}
 ---
 
 ![Pasted image 20250404194210.png](/img/user/appendix/Pasted%20image%2020250404194210.png)
+
+>[!Mnemonic] 
+>Think of muscle contraction as a **climber (Myosin)** trying to pull on a **rope (Actin)**.
+> - **Actin:** The **"A"ctive** rope or track. It has binding sites (handholds) for myosin to grab.
+>- **Myosin:** The **"M"otor** protein. Its heads want to bind to actin and pull the rope to cause contraction.
+>
+>However, two guards prevent the climber from grabbing the rope at rest:
+>- **Tropomyosin:** A long, **"rope-like"** protein that lies on top of the actin rope. It **"traps"** the myosin by physically **blocking** the binding sites. Think: **Tropo-myo-sin** = **Stops Myosin**.
+>- **Troponin C:** The **"C"alcium-activated lock**. It holds tropomyosin in its blocking position. It acts as the switch.
+
 
 1. Action potential opens presynaptic voltage-gated Ca<sup>2+</sup> channels, inducing acetylcholine (ACh) release.
 2. Postsynaptic ACh binding leads to muscle cell depolarization at the motor end plate.
 3. Depolarization travels over the entire muscle cell and deep into the muscle via the T-tubules.
 4. Membrane depolarization induces conformational changes in the voltage-sensitive dihydropyridine receptor (DHPR) and its mechanically coupled ryanodine receptor (RR) → Ca<sup>2+</sup> release from the sarcoplasmic reticulum (<span style="background:rgba(240, 200, 0, 0.2)">buffered by calsequestrin</span>) into the cytoplasm.
-5. Tropomyosin is blocking myosin-binding sites on the actin filament. Released Ca<sup>2+</sup> binds to troponin C (TnC), shifting tropomyosin to expose the myosin-binding sites.
+5. Tropomyosin is blocking myosin-binding sites on the actin filament. <span style="background:rgba(240, 200, 0, 0.2)">Released Ca<sup>2+</sup> binds to troponin C (TnC)</span>, shifting tropomyosin to expose the myosin-binding sites.
 6. Myosin head binds strongly to actin (crossbridge). P<sub>i</sub> released, initiating power stroke.
 7. During the power stroke, force is produced as myosin pulls on the thin filament **A**. Muscle shortening occurs, with shortening of H and I bands and between **Z** lines (**HI**, I'm wearing short**Z**). The A band remains the same length (**A** band is **A**lways the same length). ADP is released at the end of the power stroke.
 8. Binding of new ATP molecule causes detachment of myosin head from actin filament. Ca<sup>2+</sup> is resequestered.

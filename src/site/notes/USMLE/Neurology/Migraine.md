@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Migraine/"}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Migraine/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -32,12 +32,12 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">Treat nausea and vomiting, if present.</span> 
 	- Accompanying vomiting makes absorption of oral medications (e.g., oral [[USMLE/Pharmacology/Non-opioid analgesics\|NSAIDs]]) unreliable.
 	- IV fluids
-	- Parenteral [[USMLE/GI/Antiemetics\|antiemetics]]: e.g., metoclopramide, prochlorperazine
+	- Parenteral [[USMLE/GI/Antiemetics\|antiemetics]]: e.g., [[USMLE/GI/Antiemetics\|metoclopramide]], prochlorperazine
 ### Mild to moderate headache
 - First-line treatment consists of [[USMLE/Pharmacology/Non-opioid analgesics\|NSAIDs]], [[USMLE/Pharmacology/Non-opioid analgesics\|acetaminophen]], acetylsalicylic acid, or combinations including caffeine.
 ### Moderate to severe headache
 - Parenteral antidopaminergics
-	- Metoclopramide
+	- [[USMLE/GI/Antiemetics\|Metoclopramide]]
 	- Prochlorperazine PLUS diphenhydramine
 - <span style="background:rgba(240, 200, 0, 0.2)">Migraine-specific agents: triptans (e.g., sumatriptan) OR ergotamine; do not combine these agents!</span>
 	- Triptans

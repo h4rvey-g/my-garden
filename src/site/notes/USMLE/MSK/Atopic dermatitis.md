@@ -12,14 +12,14 @@
 
 ---
 # Pathophysiology
-The pathogenesis of atopic dermatitis involves immune dysregulation and genetically mediated skin barrier dysfunction (eg, filaggrin mutation).  The epidermal dysfunction increases cutaneous exposure to environmental allergens, which induce a <span style="background:rgba(240, 200, 0, 0.2)">Th2-predominant immune response</span>.  Key Th2 cytokines that trigger acute inflammation in atopic dermatitis are <span style="background:rgba(240, 200, 0, 0.2)">IL-4 and IL-13</span>, and mechanisms include the following:
+The pathogenesis of atopic dermatitis involves immune dysregulation and <span style="background:rgba(240, 200, 0, 0.2)">genetically mediated skin barrier dysfunction</span> (eg, filaggrin mutation).  The epidermal dysfunction <span style="background:rgba(240, 200, 0, 0.2)">increases cutaneous exposure to environmental allergens</span>, which induce a <span style="background:rgba(240, 200, 0, 0.2)">Th2-predominant immune response</span>.  Key Th2 cytokines that trigger acute inflammation in atopic dermatitis are <span style="background:rgba(240, 200, 0, 0.2)">IL-4 and IL-13</span>, and mechanisms include the following:
 - Stimulation of plasma cell <span style="background:rgba(240, 200, 0, 0.2)">IgE production</span>, which facilitates allergen sensitization and inflammation
 - Suppressed expression of epidermal barrier components, which enhances [[USMLE/Infective disease/Staphylococcus aureus\|Staphylococcus aureus]] colonization and inflammation
 - Inhibition of Th1-type immune response and antimicrobial peptide production, which facilitate secondary microbial infections that complicate atopic dermatitis
 
 ---
 # Clinical features
----
+
 >[!tip] 
 >The symptoms of atopic dermatitis are variable and often change in the course of a lifetime. <span style="background:rgba(240, 200, 0, 0.2)">Pruritus and dry skin are usually the main symptoms.</span>
 ><span style="background:rgba(240, 200, 0, 0.2)">Most patients have a history of other atopic disorders</span>
@@ -32,11 +32,10 @@ The pathogenesis of atopic dermatitis involves immune dysregulation and genetica
 		- as a result of eyelid dermatitis![Pasted image 20230729153839.png](/img/user/appendix/Pasted%20image%2020230729153839.png)
 	- Occasionally, lesions appear on the trunk. 
 - Childhood AD (age 2–12 years)
-	- Eczema: <span style="background:rgba(240, 200, 0, 0.2)">flexural creases</span> (antecubital fossa and popliteal fossa), skin folds, extensor surface of hands 
-	- Lesions usually become lichenified (thickening of the skin with accentuated skin markings).
-	- ![Pasted image 20230729155030.png](/img/user/appendix/Pasted%20image%2020230729155030.png)
+	- Eczema: <span style="background:rgba(240, 200, 0, 0.2)">flexural creases</span> (antecubital fossa and popliteal fossa), skin folds, extensor surface of hands![Pasted image 20230729155030.png](/img/user/appendix/Pasted%20image%2020230729155030.png) 
+	- Lesions usually become <span style="background:rgba(240, 200, 0, 0.2)">lichenified (thickening of the skin with accentuated skin markings)</span>.![Pasted image 20250712093048.png](/img/user/appendix/Pasted%20image%2020250712093048.png)
 - Adult/adolescent AD (age > 12 years)
-	- Lichenified lesions and pruritus of <span style="background:rgba(240, 200, 0, 0.2)">flexor surfaces</span> of the extremities 
+	- Lichenified lesions and pruritus of <span style="background:rgba(240, 200, 0, 0.2)">flexor surfaces</span> of the extremities
 	- Antecubital fossae are frequently involved. 
 	- Adult AD may also present as nummular eczema.
 - Associated skin findings in AD

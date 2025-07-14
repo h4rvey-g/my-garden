@@ -14,7 +14,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 # Pathophysiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Classically affects the entire motor neuron system at two or more levels (both upper and lower motor neuron degeneration).</span>
 	- Upper motor neurons in the precentral gyrus and, frequently, prefrontal cortex
-	- Lower motor neurons in the anterior horn of the [[USMLE/Neurology/Neuroloy physioloy\|spinal cord]] and brainstem
+	- Lower motor neurons in the anterior horn of the [[USMLE/Neurology/Neuroloy physioloy\|spinal cord]] and [[USMLE/Neurology/Rule of 4s\|brainstem]]
 - Pathology
 	- <span style="background:rgba(240, 200, 0, 0.2)">UMN: degeneration & atrophy of lateral corticospinal tracts, precentral gyrus</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">LMN: degeneration of anterior horn (thin anterior roots) & cranial nerve motor nuclei</span>
@@ -28,7 +28,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - <span style="background:rgba(240, 200, 0, 0.2)">Constant disease progression</span>: it usually starts in one arm and/or leg then progresses to the <span style="background:rgba(240, 200, 0, 0.2)">contralateral side</span>
 ## Early symptoms
 - Symptoms are highly variable and potentially non-specific (e.g., subtle vocal changes or difficulties grasping objects)
-- <span style="background:rgba(240, 200, 0, 0.2)">Asymmetric limb weakness, often beginning with weakness in the hands and feet </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">**Asymmetric** limb weakness, often beginning with weakness in the hands and feet </span>
 - <span style="background:rgba(240, 200, 0, 0.2)">Bulbar symptoms such as dysarthria, dysphagia, and tongue atrophy (20% of cases at disease onset)</span>
 - [[USMLE/Neurology/Bulbar palsy\|Pseudobulbar palsy]] with pseudobulbar affect may develop.
 - Fasciculations, cramps, and muscle stiffness
@@ -36,7 +36,7 @@ a neurodegenerative disease with upper and lower motor neuron dysfunction.
 - Split hand sign: a wasting pattern in which the muscles of the thenar eminence atrophy due to degeneration of the lateral portion of the anterior horn of the [[USMLE/Neurology/Neuroloy physioloy\|spinal cord]]
 ## Late symptoms
 - Cognitive impairment (approx. 15% of ALS patients meet the criteria for [[USMLE/Neurology/Frontotemporal dementia\|frontotemporal dementia]])
-- Autonomic symptoms (e.g., constipation, bladder dysfunction) may develop; the mechanism of development is unclear. 
+- Autonomic symptoms (e.g., [[USMLE/GI/Constipation\|constipation]], bladder dysfunction) may develop; the mechanism of development is unclear. 
 - Life-threatening symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Respiratory failure due to paralysis of respiratory muscles</span>
 	- Dysphagia due to bulbar weakness or [[USMLE/Neurology/Bulbar palsy\|pseudobulbar palsy]]

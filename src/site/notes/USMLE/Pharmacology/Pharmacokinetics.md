@@ -13,8 +13,8 @@
 	- Drugs may be distributed in more than one compartment. 
 	- Hemodialysis is most effective for drugs with a low V<sub>d</sub>.
 
-| V<sub>d</sub> | COMPARTMENT                | DRUG TYPES                                                              |
-| :---------- | :------------------------- | :---------------------------------------------------------------------- |
-| **Low**     | Intravascular              | Large/charged molecules; plasma protein bound                           |
-| **Medium**  | ECF                        | Small hydrophilic molecules                                             |
-| **High**    | All tissues including fat | Small lipophilic molecules, especially if bound to tissue protein |
+| V<sub>d</sub> | COMPARTMENT               | DRUG TYPES                                                                                                                                                                                                        |
+| :------------ | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Low**       | Intravascular             | Large/<span style="background:rgba(240, 200, 0, 0.2)">charged</span> molecules; plasma protein bound <span style="background:rgba(240, 200, 0, 0.2)">(The "Like Dissolves Like" principle, water is polar)</span> |
+| **Medium**    | ECF                       | Small hydrophilic molecules                                                                                                                                                                                       |
+| **High**      | All tissues including fat | Small lipophilic molecules, especially if bound to tissue protein                                                                                                                                                 |

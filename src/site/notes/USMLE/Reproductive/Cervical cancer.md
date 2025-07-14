@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Reproductive/Cervical cancer/"}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Cervical cancer/","tags":["t1"]}
 ---
 
 # Epidemiology

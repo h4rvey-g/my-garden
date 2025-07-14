@@ -9,4 +9,4 @@
 	- Can be seen in 5α-reductase deficiency.
 - Epispadias
 	- Abnormal opening of penile urethra on dorsal (<font color="#ffc000">t</font>op) surface due to faulty positioning of genital <font color="#ffc000">t</font>ubercle.
-	- <font color="#ffc000">E</font>xstrophy of the bladder is associated with <font color="#ffc000">e</font>pispadias.
+	- <font color="#ffc000">E</font>xstrophy of the bladder is associated with <font color="#ffc000">e</font>pispadias.![Pasted image 20250713121306.png](/img/user/appendix/Pasted%20image%2020250713121306.png)

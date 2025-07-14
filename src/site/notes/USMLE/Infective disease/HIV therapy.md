@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Infective disease/HIV therapy/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/HIV therapy/","tags":["t2"]}
 ---
 
 
@@ -14,7 +14,7 @@ Left part is for [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]], 
 | Fusion inhibitor                                                                                                                            | Enfuvirtide                                                | Inhibits HIV fusion with target cell membrane by binding to HIV gp41                                                                     |
 | CCR5 antagonist                                                                                                                             | Maraviroc                                                  | Inhibits HIV entry by blocking the HIV gp120 allosteric interaction with CCR5 (tropism testing required)                                 |
 
-# NRTIs (Nucleoside reverse transcriptase inhibitors)
+# Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)
 - Medications in class
 	- <span style="background:rgba(240, 200, 0, 0.2)">Abacavir (ABC)</span>
 	- Didanosine (ddI)
@@ -26,8 +26,8 @@ Left part is for [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]], 
 		- Tenofovir alafenamide (TAF)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Zidovudine (ZDV, formerly AZT)</span>
 - Mechanism of action
-	- NRTIs act as nucleoside analogs → <span style="background:rgba(240, 200, 0, 0.2)">competitive blockage of nucleoside binding to reverse transcriptase → inhibition of formation of 3' to 5' phosphodiester linkages → termination of DNA chain</span> → inhibition of RNA to DNA reverse transcription
-	- Activation <span style="background:rgba(240, 200, 0, 0.2)">requires intracellular phosphorylation</span>, into their active triphosphate form <span style="background:rgba(240, 200, 0, 0.2)">like natural nucleotides</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Competitive inhibitors of HIV reverse transcriptase.They are nucleoside/tide analogs that lack a 3'-OH group, causing chain termination upon incorporation into viral DNA.</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Require intracellular phosphorylation to become active.</span>
 		- thus, NRTI efficacy is reliant on kinase availability and activity, which varies depending on cell functionality and activation state.
 - Adverse effects
 	- <span style="background:rgba(240, 200, 0, 0.2)">Abacavir hypersensitivity reaction</span>
@@ -44,9 +44,9 @@ Left part is for [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]], 
 >[!Mnemonic] 
 >Zi<font color="#ffc000">dov</font>udine -> get <font color="#ffc000">rid of</font> [[USMLE/Blood/Hemoglobin variants\|hemoglobin]] -> [[USMLE/Blood/Anemia\|anemia]]
 
-# NNRTIs
+# Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
 - Mechanism of action
-	- Noncompetitive inhibitors of viral reverse transcriptase that <span style="background:rgba(240, 200, 0, 0.2)">bind to the reverse transcriptase at a different location than NRTIs</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Allosteric (non-competitive) inhibitors of HIV reverse transcriptase. Bind to a different site than NRTIs.</span>
 	- NNRTIs <span style="background:rgba(240, 200, 0, 0.2)">do not require intracellular phosphorylation</span> for activation because they are direct inhibitors.
 
 ![Pasted image 20231210154222.png](/img/user/appendix/Pasted%20image%2020231210154222.png)

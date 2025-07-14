@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Lysosomal Storage Diseases/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Lysosomal Storage Diseases/","tags":["t2"]}
 ---
 
 ![Pasted image 20250116200647.png](/img/user/appendix/Pasted%20image%2020250116200647.png)![Pasted image 20250116200658.png](/img/user/appendix/Pasted%20image%2020250116200658.png)
@@ -40,7 +40,7 @@ big = hepatosplenomegaly
 >[!Mnemonic] 
 >1. X -> X link recessive
 >2. The gun touches the hunter's **derm** -> Heparan sulfate, dermatan sulfate.
->3. Hunter doesn't have corneal cloudy -> or he couldn't see targets
+>3. Hunter <span style="background:rgba(240, 200, 0, 0.2)">doesn't have corneal cloudy -> or he couldn't see targets</span>
 >4. Hunters are aggressive
 
 - Hurler syndrome

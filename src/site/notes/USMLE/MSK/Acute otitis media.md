@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/MSK/Acute otitis media/"}
+{"dg-publish":true,"permalink":"/USMLE/MSK/Acute otitis media/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -9,9 +9,13 @@
 # Etiology
 ---
 - Bacterial pathogens 
-	- <span style="background:rgba(240, 200, 0, 0.2)">S. pneumoniae </span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Haemophilus influenzae </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Infective disease/Streptococcus pneumoniae\|S. pneumoniae]] </span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Infective disease/Haemophilus influenzae\|Haemophilus influenzae]] </span>
 	- Moraxella catarrhalis
+
+>[!tip] 
+>- **Acute Otitis Media (AOM):** Caused by respiratory bacteria following a URI, mainly **_[[USMLE/Infective disease/Streptococcus pneumoniae\|S. pneumoniae]]_**, nontypeable **_H. influenzae_**, and **_M. catarrhalis_**. 
+>- **Otitis Externa (OE):** Caused by skin/water flora due to canal moisture/trauma (**Swimmer's Ear**), most commonly **_[[USMLE/Infective disease/Pseudomonas\|Pseudomonas aeruginosa]]_** and **_S. aureus_**.
 
 # Pathophysiology
 ---

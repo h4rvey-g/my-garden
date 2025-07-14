@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Pathology/Oncogenes/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Pathology/Oncogenes/","tags":["t2"]}
 ---
 
 # Proto-oncogenes (tumor promoters)
@@ -11,8 +11,12 @@
 	- <font color="#ffc000">BCL</font>-2 mutations are associated with diffuse large <font color="#ffc000">B</font>-<font color="#ffc000">c</font>ell <font color="#ffc000">l</font>ymphoma.
 - HER1: Squamous cell [[USMLE/Respiratory/Lung cancer\|lung cancer]]
 - HER2/neu: [[USMLE/Reproductive/Breast cancer\|Breast cancer]], [[USMLE/Reproductive/Ovarian cancer\|ovarian cancer]]![4b928077f7c2782a9e06547e907a6f0.jpg](/img/user/appendix/4b928077f7c2782a9e06547e907a6f0.jpg)
+- <span style="background:rgba(240, 200, 0, 0.2)">JAK2</span>: Chronic myeloproliferative disorders.
+	- <span style="background:rgba(240, 200, 0, 0.2)">Polycythemia Vera (PV) (~95% of cases).</span>
+	- Essential Thrombocythemia (ET) (~50% of cases).
+	- Primary Myelofibrosis (MF) (~50% of cases).
 - MYC: [[USMLE/Endocrine/Neuroblastoma\|Neuroblastoma]] (NMYC), small cell [[USMLE/Respiratory/Lung cancer\|lung cancer]] (LMYC), <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Blood/Non-Hodgkin lymphomas\|Burkitt lymphoma]]</span>
-- RET: Medullary [[USMLE/Endocrine/Thyroid cancer\|thyroid cancer]], pheochromocytoma
+- <span style="background:rgba(240, 200, 0, 0.2)">RET: Medullary [[USMLE/Endocrine/Thyroid cancer\|thyroid cancer]]</span>, pheochromocytoma
 	- Mutations are associated with [[USMLE/Endocrine/Multiple endocrine neoplasias\|MEN2]]
 - KRAS: Colorectal, lung, <span style="background:rgba(240, 200, 0, 0.2)">pancreatic cancers</span>
 	- EGFR leads to downstream activation of KRAS. 

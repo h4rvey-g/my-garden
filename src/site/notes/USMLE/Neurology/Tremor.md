@@ -3,17 +3,20 @@
 ---
 
 - Action Tremor: **Occurs During Voluntary Muscle Movement**
-    - Cerebellar Disease (e.g., spinocerebellar ataxia, [[USMLE/Biochemistry/Vitamin E\|Vitamin E]] deficiency, stroke, [[USMLE/Neurology/Multiple sclerosis\|multiple sclerosis]], [[USMLE/GI/Wilson disease\|Wilson disease]])
+	- This is the classic sign of **cerebellar dysfunction**. <span style="background:rgba(240, 200, 0, 0.2)">The cerebellum is crucial for error correction and coordinating the timing and force of movements.</span> Damage disrupts this feed-forward control, causing overshooting and corrective "jerks" that manifest as a tremor, which amplifies as the movement requires more precision near the target.
+	- Cerebellar Disease (e.g., spinocerebellar ataxia, [[USMLE/Biochemistry/Vitamin E\|Vitamin E]] deficiency, stroke, [[USMLE/Neurology/Multiple sclerosis\|multiple sclerosis]], [[USMLE/GI/Wilson disease\|Wilson disease]])
 - Resting Tremor: **Occurs at Rest**
-    - [[USMLE/Neurology/Parkinson disease\|Parkinson Disease]]
-    - Midbrain Tremor
-    - [[USMLE/GI/Wilson disease\|Wilson Disease]]
-    - Progressive supranuclear palsy
-    - Multiple System Atrophy
-    - Drug-Induced Parkinsonism
+	- Primarily due to dysfunction in the **[[USMLE/Neurology/Basal ganglia\|basal ganglia]]**, specifically the substantia nigra, leading to <span style="background:rgba(240, 200, 0, 0.2)">disturbances in the neural circuits that control movement initiation</span>. This is often related to [[USMLE/Neurology/Neurotransmitters\|dopamine]] depletion.
+	- [[USMLE/Neurology/Parkinson disease\|Parkinson Disease]]
+	- Midbrain Tremor
+	- [[USMLE/GI/Wilson disease\|Wilson Disease]]
+	- Progressive supranuclear palsy
+	- Multiple System Atrophy
+	- Drug-Induced Parkinsonism
 - Postural Tremor: **Occurs While Held Motionless Against Gravity**
-    - Enhanced Physiologic Change
-    - [[USMLE/Neurology/Essential tremor\|Essential tremor]]
-    - [[USMLE/Neurology/Dystonia\|Dystonia]]
-    - Metabolic Etiology (Thyroid, Liver, Kidney)
-    - Drugs (Lithium, Amiodarone, [[USMLE/Neurology/Anticonvulsant drugs\|Valproate]])
+	- Often linked to dysfunction in the **cerebello-thalamo-cortical network**. The cerebellum helps coordinate and smoothen motor commands, and dysfunction can lead to oscillations when maintaining a steady posture. It can also be an exaggeration of normal physiologic tremor.
+	- Enhanced Physiologic Change
+	- [[USMLE/Neurology/Essential tremor\|Essential tremor]]
+	- [[USMLE/Neurology/Dystonia\|Dystonia]]
+	- Metabolic Etiology (Thyroid, Liver, Kidney)
+	- Drugs ([[USMLE/Pharmacology/Lithium\|Lithium]], Amiodarone, [[USMLE/Neurology/Anticonvulsant drugs\|Valproate]])

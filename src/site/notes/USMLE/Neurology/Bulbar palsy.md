@@ -5,7 +5,7 @@
 | Criteria               | Bulbar Palsy                                                   | Pseudobulbar Palsy                                                                 |
 | ---------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | 1. Type of lesion      | LMN                                                            | UMN                                                                                |
-| 2. Site of lesion      | <span style="background:rgba(240, 200, 0, 0.2)">Medulla</span> | <span style="background:rgba(240, 200, 0, 0.2)">Bilateral, internal capsule</span> |
+| 2. Site of lesion      | <span style="background:rgba(240, 200, 0, 0.2)">Medulla</span> | <span style="background:rgba(240, 200, 0, 0.2)">Bilateral, [[USMLE/Neurology/Internal capsule\|internal capsule]]</span> |
 | 3. Speech              | Nasal                                                          | Slow, slurred and indistinct                                                       |
 | 4. Nasal regurgitation | Present                                                        | Absent                                                                             |
 | 5. Tongue              | Wasted, fasciculation                                          | Small, stiff or spastic                                                            |
@@ -17,9 +17,9 @@
 # Bulbar palsy
 ---
 ## Etiology
-- Brainstem stroke or tumors
+- [[USMLE/REVIEW/Brainstem stroke\|Brainstem stroke]] or tumors
 - Neurodegenerative diseases: [[USMLE/Neurology/Amyotrophic lateral sclerosis\|amyotrophic lateral sclerosis]], syringobulbia 
-- Autoimmune neuropathies: Guillain-Barré syndrome, [[USMLE/MSK/Myasthenia gravis\|myasthenia gravis]] 
+- Autoimmune neuropathies: [[USMLE/Neurology/Guillain-Barré syndrome\|Guillain-Barré syndrome]], [[USMLE/MSK/Myasthenia gravis\|myasthenia gravis]] 
 - Infectious neuropathies: [[USMLE/MSK/Poliomyelitis\|poliomyelitis]], [[USMLE/Infective disease/Diphtheria\|diphtheria]], neurosyphilis
 ## Pathophysiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Bilateral damage or injury of the nerve nuclei of cranial nerves IX, X, XI, and XII </span>

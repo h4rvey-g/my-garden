@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Pathology/Mercury toxicity/"}
+{"dg-publish":true,"permalink":"/USMLE/Pathology/Mercury toxicity/","tags":["t1"]}
 ---
 
 - Sources of exposure

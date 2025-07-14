@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Ischemic stroke/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Ischemic stroke/","tags":["t3"]}
 ---
 
 # Epidemiology
@@ -79,24 +79,10 @@
 A <span style="background:rgba(240, 200, 0, 0.2)">left posterior cerebral artery</span> stroke can lead to <span style="background:rgba(240, 200, 0, 0.2)">alexia without agraphia</span> in which someone is <span style="background:rgba(240, 200, 0, 0.2)">unable to read but can still write, speak, and listen</span>.
 >[!Mnemonic] 
 >Someone <font color="#ffc000">cannot read letters</font> if the <font color="#ffc000">post</font> office workers have <font color="#ffc000">left</font> for the day.
-### Anterior spinal artery
-Medial medullary syndrome involves contralateral hemiplegia, contralateral epicritic numbness, and ipsilateral tongue weakness.
->[!Mnemonic] 
->“<font color="#ffc000">MM</font>! These <font color="#ffc000">açaí (ASA-i)</font> berries are so tasty I want to <font color="#ffc000">lick</font> them!”
-### Posterior inferior cerebellar artery (Wallenberg syndrome, lateral medullary syndrome)
->[!attention] 
-><span style="background:rgba(240, 200, 0, 0.2)">**Posterior Inferior Cerebellar Artery (PICA) is a branch of Vertebral Artery, NOT Posterior Cerebral Artery (PCA)**.</span>
-
-
-Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.![L57143.jpg](/img/user/appendix/L57143.jpg)
-
->[!Mnemonic] 
-><font color="#ffc000">PICA-chew</font>: A <font color="#ffc000">P</font>osterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery stroke makes it so you can’t <font color="#ffc000">chew</font>.![Pasted image 20240120150237.png](/img/user/appendix/Pasted%20image%2020240120150237.png)
 ### Anterior inferior cerebellar artery (<span style="background:rgba(240, 200, 0, 0.2)">Lateral pontine syndrome</span>)
 Lateral pontine syndrome is <span style="background:rgba(240, 200, 0, 0.2)">similar to lateral medullary syndrome but also involves facial paralysis and [[USMLE/Neurology/Hearing loss\|hearing loss]]. </span>
 >[!Mnemonic] 
 >A stroke in the <font color="#ffc000">A</font>nterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery messes up the f<font color="#ffc000">AICA</font>l nerve.
-
 ### Basilar artery (Locked-in syndrome)
 ![highresdefault_L84497.jpg](/img/user/appendix/highresdefault_L84497.jpg)
 - Etiology
@@ -114,6 +100,19 @@ Lateral pontine syndrome is <span style="background:rgba(240, 200, 0, 0.2)">simi
 
 >[!Mnemonic] 
 ><font color="#ffc000">Locked-in</font> syndrome (<font color="#ffc000">locked in</font> the basement).
+### Anterior spinal artery
+Medial medullary syndrome involves contralateral hemiplegia, contralateral epicritic numbness, and ipsilateral tongue weakness.
+>[!Mnemonic] 
+>“<font color="#ffc000">MM</font>! These <font color="#ffc000">açaí (ASA-i)</font> berries are so tasty I want to <font color="#ffc000">lick</font> them!”
+### Posterior inferior cerebellar artery (Wallenberg syndrome, lateral medullary syndrome)
+>[!attention] 
+><span style="background:rgba(240, 200, 0, 0.2)">**Posterior Inferior Cerebellar Artery (PICA) is a branch of Vertebral Artery, NOT Posterior Cerebral Artery (PCA)**.</span>
+
+
+Lateral medullary syndrome involves loss of protopathic sensation in the contralateral extremities and ipsilateral face, ipsilateral Horner’s syndrome, cerebellar signs, dysarthria, and dysphagia.![L57143.jpg](/img/user/appendix/L57143.jpg)
+
+>[!Mnemonic] 
+><font color="#ffc000">PICA-chew</font>: A <font color="#ffc000">P</font>osterior <font color="#ffc000">I</font>nferior <font color="#ffc000">C</font>erebellar <font color="#ffc000">A</font>rtery stroke makes it so you can’t <font color="#ffc000">chew</font>.![Pasted image 20240120150237.png](/img/user/appendix/Pasted%20image%2020240120150237.png)
 
 ---
 # Pathophysiology

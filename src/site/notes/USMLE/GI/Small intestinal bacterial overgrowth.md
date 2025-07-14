@@ -1,27 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/GI/Small intestinal bacterial overgrowth/"}
+{"dg-publish":true,"permalink":"/USMLE/GI/Small intestinal bacterial overgrowth/","tags":["t1"]}
 ---
 
-SIBO is a pathologically excessive growth of bacteria in the small intestine.
-
+- SIBO is a pathologically excessive growth of bacteria in the small intestine.
+- **Core Mechanism**: Excessive numbers of bacteria in the small intestine (<10^5 organisms/mL is normal), leading to fermentation of carbohydrates, [[USMLE/GI/Malabsorption\|malabsorption]], and mucosal inflammation.
 # Etiology
 ---
-- Structural abnormalities 
-	- Postsurgical complications, e.g.:
-		- [[USMLE/GI/Malabsorption\|Short bowel syndrome]]
-		- Blind loop syndrome: bacterial overgrowth in the bypassed intestinal segment (blind loop), e.g., due to gastrectomy
-		- Adhesions
-- <span style="background:rgba(240, 200, 0, 0.2)">Motility disorders </span> 
-	- [[USMLE/GI/Irritable bowel syndrome\|Irritable bowel syndrome]] ([[USMLE/GI/Irritable bowel syndrome\|IBS]])
-	- Paralytic ileus, e.g., due to opiate use
-	- <span style="background:rgba(240, 200, 0, 0.2)">Systemic disorders, e.g., diabetic autonomic neuropathy, [[USMLE/MSK/Systemic sclerosis\|systemic sclerosis]], [[USMLE/Pathology/Amyloidosis\|amyloidosis]]</span>
-- Biochemical abnormalities 
-	- Achlorhydria, e.g., due to [[USMLE/GI/Atrophic gastritis\|atrophic gastritis]]
-	- [[USMLE/GI/Chronic pancreatitis\|Chronic pancreatitis]]
-- Immune disorders 
-	- Common variable [[USMLE/Immunology/Congenital immunodeficiency disorders\|immunodeficiency]]
-	- [[USMLE/Immunology/Selective IgA deficiency\|Selective IgA deficiency]]
-	- [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]]
+- **↓ Motility**: Conditions that cause stasis, allowing bacteria to proliferate. Includes [[USMLE/Endocrine/Diabetes mellitus\|diabetes]] (autonomic neuropathy), <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/MSK/Systemic sclerosis\|scleroderma]]</span>, intestinal pseudo-obstruction, and post-operative adhesions.
+- **Anatomic Abnormalities**: Surgical blind loops (e.g., Billroth II, Roux-en-Y), small bowel [[USMLE/GI/Diverticulosis\|diverticula]], strictures (Crohn's disease), or ileocecal valve resection.
+- **↓ Acid/Enzyme Secretion**: Achlorhydria (chronic [[USMLE/GI/Proton pump inhibitors\|PPI]] use), [[USMLE/GI/Atrophic gastritis\|atrophic gastritis]], or pancreatic insufficiency.
 
 # Pathophysiology
 ---
@@ -42,4 +29,4 @@ SIBO is a pathologically excessive growth of bacteria in the small intestine.
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/MSK/Antiphospholipid syndrome/","title":"Antiphospholipid syndrome"}
+{"dg-publish":true,"permalink":"/USMLE/MSK/Antiphospholipid syndrome/","title":"Antiphospholipid syndrome","tags":["t1"]}
 ---
 
 Antiphospholipid syndrome (APS) is an autoimmune disease associated with <span style="background:rgba(240, 200, 0, 0.2)">increased risk of thrombosis due to the presence of procoagulatory antibodies.</span>
@@ -18,20 +18,10 @@ Antiphospholipid syndrome (APS) is an autoimmune disease associated with <span s
 - Induction of a hypercoagulable state → ↑ risk of thrombosis and embolism
 # Clinical features
 APS usually manifests with <span style="background:rgba(240, 200, 0, 0.2)">recurring thrombotic events that may affect any organ.</span>
-- Venous
-	- <span style="background:rgba(240, 200, 0, 0.2)">Deep vein thrombosis </span>
-		- There is diffuse edema and erythema of the right leg and foot. The diameter of the right calf is visibly greater than that of the left.![Pasted image 20231216111912.png](/img/user/appendix/Pasted%20image%2020231216111912.png)
-	- [[USMLE/Respiratory/Pulmonary embolism\|Pulmonary embolism]]
-	- Livedo reticularis 
-		- Blood clots in capillaries lead to swelling of venules, resulting in a purplish, net-like discoloration of the skin.
-	- Ulceration
-- Arterial
-	- <span style="background:rgba(240, 200, 0, 0.2)">Stroke, transient ischemic attacks</span>
-	- Occlusion of organ arteries (e.g., myocardial infarction)
-	- Occlusion of distal extremity arteries (ischemia and gangrene)
-- Capillaries: <span style="background:rgba(240, 200, 0, 0.2)">splinter hemorrhages</span> 
-- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Reproductive/Pregnancy\|Pregnancy]]-related: recurrent miscarriages and premature births </span>
+- <span style="background:rgba(240, 200, 0, 0.2)">**Thrombosis:** Recurrent venous (e.g., DVT, PE) or arterial (e.g., stroke, TIA, MI) thrombosis.</span> Stroke in a young patient (<50) should raise suspicion.
+- **Obstetric Complications:** <span style="background:rgba(240, 200, 0, 0.2)">Recurrent pregnancy loss</span> (especially ≥10 weeks gestation), premature birth due to pre-eclampsia/eclampsia, or placental insufficiency.
 	- Caused by thrombosis of placental vessels and possible subsequent placental infarction
+- **Other findings:** Livedo reticularis (or racemosa), thrombocytopenia, valvular heart disease (Libman-Sacks endocarditis), and neurologic symptoms (migraine, seizures).
 # Diagnostics
 ---
 >[!tip] 

@@ -18,3 +18,5 @@
 
 >[!Mnemonic] 
 >“Too (2) fast to last; light and white, no air to spare.” The most important features of type 2 skeletal muscle fibers are fast-twitching, short-term activity, white appearance, and anaerobic [[USMLE/Biochemistry/Glycolysis\|glycolysis]] (no air).
+
+![Pasted image 20250712095447.png](/img/user/appendix/Pasted%20image%2020250712095447.png)

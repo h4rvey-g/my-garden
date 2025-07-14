@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Endocrine/Subacute thyroiditis/"}
+{"dg-publish":true,"permalink":"/USMLE/Endocrine/Subacute thyroiditis/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -20,6 +20,7 @@ Subacute lymphocytic thyroiditis is characterized by damage to follicular cells 
 		- History of postpartum thyroiditis
 		- Increased titers of thyroid peroxidase antibodies
 	- Occurs within 1–12 months of delivery
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pregnancy causes a natural state of immunosuppression. After delivery, the immune system can rebound, leading to the flare-up of an underlying autoimmune process in susceptible women.</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Manifests with a period of transient thyrotoxicosis followed by [[USMLE/Biochemistry/Hypothyroidism\|hypothyroidism]] without thyroid enlargement or tenderness</span>
 	- Associated with increased titers of thyroid peroxidase antibodies.
 	- Usually resolves spontaneously.

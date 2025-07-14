@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Endocrine/Diabetes mellitus/","tags":["t4"]}
+{"dg-publish":true,"permalink":"/USMLE/Endocrine/Diabetes mellitus/","tags":["t5"]}
 ---
 
 # Epidemiology

@@ -25,7 +25,7 @@
 # Clinical features
 - Respiratory distress (inspiratory retractions, cyanosis)
 - Inspiratory stridor 
-- <span style="background:rgba(240, 200, 0, 0.2)">Tripod position: eases respiration as the airway diameter is increased by leaning forward and extending the neck in a seated position</span> 
+- <span style="background:rgba(240, 200, 0, 0.2)">Tripod position: eases respiration as the airway diameter is increased by leaning forward and extending the neck in a seated position</span> ![Pasted image 20250714155849.png](/img/user/appendix/Pasted%20image%2020250714155849.png)
 - Sore throat
 - Dysphagia and odynophagia
 - Drooling

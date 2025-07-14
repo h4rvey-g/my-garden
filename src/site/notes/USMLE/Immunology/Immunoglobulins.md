@@ -1,11 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunoglobulins/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunoglobulins/","tags":["t2"]}
 ---
 
 B-lymphocytes rearrange their V, D, and J gene segments to create diverse antibodies. <span style="background:rgba(240, 200, 0, 0.2)">T-lymphocytes, however, only rearrange their T-cell receptor genes.</span> Consequently, in T-cells, the immunoglobulin genes remain in their original, unrearranged "germline" state.
 
 - ![Pasted image 20240405105311.png](/img/user/appendix/Pasted%20image%2020240405105311.png)<span style="background:rgba(240, 200, 0, 0.2)">Immunotherapy medications often utilize fragments of a monoclonal immunoglobulin rather than the full immunoglobulin</span>; because fragments are smaller, they typically have <span style="background:rgba(240, 200, 0, 0.2)">better tissue penetration and pharmacokinetics</span>.  Fab fragments contain a variable domain and the first constant region from a heavy and light chain; because they do not contain an Fc receptor, Fab fragments cannot trigger cell killing via [[USMLE/Immunology/Complement system\|complement]] or phagocytosis.
-- ![L69890.jpg](/img/user/appendix/L69890.jpg)IgG, IgA, and IgD also have a <span style="background:rgba(240, 200, 0, 0.2)">hinge region between the Fab and the Fc fragments.</span>  The hinge region is rich in cysteine and proline amino acids, which <span style="background:rgba(240, 200, 0, 0.2)">provide significant flexibility to the immunoglobulin and allow greater movement of the Fab fragment arms.</span>  Fab fragments with <span style="background:rgba(240, 200, 0, 0.2)">long hinge regions are better able to reach multiple epitopes on an antigen; this increases immunoglobulin avidity because avidity is directly proportional to the number of Fab-antigen interactions.</span>  However, long hinge regions are more susceptible to destruction by bacterial proteases (eg, [[USMLE/Infective disease/IgA protease\|IgA protease]]).
+
+---
+# Hinge Region of Immunoglobulin
+-   **Structure & Location**
+	*   A short, flexible stretch of amino acids located between the **Cμ1** and **Cμ2** domains of the heavy chains.
+	*   Connects the two antigen-binding **Fab arms** to the **Fc portion** of the antibody.
+	*   <span style="background:rgba(240, 200, 0, 0.2)">Present in **IgG, IgA,** and **IgD**.</span>
+	*   **Absent in IgM and IgE**, which instead have an additional constant domain (Cμ2) that confers flexibility.![Pasted image 20250712175636.png](/img/user/appendix/Pasted%20image%2020250712175636.png)
+
+-   **Composition**
+    *   Rich in **proline** residues, which prevent tight folding and provide flexibility.
+    *   Rich in **cysteine** residues, which form interchain **disulfide bonds** that link the two heavy chains.
+
+-   **Function**
+    *   <span style="background:rgba(240, 200, 0, 0.2)">**Flexibility:** Primary function. Allows the two Fab arms to move independently, enabling them to bind to epitopes separated by variable distances.</span>![L69890.jpg](/img/user/appendix/L69890.jpg)
+	    * **Affinity = Attraction** (Strength of a _single_ bond)
+		- **Avidity = Adhesion** (Overall strength of _all_ bonds combined)
+    *   **Complement Activation:** Flexibility influences the ability of the Fc region to bind C1q and initiate the classical complement cascade.
+    *   **Fc Receptor Binding:** Affects the interaction with Fc receptors on phagocytes, NK cells, and other immune cells, thus modulating effector functions like opsonization and ADCC.
+    *   **Site of Proteolytic Cleavage:** Highly susceptible to cleavage by proteases (e.g., papain, pepsin), which is used experimentally to separate Fab and Fc fragments.
+
+-   **Isotype & Subclass Variations (High-Yield)**
+    *   **IgG3:** Has the **longest and most flexible hinge region**, making it the most potent IgG subclass for complement activation but also most susceptible to proteolysis.
+    *   **IgG2:** Has a shorter, more rigid hinge due to multiple disulfide bonds, resulting in less flexibility.
+    *   **IgA1 vs. IgA2:**
+        *   **IgA1:** Found in serum; has a long, proline-rich hinge region. <span style="background:rgba(240, 200, 0, 0.2)">This makes it susceptible to cleavage by **IgA proteases** produced by bacteria like *S. pneumoniae, H. influenzae, and Neisseria* (*S.H.i.N.*), which is a key virulence mechanism.</span>
+        *   **IgA2:** Found in mucosal secretions; has a short hinge lacking the protease-sensitive site, making it resistant to cleavage.
+
+-   **Clinical Correlations / Buzzwords**
+    *   **Bacterial Immune Evasion:** Cleavage of secretory IgA1 at the hinge region by bacterial IgA proteases allows pathogens to colonize mucosal surfaces.
+    *   **IgG Subclass Deficiency:** Different hinge structures lead to different effector functions. IgG3 deficiency can lead to recurrent infections due to impaired complement activation.
 # Immunoglobulin types
 ---
 ![Pasted image 20241228210712.png](/img/user/appendix/Pasted%20image%2020241228210712.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Cardiology/Long QT syndromes/","title":"Long QT syndromes","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Long QT syndromes/","title":"Long QT syndromes","tags":["t2"]}
 ---
 
 
