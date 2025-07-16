@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/USMLE/REVIEW/Comparison of Thymus, Lymph Nodes, and Spleen/"}
+---
+
+| Feature                           | Thymus                                                                                                                     | Lymph Nodes                                                                                               | Spleen                                                                                                                                        |
+|:--------------------------------- |:-------------------------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary Function**              | **T-cell maturation and education**. It's where T-lymphocytes learn to distinguish self from non-self (central tolerance). | **Filter lymph** and serve as sites for immune surveillance and activation of adaptive immune responses.  | **Filters blood**, removes old/damaged red blood cells, and mounts immune responses against blood-borne pathogens.                            |
+| **What it Filters**               | Does not filter fluid; it's a primary lymphoid organ for cell maturation.                                                  | **Lymph fluid** from surrounding tissues.                                                                 | **Blood**.                                                                                                                                    |
+| **Key Cell Types**                | Developing T-lymphocytes (thymocytes), epithelial cells, and macrophages.                                                  | B-lymphocytes (in follicles), T-lymphocytes (in paracortex), macrophages, and dendritic cells.            | **Red Pulp:** Macrophages, red blood cells, platelets. **White Pulp:** B-lymphocytes and T-lymphocytes.                                       |
+| **Key Structures**                | Cortex (dense with immature T-cells) and Medulla (fewer, mature T-cells and Hassall's corpuscles).                         | Cortex (with B-cell follicles), Paracortex (T-cell zone), and Medulla (with medullary cords and sinuses). | **Red Pulp:** Sinusoids and splenic cords. **White Pulp:** Periarteriolar lymphoid sheaths (PALS) rich in T-cells and follicles with B-cells. |
+| **Life Cycle**                    | Large and active in childhood, undergoes involution (shrinks and is replaced by fat) after puberty.                        | Functional throughout life.                                                                               | Functional throughout life, though it can be removed (splenectomy).                                                                           |
+| **Vascular/Lymphatic Connection** | Has efferent lymphatics but **no afferent lymphatics**.                                                                    | Has both **afferent** (incoming) and **efferent** (outgoing) lymphatic vessels.                           | Connected to the circulatory system via the splenic artery and splenic vein. Has efferent lymphatics but **no afferent lymphatics**.          |
+
+- **骨髓（招募中心和兵工厂）：** 为整个防御网络创造所有新兵（免疫细胞）。
+- **胸腺（精英训练学院）：** 一所专门的学校，其中一类士兵（T细胞）在此接受训练，以区分敌我。
+- **外周组织（边境巡逻）：** 国家边境，哨兵提供第一道防线并报告任何入侵。
+- **淋巴结（地区军事基地）：** 分析边境报告、制定作战计划以及激活专门部队（T细胞和B细胞）以执行有针对性任务的总部。
+- **外周血（高速公路系统）：** 用于将部队和武器从基地运往冲突地区的运输网络。
+- **脾脏（中央安全检查站）：** 监测主要高速公路（血流）上的重大威胁的情报总部，并清除老旧、损坏的车辆（衰老的红细胞）。

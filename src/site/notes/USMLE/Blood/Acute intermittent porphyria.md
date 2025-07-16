@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Blood/Acute intermittent porphyria/"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Acute intermittent porphyria/","tags":["t1"]}
 ---
 
 # Epidemiology

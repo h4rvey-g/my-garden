@@ -95,8 +95,10 @@
 - [[USMLE/Pharmacology/Non-opioid analgesics\|NSAIDs]] and selective COX-2 inhibitors: relieve symptoms, but do not improve the prognosis
 ## Long-term pharmacological treatment
 ### Disease-modifying antirheumatic drugs (DMARDs)
-- <span style="background:rgba(240, 200, 0, 0.2)">Methotrexate (MTX): first-line treatment in patients with moderate to high disease activity</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/De novo pyrimidine and purine synthesis\|Methotrexate]] (MTX): first-line treatment in patients with moderate to high disease activity</span>
 	- To minimize adverse effects, administer folic acid.
+- Hydroxychloroquine: Consider in patients with low disease activity.
+	- Decreases complement-dependent antigen-antibody reactions
 #### Biologic DMARDs
 - Indication: persistent moderate or severe disease activity after 3 months of conventional DMARD therapy 
 - Agents

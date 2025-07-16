@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunosuppressants/"}
+{"dg-publish":true,"permalink":"/USMLE/Immunology/Immunosuppressants/","tags":["t1"]}
 ---
 
 ![Pasted image 20240208101326.png](/img/user/appendix/Pasted%20image%2020240208101326.png)![L26057.jpg](/img/user/appendix/L26057.jpg)

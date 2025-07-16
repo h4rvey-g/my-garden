@@ -282,7 +282,11 @@
 ![Pasted image 20231209142546.png](/img/user/appendix/Pasted%20image%2020231209142546.png)
 ### Pioglitazone
 ![Pasted image 20231209142943.png](/img/user/appendix/Pasted%20image%2020231209142943.png)
-- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">activation of the transcription factor PPARγ</span> (peroxisome proliferator-activated receptor of gamma type in the nucleus) → ↑ <span style="background:rgba(240, 200, 0, 0.2)">transcription of genes involved in glucose and lipid metabolism</span> → ↑ levels of adipokines such as adiponectin and insulin sensitivity → <span style="background:rgba(240, 200, 0, 0.2)">↑ storage of fatty acids in adipocytes</span>, ↓ products of lipid metabolism (e.g., free fatty acids) → ↓ free fatty acids in circulation → <span style="background:rgba(240, 200, 0, 0.2)">↑ glucose utilization and ↓ hepatic glucose production</span>
+- Mechanism of action: <span style="background:rgba(240, 200, 0, 0.2)">Activate PPAR-γ to increase insulin sensitivity in peripheral tissues</span> like muscle and adipose tissue. This occurs through several key effects:
+	- **Adipose Tissue Remodeling**: <span style="background:rgba(240, 200, 0, 0.2)">TZDs promote the differentiation of small, insulin-sensitive pre-adipocytes into mature fat cells. This increases the storage capacity of subcutaneous fat</span>, effectively pulling free fatty acids from the circulation, muscle, and liver. This "lipid steal" phenomenon reduces lipotoxicity in other tissues.
+	- **Increased Adiponectin**: They significantly increase levels of adiponectin, a hormone secreted by fat cells that enhances insulin sensitivity and has anti-inflammatory properties.
+	- **Enhanced Glucose Uptake**: TZDs upregulate the expression of GLUT4, an insulin-responsive glucose transporter, which improves glucose uptake into muscle and fat cells.
+	- **Reduced Hepatic Glucose Output**: By improving hepatic insulin sensitivity, TZDs help to decrease gluconeogenesis (the liver's production of glucose).
 - Clinical characteristics
 	- Glycemic efficacy: lowers HbA1c by 1% in 3 months
 	- Favorable effect on lipid metabolism: ↓ triglyceride, ↓ LDL, ↑ HDL

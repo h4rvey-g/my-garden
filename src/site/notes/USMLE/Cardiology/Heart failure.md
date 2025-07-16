@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Cardiology/Heart failure/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Heart failure/","tags":["t1"]}
 ---
 
 # Epidemiology

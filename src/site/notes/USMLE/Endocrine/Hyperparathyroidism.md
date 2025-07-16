@@ -42,12 +42,15 @@
 ---
 ## Diagnostics
 ---
-X-ray
-- Decreased bone mineral density
-- <span style="background:rgba(240, 200, 0, 0.2)">Cortical thinning</span>: especially prominent in the phalanges of the hand; manifests as acroosteolysis (a subperiosteal pattern of bone resorption)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Unlike the typical [[USMLE/MSK/Osteoporosis\|osteoporosis]] of [[USMLE/Pathology/Aging changes\|aging]], which predominantly affects trabecular bone</span>
-- Salt and pepper skull: granular decalcification manifesting as diffusely distributed lytic foci on imaging of the calvarium 
-- Features of osteitis fibrosa cystica
+- Neck imaging
+	- For surgical planning to determine the location of the abnormal glands and evaluate for concomitant thyroid disease
+	- Options include ultrasound neck and <span style="background:rgba(240, 200, 0, 0.2)">nuclear imaging, i.e., Tc-99m sestamibi scan.</span>
+- X-ray
+	- Decreased bone mineral density
+	- <span style="background:rgba(240, 200, 0, 0.2)">Cortical thinning</span>: especially prominent in the phalanges of the hand; manifests as acroosteolysis (a subperiosteal pattern of bone resorption)
+		- <span style="background:rgba(240, 200, 0, 0.2)">Unlike the typical [[USMLE/MSK/Osteoporosis\|osteoporosis]] of [[USMLE/Pathology/Aging changes\|aging]], which predominantly affects trabecular bone</span>
+	- Salt and pepper skull: granular decalcification manifesting as diffusely distributed lytic foci on imaging of the calvarium 
+	- Features of osteitis fibrosa cystica
 ## Complications
 ### Osteitis fibrosa cystica (OFC)
 - A rare skeletal disorder seen in advanced hyperparathyroidism characterized by <span style="background:rgba(240, 200, 0, 0.2)">replacement of calcified bone with fibrous tissue</span>

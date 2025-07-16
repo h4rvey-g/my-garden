@@ -21,7 +21,7 @@
 	- Small intestine (esp. the ileum): 45%
 	- Rectum: 20%
 	- Appendix: 17%
-- Pancreas (15% of cases)
+- [[USMLE/Endocrine/Pancreas\|Pancreas]] (15% of cases)
 	- Insulinoma
 	- Glucagonoma
 - Bronchopulmonary system (10% of cases)
@@ -45,12 +45,12 @@
 ---
 # Clinical features
 - <span style="background:rgba(240, 200, 0, 0.2)">Carcinoid syndrome</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Diarrhea and abdominal cramps</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/GI/Diarrhea\|Diarrhea]] and abdominal cramps</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Cutaneous flushing </span>
 		- Caused by vasodilation of small arteries and arterioles
 		- Possible triggers: alcohol consumption, food intake, stress
 		- In severe cases, may be accompanied by tachycardia and fluctuating blood pressure
-	- <span style="background:rgba(240, 200, 0, 0.2)">Dyspnea, wheezing ([[USMLE/Respiratory/Asthma\|asthma]]-like attacks)</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Respiratory/Dyspnea\|Dyspnea]], [[USMLE/Respiratory/Dyspnea\|wheezing]] ([[USMLE/Respiratory/Asthma\|asthma]]-like attacks)</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Palpitations</span>
 	- Possible weight loss despite normal appetite
 - Carcinoid heart disease
@@ -61,7 +61,7 @@
 - Other symptoms: <span style="background:rgba(240, 200, 0, 0.2)">abdominal pain</span>
 
 >[!tip] 
->In a patient presenting with secretory [[USMLE/GI/Diarrhea\|diarrhea]], episodic flushing, wheezing, and cardiac valvular abnormalities, consider a carcinoid tumor.
+>In a patient presenting with secretory [[USMLE/GI/Diarrhea\|diarrhea]], episodic flushing, [[USMLE/Respiratory/Dyspnea\|wheezing]], and cardiac valvular abnormalities, consider a carcinoid tumor.
 
 ---
 # Diagnostics

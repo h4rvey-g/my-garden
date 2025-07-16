@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/USMLE/Blood/Erythrocyte morphology and hemoglobin/","title":"Erythrocyte morphology and hemoglobin"}
 ---
 
+![aee103139885b48f1dfc6cc6571a4dc9.webp](/img/user/appendix/aee103139885b48f1dfc6cc6571a4dc9.webp)
+
 >[!tip] 
 >- The binding of O2 molecules to hemoglobin in the lungs has two consequences, known as the Haldane effect:
 >	- The affinity of hemoglobin for CO2 is decreased, resulting in unloading of CO2 from hemoglobin (this accounts for a small percentage of overall CO2 in the blood and is not pictured above).

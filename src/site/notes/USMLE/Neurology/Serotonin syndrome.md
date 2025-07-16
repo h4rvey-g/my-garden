@@ -9,7 +9,7 @@
 # Etiology
 ## Serotonergic drugs
 - [[USMLE/Psychiatry/Antidepressants\|Antidepressants]] (e.g., MAOIs, [[USMLE/Psychiatry/Antidepressants\|SSRIs]], SNRIs, tricyclic [[USMLE/Psychiatry/Antidepressants\|antidepressants]], vortioxetine, vilazodone, trazodone)
-- Anxiolytics (e.g., buspirone)
+- Anxiolytics (e.g., [[USMLE/Psychiatry/Antidepressants\|buspirone]])
 - [[USMLE/Neurology/Anticonvulsant drugs\|Anticonvulsants]] (e.g., [[USMLE/Neurology/Anticonvulsant drugs\|valproate]])
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Pharmacology/Opioids\|Opioids]] (e.g., tramadol, meperidine)</span>
 - NMDA receptor antagonists (e.g., dextromethorphan)
@@ -17,7 +17,7 @@
 - [[USMLE/Neurology/Neurotransmitters\|Serotonin]] receptor agonists (e.g., triptans, ritonavir)
 - <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Pharmacology/Antibiotics\|Antibiotics]] (e.g., linezolid)</span>
 - Herbal supplements (e.g., St. John's wort, ginseng, <span style="background:rgba(240, 200, 0, 0.2)">tryptophan</span>)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Tryptophan is precursor of serotonin</span>![Pasted image 20231215101227.png](/img/user/appendix/Pasted%20image%2020231215101227.png)
+	- <span style="background:rgba(240, 200, 0, 0.2)">Tryptophan is precursor of [[USMLE/Neurology/Neurotransmitters\|serotonin]]</span>![Pasted image 20231215101227.png](/img/user/appendix/Pasted%20image%2020231215101227.png)
 - Recreational stimulants (e.g., [[USMLE/Neurology/MDMA\|MDMA]], cocaine)
 
 >[!tip] 

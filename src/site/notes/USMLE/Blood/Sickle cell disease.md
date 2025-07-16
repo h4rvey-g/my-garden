@@ -15,7 +15,7 @@
 	- Heterozygotes (HbAS): carry one sickle allele and one other (usually normal) → sickle cell trait
 	- Homozygotes (HbSS): carry two sickle alleles → sickle cell anemia
 - <span style="background:rgba(240, 200, 0, 0.2)">HbS polymerizes when deoxygenated, causing deformation of erythrocytes (“sickling”).</span> This can be triggered by any event associated with reduced oxygen tension.
-	> Formation of a <span style="background:rgba(240, 200, 0, 0.2)">hydrophobic pocket</span> on the beta globin surface that interacts with a complementary nonpolar residue on another hemoglobin molecule.  The hydrophobic interaction causes polymerization of HbS molecules and subsequent erythrocyte sickling, leading to membrane damage and permanent distortion of red blood cells.
+	> Formation of a <span style="background:rgba(240, 200, 0, 0.2)">hydrophobic pocket</span> on the beta globin surface that interacts with a complementary nonpolar residue on another hemoglobin molecule.  The hydrophobic interaction causes polymerization of HbS molecules and subsequent erythrocyte sickling, leading to membrane damage and permanent distortion of red blood cells.![Pasted image 20250716171809.png](/img/user/appendix/Pasted%20image%2020250716171809.png)
 	- Hypoxia (e.g., at high altitudes)
 		- In homozygotes, up to 100% of the [[USMLE/Blood/Hemoglobin variants\|hemoglobin]] molecules are affected, leading to sickle cell formation under minimally decreased oxygen tension.
 		- In heterozygotes, sickling only occurs due to severe reduction in oxygen tension.
@@ -33,22 +33,12 @@
 # Clinical features
 Typically manifests <span style="background:rgba(240, 200, 0, 0.2)">after 3–6 months of age</span> as the production of HbF decreases and HbS levels increase
 ## Acute manifestations
-- Vaso-occlusive events
-	- <span style="background:rgba(240, 200, 0, 0.2)">Dactylitis in children &lt; 5 years of age</span> 
-		- Typically the earliest manifestation of sickle cell disease
-		- Most common in children <span style="background:rgba(240, 200, 0, 0.2)">between 6 months and 2 years</span> of age; uncommon in older children and adults
-		- Swelling, tenderness, and warmth![Pasted image 20241014110318.png](/img/user/appendix/Pasted%20image%2020241014110318.png)
-	- <span style="background:rgba(240, 200, 0, 0.2)">Vasoocclusive crises (sickle cell pain crisis) </span>
-		- Most common acute complication of sickle cell disease 
-		- <span style="background:rgba(240, 200, 0, 0.2)">Characterized by recurrent episodes of severe throbbing or sharp pain</span>
-		- <span style="background:rgba(240, 200, 0, 0.2)">Typically affects the limbs, chest, and back and lasts for ∼ 7 days</span>
-		- Often associated with other vasoocclusive events (especially dactylitis in children)
-	- Acute chest syndrome
-	- Priapism
-	- Stroke (common in children)
-	- Sickle cell hepatopathy
-	- Organ infarctions (any organ; particularly the spleen)
-	- Avascular necrosis
+- **Early Infancy:** Patients are often asymptomatic for the first 6 months due to high levels of fetal hemoglobin (HbF), which inhibits sickling.
+- **Vaso-occlusive Crisis (VOC):** The most common manifestation, causing acute, severe pain in the bones (especially long bones), joints, abdomen, and chest.
+- **Dactylitis:** Often the <span style="background:rgba(240, 200, 0, 0.2)">first sign in children (6 months - 4 years)</span>, presenting as painful swelling of the hands and feet ("hand-foot syndrome").![Pasted image 20241014110318.png](/img/user/appendix/Pasted%20image%2020241014110318.png)
+- **Anemia:** Chronic hemolytic anemia leads to fatigue, pallor, and jaundice.
+- <span style="background:rgba(240, 200, 0, 0.2)">**Splenic Sequestration Crisis:** A life-threatening complication in young children where a large volume of blood pools in the spleen, causing severe anemia, hypovolemia, and a rapidly enlarging spleen.</span>
+
 
 ---
 # Diagnostics

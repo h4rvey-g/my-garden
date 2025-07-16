@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Respiratory/Chronic obstructive pulmonary disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Chronic obstructive pulmonary disease/","tags":["t1"]}
 ---
 
 # Etiology

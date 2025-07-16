@@ -66,6 +66,10 @@
 *   **Asymptomatic Bacteriuria:**
     *   Generally **not treated**, except in **pregnant patients** or before urologic procedures.
 
+>[!Mnemonic] 
+>- 口诀——三光政策（急性膀胱炎治疗三天）首选喹诺酮类药物（妊娠的以及＜18岁的首选三代头孢）
+>- 口诀——两个周瑜（急性肾盂肾炎治疗两周）喹诺酮类药物
+
 
 # UTI in [[USMLE/Reproductive/Pregnancy\|pregnancy]]
 ---

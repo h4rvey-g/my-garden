@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Tetanus/"}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Tetanus/","tags":["t1"]}
 ---
 
 # Epidemiology

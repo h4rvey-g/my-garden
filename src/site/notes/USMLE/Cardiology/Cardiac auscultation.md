@@ -64,25 +64,31 @@
 
 
 
+# Normal Waveform Components
 ![Pasted image 20230825214925.png](/img/user/appendix/Pasted%20image%2020230825214925.png)
 
+---
+# Abnormal JVP Waveforms
+*   **Large 'a' wave:** Increased resistance to right atrial emptying.
+    *   **Causes:** Tricuspid stenosis, right ventricular hypertrophy, pulmonary hypertension.
+*   **Cannon 'a' waves:** Very large, intermittent 'a' waves.
+    *   **Pathophysiology:** Right atrium contracts against a closed tricuspid valve (AV dissociation).
+    *   **Causes:** Complete heart block (third-degree), ventricular tachycardia, premature ventricular/junctional contractions.
+*   **Absent 'a' wave:** No coordinated atrial contraction.
+    *   **Cause:** Atrial fibrillation.
+*   **Large 'v' wave (or c-v fusion wave):**
+    *   **Pathophysiology:** Blood regurgitates into the right atrium during ventricular systole.
+    *   **Cause:** **Tricuspid regurgitation**.
+*   **Rapid/Steep 'y' descent (Friedreich's sign):**
+    *   **Pathophysiology:** Rapid, early diastolic filling of a stiff or non-compliant ventricle.
+    *   **Causes:** **Constrictive pericarditis**, restrictive cardiomyopathy.
+*   **Slow 'y' descent:**
+    *   **Pathophysiology:** Obstruction of right ventricular filling.
+    *   **Causes:** Tricuspid stenosis, right atrial myxoma.
+*   **Blunted/Absent 'y' descent:**
+    *   **Pathophysiology:** Impaired right ventricular filling due to external pressure.
+    *   **Cause:** **Cardiac tamponade**.
 
-| Wave      | Description                                                                                                                                     | Abnormalities                                  |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
-| a wave    | The first peak caused by atrial contraction                                                                                                     | Absent in atrial fibrillation                  |
-| c wave    | The second peak caused by tricuspid valve closure, contraction of the right ventricle, and bulging of the tricuspid valve into the right atrium | cv wave : severe tricuspid valve regurgitation |
-| x descent | A drop in JVP caused by atrial relaxation                                                                                                       | Absent in:                                     |
-|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
-|           |                                                                                                                                                 | Right heart failure                            |
-| v wave    | The third peak caused by venous refilling of the right atrium against the closed tricuspid valve                                                | Prominent in:                                  |
-|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
-|           |                                                                                                                                                 | Right heart failure                            |
-| y descent | A drop in JVP caused by decreased right atrial pressure as blood flows into the right ventricle after opening of the tricuspid valve            | Prominent in: [7]                              |
-|           |                                                                                                                                                 | Tricuspid valve regurgitation                  |
-|           |                                                                                                                                                 | Constrictive pericarditis                      |
-|           |                                                                                                                                                 | Absent in:                                     |
-|           |                                                                                                                                                 | Cardiac tamponade                              |
-|           |                                                                                                                                                 | Tricuspid valve stenosis                       |
 
 ![Pasted image 20230624132724.png](/img/user/appendix/Pasted%20image%2020230624132724.png)![Pasted image 20230624133437.png](/img/user/appendix/Pasted%20image%2020230624133437.png)
 # Pathology
