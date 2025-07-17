@@ -14,18 +14,29 @@ body {
 
 /*
  * 强制修复列表在所有浏览器中的显示问题
- * 特别是针对那些可能覆盖默认列表样式的框架或主题
+ * 特别是针对 Edge Canary 移动版的兼容性问题
  */
 .markdown-preview-view ol,
 .markdown-preview-view ul {
-  list-style: revert !important;
-  padding-left: 2em !important; 
+    list-style: none !important; /* 首先禁用所有默认样式，为自定义marker做准备 */
+    padding-left: 2em !important;
 }
 
 .markdown-preview-view li {
-  display: list-item !important;
+    display: list-item !important;
+    list-style-position: outside !important;
 }
 
-.markdown-preview-view li::marker {
-  all: revert !important;
+/* 为无序列表手动创建项目符号 */
+.markdown-preview-view ul > li::marker {
+    content: '•' !important;
+    font-size: 1.2em;
+    color: var(--text-normal);
+}
+
+/* 为有序列表手动创建数字项目符号 */
+.markdown-preview-view ol > li::marker {
+    content: counter(list-item) ". " !important;
+    font-size: 1em;
+    color: var(--text-normal);
 }
