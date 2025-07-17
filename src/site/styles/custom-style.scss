@@ -11,3 +11,21 @@ body {
     //   color: black;
     //  }
 }
+
+/*
+ * 强制修复列表在所有浏览器中的显示问题
+ * 特别是针对那些可能覆盖默认列表样式的框架或主题
+ */
+.markdown-preview-view ol,
+.markdown-preview-view ul {
+  list-style: revert !important;
+  padding-left: 2em !important; 
+}
+
+.markdown-preview-view li {
+  display: list-item !important;
+}
+
+.markdown-preview-view li::marker {
+  all: revert !important;
+}
