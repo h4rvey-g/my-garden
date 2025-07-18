@@ -19,7 +19,7 @@ body {
 .markdown-preview-view ol,
 .markdown-preview-view ul {
     list-style: none !important; /* 首先禁用所有默认样式，为自定义marker做准备 */
-    padding-left: 2em !important;
+    padding-left: 3em !important; /* 增加符号与文本间的距离 */
 }
 
 .markdown-preview-view li {
@@ -30,7 +30,7 @@ body {
 /* 为无序列表手动创建项目符号 */
 .markdown-preview-view ul > li::marker {
     content: '•' !important;
-    font-size: 1.2em;
+    font-size: 1.4em; /* 增大项目符号 */
     color: var(--text-normal);
 }
 
