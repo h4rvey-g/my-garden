@@ -14,29 +14,44 @@ body {
 
 /*
  * 强制修复列表在所有浏览器中的显示问题
- * 特别是针对 Edge Canary 移动版的兼容性问题
+ * 使用 ::before 伪元素以精确控制项目符号的大小和间距
  */
-.markdown-preview-view ol,
-.markdown-preview-view ul {
-    list-style: none !important; /* 首先禁用所有默认样式，为自定义marker做准备 */
-    padding-left: 3em !important; /* 增加符号与文本间的距离 */
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+    margin-left: 0;
+    padding-left: 0; /* 重置容器的内边距 */
+}
+
+.markdown-preview-view ol {
+    counter-reset: list-item; /* 为有序列表初始化计数器 */
 }
 
 .markdown-preview-view li {
-    display: list-item !important;
-    list-style-position: outside !important;
+    list-style: none !important; /* 禁用默认的项目符号 */
+    position: relative;
+    padding-left: 2.5em; /* 这就是符号和文本之间的距离，可以调整 */
+    margin-bottom: 0.5em; /* 增加列表项之间的垂直间距 */
+}
+
+.markdown-preview-view li::before {
+    position: absolute;
+    left: 0;
+    width: 2em; /* 为符号留出宽度，确保对齐 */
+    text-align: right;
+    color: var(--text-normal);
 }
 
 /* 为无序列表手动创建项目符号 */
-.markdown-preview-view ul > li::marker {
-    content: '•' !important;
+.markdown-preview-view ul > li::before {
+    content: '•';
     font-size: 1.4em; /* 增大项目符号 */
-    color: var(--text-normal);
 }
 
 /* 为有序列表手动创建数字项目符号 */
-.markdown-preview-view ol > li::marker {
-    content: counter(list-item) ". " !important;
-    font-size: 1em;
-    color: var(--text-normal);
+.markdown-preview-view ol > li {
+    counter-increment: list-item; /* 每个li让计数器+1 */
+}
+.markdown-preview-view ol > li::before {
+    content: counter(list-item) ".";
+    font-size: 1em; /* 保持与您的设置一致 */
 }
