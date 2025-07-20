@@ -12,6 +12,29 @@
 Myelodysplastic syndromes (MDS) are a group of hematological cancers in which malfunctioning pluripotent stem cells lead to hypercellularity and dysplasia of the bone marrow. This, in turn, leads to cytopenia of one or more cell lines (thrombocytopenia, erythrocytopenia, leukocytopenia).
 
 ---
+# Classification
+## French American British (FAB) Classification System
+
+The FAB system divides MDS in to five subtypes based on percentage of blasts in the bone marrow and the peripheral blood. It is now used less frequently than the WHO classification, but is included here as a reference.
+
+| FAB-type                                                                                                          | % blasts in blood | % blasts in bone marrow |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------- | ----------------------- |
+| RA (Refractory Anemia)                                                                                            | < 1               | < 5                     |
+| RARS (Refractory Anemia with Ring Sideroblasts                                                                    | < 1               | < 5                     |
+| RAEB (Refractory Anemia with Excess Blasts in Transmission) <br>Note: Now called AML (acute myelogenous leukemia) | < 5               | 5 - 20                  |
+| RAEB-t (Refractory Anemia with Excess Blasts in Transformation)                                                   | > 5               | 21 - 30                 |
+| CMML (chronic myelomonocytic Leukemia)                                                                            | > 5               | 5 - 20                  |
+
+>[!Mnemonic] 
+>试着联想记忆：
+> 按照排名分类，人才名单只有＜5%，其次是热爱二本的在5%～20%，最后是热爱二本的体育生在20%～30%，所以有Auer小体。其中热爱二本的人也喜欢穿纯棉面料（5%～20%）。
+> 
+> 人才名单—RCMD—                ＜5%
+> 热爱二本—RAEB—          5%～20%
+> 热爱二本-体—RAEB-t— 20%～30%
+> 纯棉面料—CMML—         5%～20%
+
+---
 # Clinical features
 - Depending on the affected cell line:
 	- Erythrocytopenia (70% of cases) → symptoms of anemia

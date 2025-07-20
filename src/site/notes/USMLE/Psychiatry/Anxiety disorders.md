@@ -12,25 +12,14 @@
 
 # Classifications
 ---
-- Social anxiety disorder (social phobia)
-	- Anxiety restricted to social & performance situations, fear of scrutiny & embarrassment
-- Panic disorder
-	- Recurrent, unexpected panic attacks
-	- <span style="background:rgba(240, 200, 0, 0.2)">Abrupt onset</span> of characteristic physical symptoms that resolve within minutes and <span style="background:rgba(240, 200, 0, 0.2)">a negative medical workup</span> should raise suspicion for panic disorder.
-	- Both panic disorder and [[USMLE/Psychiatry/Somatic symptom and related disorders\|somatic symptom disorder]] feature multiple physical symptoms and high health care use.  In [[USMLE/Psychiatry/Somatic symptom and related disorders\|somatic symptom disorder]], patients experience physical symptoms <span style="background:rgba(240, 200, 0, 0.2)">persistently</span> (eg, daily, unrelenting fatigue) whereas in panic disorder, physical symptoms are <span style="background:rgba(240, 200, 0, 0.2)">unexpected, episodic, and of short duration</span>, typically lasting <10 minutes.
-- <span style="background:rgba(240, 200, 0, 0.2)">Specific phobia</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Persistent (≥ 6 months) and intense fears of one or more specific situations or objects (phobic stimuli)</span>
-		- Animal: spiders (arachnophobia)
-		- <span style="background:rgba(240, 200, 0, 0.2)">Blood-injection-injury</span>: blood (hematophobia), needles (belonephobia)
-		- Situational: enclosed places (claustrophobia), flying (aviophobia)
-- Generalized anxiety disorder
-	- Chronic multiple worries, anxiety, tension
-- <span style="background:rgba(240, 200, 0, 0.2)">Agoraphobia</span>
-	- Using public transportation
-	- Being in open spaces
-	- Being in enclosed places
-	- Standing in line or being in a crowd
-	- Being outside of the home alone
+
+| Disorder            | Defining Feature                                                                                                                                     | Key Differentiator                                                                                  | Dx & Tx                                                                                                                                       |
+| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Social Anxiety**  | Fear of **scrutiny/embarrassment** in social or performance situations.                                                                              | Fear is specific to social contexts; performance-only subtype exists.                               | ≥6 mo; **Tx:** SSRI/SNRI, CBT. Propranolol for performance type.                                                                              |
+| **Panic Disorder**  | Recurrent, **<span style="background:rgba(240, 200, 0, 0.2)">discrete</span>, unexpected** panic attacks.                                            | **"Fear of the fear"**—persistent worry about having more attacks.                                  | <span style="background:rgba(240, 200, 0, 0.2)">≥1 mo</span> of worry/avoidance after attack; **Tx:** SSRI/SNRI, CBT. BZDs for acute attacks. |
+| **Specific Phobia** | Marked, irrational fear of a **specific object or situation** (e.g., spiders, heights).                                                              | Fear is immediate & **predictable** upon exposure to the trigger.                                   | ≥6 mo; **Tx:** CBT with exposure is first-line.                                                                                               |
+| **GAD**             | **Excessive, chronic, <span style="background:rgba(240, 200, 0, 0.2)">constant</span> worry** about **multiple** life domains (work, money, health). | Worry is "free-floating," not focused on one trigger; physical sx like **muscle tension, fatigue**. | <span style="background:rgba(240, 200, 0, 0.2)">≥6 mo</span>; **Tx:** SSRI/SNRI, Buspirone, CBT.                                              |
+| **Agoraphobia**     | Fear of **≥2 situations** where **escape is difficult** (e.g., crowds, open spaces, public transport).                                               | Fear is about being **trapped** or unable to get help if anxiety occurs; leads to avoidance.        | ≥6 mo; **Tx:** SSRI/SNRI, CBT.                                                                                                                |
 
 # Clinical features
 ---

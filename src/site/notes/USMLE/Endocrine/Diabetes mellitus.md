@@ -135,7 +135,24 @@
 - <span style="background:rgba(240, 200, 0, 0.2)">C-peptide</span>: can help differentiate between types of diabetes![Pasted image 20231215112826.png](/img/user/appendix/Pasted%20image%2020231215112826.png)
 	- ↑ C-peptide levels may indicate insulin resistance and hyperinsulinemia → T2DM
 	- ↓ C-peptide levels indicate an absolute insulin deficiency → T1DM
-# Treatment
+# Glycemic monitoring for diabetes
+Early morning hyperglycemia may be caused by:
+
+| Feature                  | Dawn Phenomenon                   | Somogyi Effect                              |
+| ------------------------ | --------------------------------- | ------------------------------------------- |
+| **3 a.m. Blood Glucose** | **Normal or High**                | **Low**                                     |
+| **Underlying Cause**     | Natural hormonal surge            | Rebound from hypoglycemia                   |
+| **Treatment**            | **Increase** evening insulin/meds | **Decrease** evening insulin or add a snack |
+![dde28ac5d0ee72eecd334223b71e7e2.jpg](/img/user/appendix/dde28ac5d0ee72eecd334223b71e7e2.jpg)
+
+- **Dawn phenomenon**
+	- A <span style="background:rgba(240, 200, 0, 0.2)">physiological increase</span> of growth hormone levels in the early morning hours <span style="background:rgba(240, 200, 0, 0.2)">stimulates hepatic gluconeogenesis to prepare for waking</span>, and leads to a subsequent <span style="background:rgba(240, 200, 0, 0.2)">increase in insulin demand. In people with diabetes, insufficient insulin response to this glucose surge leads to hyperglycemia.</span>
+	- Consider measurement of nocturnal blood glucose levels before initiating insulin therapy.
+	- Long-acting insulin dose may be given later or increased under careful glycemic control.
+- **Somogyi effect** (widely taught but unproven hypothesis)
+	- Description: <span style="background:rgba(240, 200, 0, 0.2)">Nocturnal hypoglycemia due to evening insulin injection</span> triggers a counterregulatory secretion of hormones , leading to elevated blood glucose levels in the morning.
+	- There is no evidence to support the existence of this effect.
+# Glycemic treatment
 ---
 ## Approach
 - **Guiding Principles (ADA/EASD):** Initial therapy is lifestyle modification + Metformin. Subsequent agent selection is based on patient comorbidities (ASCVD, HF, CKD), risk of hypoglycemia, impact on weight, and cost.
@@ -294,10 +311,14 @@
 	- <span style="background:rgba(240, 200, 0, 0.2)">Onset of action is delayed by several weeks. </span>
 		- because it acts at the level of transcription
 - Important side effects
-	- ↑ Risk of [[USMLE/Cardiology/Heart failure\|heart failure]]
+	- **Fluid retention/Edema**: Can cause or exacerbate **Congestive Heart Failure (CHF)**.
 	- ↑ Risk of bone fractures ([[USMLE/MSK/Osteoporosis\|osteoporosis]])
 	- Fluid retention and edema
 	- <span style="background:rgba(240, 200, 0, 0.2)">Weight gain</span>
+- Contraindications
+	- Symptomatic **Heart Failure** (NYHA Class III or IV).
+	- Type 1 DM or Diabetic Ketoacidosis (DKA).
+		- <font color="#ffc000">一心不能二用。一型糖尿病和心衰不能用二酮类药物。</font>
 
 
 >[!Mnemonic] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Cardiology/Acute rheumatic fever/"}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Acute rheumatic fever/","tags":["t1"]}
 ---
 
 # Etiology

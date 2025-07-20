@@ -28,6 +28,7 @@
 
 ---
 # Diagnostics
+- **Ambulatory 24-hr pH monitoring:** Gold standard for confirming abnormal acid reflux, especially if EGD is normal but symptoms persist.
 - Biopsy![Pasted image 20250312201906.png](/img/user/appendix/Pasted%20image%2020250312201906.png)
 - X-ray: the esophagus courses <span style="background:rgba(240, 200, 0, 0.2)">between the trachea and vertebral bodies and is typically collapsed with no visible lumen.</span>![L38839.jpg](/img/user/appendix/L38839.jpg)
 

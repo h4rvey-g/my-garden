@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Pathology/Lead poisoning/"}
+{"dg-publish":true,"permalink":"/USMLE/Pathology/Lead poisoning/","tags":["t1"]}
 ---
 
 - Sources of exposure

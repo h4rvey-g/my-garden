@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Antidepressants/"}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Antidepressants/","tags":["t1"]}
 ---
 
 

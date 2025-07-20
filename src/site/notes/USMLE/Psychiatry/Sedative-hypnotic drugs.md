@@ -34,7 +34,7 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">**[[USMLE/Neurology/Seizures and epilepsy\|Seizures]]**</span>
 			-  <span style="background:rgba(240, 200, 0, 0.2)">Less sensitive/fewer GABA receptors → CNS hyperexcitability</span>
 		- Tremors
-		- Memory impairment
+		- [[USMLE/REVIEW/Memory impairment\|Memory impairment]]
 	- Psychiatric
 		- Anxiety 
 		- Depressive mood

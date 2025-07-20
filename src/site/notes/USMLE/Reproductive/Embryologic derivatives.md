@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Reproductive/Embryologic derivatives/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Reproductive/Embryologic derivatives/","tags":["t3"]}
 ---
 
 # Overview
@@ -27,6 +27,15 @@
 		- Branchial arches (bones & cartilage)
 		- Skull bones
 		- <span style="background:rgba(240, 200, 0, 0.2)">Melanocytes</span>
+
+| Feature                    | Neural Tube                                                                                                                                                                                                     | Neural Crest                                                                                                                                                                     |
+| :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Origin**                 | Forms from the folding of the central ectodermal **neural plate**.                                                                                                                                              | Arises from migratory cells at the **lateral edges** of the neural plate.                                                                                                        |
+| **Core System**            | **Central Nervous System (CNS)**                                                                                                                                                                                | **Peripheral Nervous System (PNS)** + various non-neuronal tissues.                                                                                                              |
+| **Key Derivatives**        | **Brain & [[USMLE/Neurology/Neuroloy physioloy\|Spinal Cord]]**<br>CNS Neurons (motor, interneurons)<br>[[USMLE/Neurology/Glial cells\|Oligodendrocytes]], [[USMLE/Neurology/Glial cells\|Astrocytes]], [[USMLE/Neurology/Glial cells\|Ependymal cells]]<br>Posterior Pituitary | **PNS** (Schwann cells, all ganglia)<br>**Melanocytes**<br>**Adrenal Medulla**<br>Craniofacial bones<br>Aorticopulmonary septum                                                  |
+| **Associated Pathologies** | **[[USMLE/Reproductive/Neural tube defects\|Neural Tube Defects]] (NTDs)**<br>- Anencephaly<br>- Spina Bifida (Occulta, Meningocele, [[USMLE/Reproductive/Neural tube defects\|Myelomeningocele]])                                                                         | **Neurocristopathies**<br>- [[USMLE/GI/Hirschsprung disease\|Hirschsprung Disease]]<br>- [[USMLE/Neurology/Neurocutaneous disorders\|Neurofibromatosis]]<br>- [[USMLE/Endocrine/Pheochromocytoma\|Pheochromocytoma]]<br>- [[USMLE/Immunology/DiGeorge syndrome\|DiGeorge Syndrome]]<br>- [[USMLE/MSK/Melanoma\|Melanoma]] |
+| **Key Marker**             | **[[USMLE/Biochemistry/Folate deficiency\|Folate deficiency]]** is a major risk factor for defects.                                                                                                                                                   | Defects are often related to **abnormal cell migration**.                                                                                                                        |
+![Pasted image 20250718165616.png](/img/user/appendix/Pasted%20image%2020250718165616.png)
 - Mesoderm
 	- <span style="background:rgba(240, 200, 0, 0.2)">Muscles (skeletal, cardiac & smooth)</span>
 	- Connective tissue, bone & cartilage
@@ -36,7 +45,7 @@
 	- Kidney & ureters, internal genitalia
 	- Adrenal cortex
 - Endoderm
-	- Gastrointestinal tract, liver, pancreas
+	- Gastrointestinal tract, liver, [[USMLE/Endocrine/Pancreas\|pancreas]]
 	- Lungs
 	- Thymus, parathyroids, thyroid follicular cells
 	- Middle ear epithelium

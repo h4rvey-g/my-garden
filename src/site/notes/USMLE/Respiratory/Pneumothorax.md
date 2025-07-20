@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pneumothorax/"}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Pneumothorax/","tags":["t1"]}
 ---
 
 # Epidemiology
@@ -29,7 +29,10 @@
 
 # Clinical features
 ---
-
+- **Tension Pneumothorax Specifics:** A life-threatening condition.
+	- Marked respiratory distress, tachycardia, and hypotension (obstructive shock).
+	- **Tracheal deviation** to the contralateral (unaffected) side.
+	- <span style="background:rgba(240, 200, 0, 0.2)">**Jugular venous distention (JVD)** due to compression of the superior vena cava, hypotension</span>
 
 # Diagnostics
 ---

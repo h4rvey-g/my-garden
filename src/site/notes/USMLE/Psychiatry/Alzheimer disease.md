@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Alzheimer disease/"}
+{"dg-publish":true,"permalink":"/USMLE/Psychiatry/Alzheimer disease/","tags":["t1"]}
 ---
 
 # Epidemiology

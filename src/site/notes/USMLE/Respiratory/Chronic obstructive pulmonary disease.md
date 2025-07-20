@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Respiratory/Chronic obstructive pulmonary disease/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Respiratory/Chronic obstructive pulmonary disease/","tags":["t2"]}
 ---
 
 # Etiology
@@ -63,7 +63,7 @@ https://youtu.be/BmYCAp4dRuA
 
 # Acute exacerbation of COPD (AECOPD)
 ---
-AECOPD is a clinical diagnosis based on the development of cardinal symptoms of AECOPD (e.g., acute worsening dyspnea, increase in the purulence of sputum) over ≤ 14 days. It is often accompanied by tachypnea, tachycardia, and increased local or systemic inflammation.
+AECOPD is a clinical diagnosis based on the development of cardinal symptoms of AECOPD (e.g., acute worsening [[USMLE/Respiratory/Dyspnea\|dyspnea]], increase in the purulence of sputum) over ≤ 14 days. It is often accompanied by tachypnea, tachycardia, and increased local or systemic inflammation.
 ## Etiology
 - <span style="background:rgba(240, 200, 0, 0.2)">Viral respiratory infections: most common cause of AECOPD</span> 
 	- <span style="background:rgba(240, 200, 0, 0.2)">Rhinovirus: most common</span> 
@@ -74,3 +74,8 @@ AECOPD is a clinical diagnosis based on the development of cardinal symptoms of 
 		- Previous hospitalizations
 		- Systemic [[USMLE/Pharmacology/Corticosteroids\|glucocorticoid]] use
 		- Previous isolation of P. aeruginosa
+## Clinical features
+- Worsening of dyspnea
+- Increased frequency and severity of cough
+- <span style="background:rgba(240, 200, 0, 0.2)">Increased volume and/or purulence of sputum</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Viral infections, especially in patients with pre-existing lung inflammation like COPD, can trigger a very strong neutrophilic inflammatory response.</span> The patient's own immune system floods the airways with neutrophils to fight the virus, leading to the production of purulent-appearing sputum, **even without a primary bacterial infection.**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Blood/Paroxysmal nocturnal hemoglobinuria/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Paroxysmal nocturnal hemoglobinuria/","tags":["t3"]}
 ---
 
 An acquired genetic defect of the hematopoietic stem cell characterized by <span style="background:rgba(240, 200, 0, 0.2)">a triad of hemolytic [[USMLE/Blood/Anemia\|anemia]], [[USMLE/Blood/Pancytopenia\|pancytopenia]], and thrombosis</span>

@@ -12,7 +12,7 @@ The most common form of congenital LQTS (LQTS type 1) is caused by a <span st
 	- Macrolides & fluoroquinolones
 	- [[USMLE/GI/Antiemetics\|Antiemetics]] (eg, ondansetron)
 	- Azoles (eg, fluconazole)
-	- [[USMLE/Psychiatry/Antipsychotics\|Antipsychotics]], TCAs & [[USMLE/Psychiatry/Antidepressants\|SSRIs]]
+	- [[USMLE/Psychiatry/Antipsychotics\|Antipsychotics]], <span style="background:rgba(240, 200, 0, 0.2)">TCAs</span> & [[USMLE/Psychiatry/Antidepressants\|SSRIs]]
 	- <span style="background:rgba(240, 200, 0, 0.2)">Some [[USMLE/Pharmacology/Opioids\|opioids]] (eg, methadone, oxycodone)</span>
 	- Class Ia [[USMLE/Pharmacology/Antiarrhythmic drugs\|antiarrhythmics]] (eg, quinidine)
 	- Class III [[USMLE/Pharmacology/Antiarrhythmic drugs\|antiarrhythmics]] (eg, dofetilide, sotalol)
@@ -22,4 +22,4 @@ The most common form of congenital LQTS (LQTS type 1) is caused by a <span st
 - Ventricular tachycardia ([[USMLE/Cardiology/Torsades de pointes\|torsades de pointes]])
 - Ventricular fibrillation
 - Asystole
-- [[Sudden cardiac death\|Sudden cardiac death]]
+- [[USMLE/Cardiology/Acute coronary syndrome\|Sudden cardiac death]]

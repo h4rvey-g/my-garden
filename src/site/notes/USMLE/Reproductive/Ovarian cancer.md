@@ -72,15 +72,14 @@ The most likely pathogenesis of EOC is <span style="background:rgba(240, 200, 0,
 
 # Diagnostics
 ## [[USMLE/Pathology/Tumor markers\|Tumor markers]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Epithelial ovarian tumors: CA-125 is elevated in ∼ 80% of malignant tumors.</span>
-- Germ cell tumors
-	- Dysgerminoma: LDH, [[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]
-	- [[USMLE/Reproductive/Testicular tumors\|Yolk sac tumor]]: [[USMLE/Reproductive/Alpha fetoprotein\|AFP]]
-	- Immature [[USMLE/Reproductive/Teratoma\|teratoma]]: [[USMLE/Reproductive/Alpha fetoprotein\|AFP]], LDH, CA-125
-	- [[USMLE/Reproductive/Choriocarcinoma\|Choriocarcinoma]]: [[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]
-	- Embryonal carcinoma: [[USMLE/Reproductive/Alpha fetoprotein\|AFP]], [[USMLE/Reproductive/Human chorionic gonadotropin\|β-hCG]]
-- Sex cord-stromal tumors:
-	- [[USMLE/Reproductive/Granulosa cell tumor\|Granulosa cell tumor]]: inhibin
+- <span style="background:rgba(240, 200, 0, 0.2)">**CA-125:** Elevated in >80% of epithelial ovarian cancers. Best used for monitoring treatment response, not for screening (low specificity, can be elevated in endometriosis, PID, fibroids).</span>
+	- **Why it's elevated:** CA-125 (Cancer Antigen 125) is a glycoprotein expressed on the surface of coelomic epithelium, from which most epithelial ovarian cancers derive.
+- **Germ Cell Tumors:** ↑ hCG (Choriocarcinoma, Dysgerminoma), ↑ AFP (Yolk Sac/Endodermal sinus tumor), ↑ LDH (Dysgerminoma).
+	- Choriocarcinoma is a malignant tumor of **syncytiotrophoblasts and cytotrophoblasts**, the same cells that form the placenta. A primary function of placental syncytiotrophoblasts is to produce hCG to maintain the corpus luteum during pregnancy.
+	- Yolk sac tumor is composed of cells that differentiate to resemble the embryonic yolk sac. During early fetal development, the **yolk sac is the primary producer of AFP**.
+	- Dysgerminomas are composed of undifferentiated germ cells and are characterized by very rapid growth and cell turnover. LDH is an intracellular enzyme involved in anaerobic glycolysis. **High cell turnover and cell death (necrosis) lead to the release of large amounts of LDH into the circulation.**
+- **Sex Cord-Stromal:** <span style="background:rgba(240, 200, 0, 0.2)">↑ Inhibin and estrogen (Granulosa cell tumor)</span>, ↑ testosterone (Sertoli-Leydig cell tumor)
+	- This tumor is composed of malignant **granulosa cells**. In a normal menstrual cycle, granulosa cells surround the oocyte within the follicle and produce **inhibin** to provide negative feedback to the pituitary gland, suppressing FSH secretion. They also produce estrogen. A tumor of these cells retains this function, leading to high circulating levels of **inhibin A and B**, which serves as an excellent tumor marker. The excess estrogen can cause endometrial hyperplasia or precocious puberty.
 
 ---
 # Treatment

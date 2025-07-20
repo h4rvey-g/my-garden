@@ -53,6 +53,17 @@ Deposition of calcium pyrophosphate dihydrate (CPP or CPPD) crystals in articula
 	- <span style="background:rgba(240, 200, 0, 0.2)">Chondrocalcinosis: calcification of cartilage in the affected joints</span>![paste-265768281309526.jpg](/img/user/appendix/paste-265768281309526.jpg)
 
 ---
+# Differential diagnostics
+| Feature              | Gout                                               | Pseudogout (CPPD)                                      |
+| :------------------- | :------------------------------------------------- | :----------------------------------------------------- |
+| **Crystal**          | **M**ono**s**odium **U**rate (MSU)                 | **C**alcium **P**yro**p**hosphate **D**ihydrate (CPPD) |
+| **Crystal Shape**    | **Needle-shaped**                                  | **Rhomboid-shaped** (rhomboids, rods)                  |
+| **Birefringence**    | **Negatively** birefringent (Yellow when parallel) | **Positively** birefringent (Blue when parallel)       |
+| **Classic Joint**    | **1st MTP** (Podagra)                              | **Knee**                                               |
+| **X-Ray Finding**    | **Punched-out erosions** ("rat-bite")              | **Chondrocalcinosis** (cartilage calcification)        |
+| **Key Associations** | Diuretics, EtOH, CKD, red meat                     | Hyperparathyroidism, Hemochromatosis, OA               |
+| **Acute Tx**         | **NSAIDs** > Colchicine > Steroids                 | **Steroids** (intra-articular) > NSAIDs > Colchicine   |
+| **Chronic Tx**       | **Allopurinol**, Febuxostat                        | None to dissolve crystals; manage underlying cause     |
 # Treatment
 
 

@@ -64,6 +64,10 @@ Two of the three following criteria should be met for a diagnosis of acute pancr
 - <span style="background:rgba(240, 200, 0, 0.2)">↑ Serum pancreatic enzymes: lipase or amylase ≥ 3× ULN</span>
 - Characteristic findings of acute pancreatitis on cross-sectional imaging (e.g., contrast-enhanced CT abdomen)
 
+>[!tip] 
+><span style="background:rgba(240, 200, 0, 0.2)">Lipase and amylase</span> levels do not need to be trended once acute pancreatitis has been diagnosed, because <span style="background:rgba(240, 200, 0, 0.2)">levels do not correlate with prognosis or severity and do not impact management decisions.</span>
+
+
 ---
 # Treatment
 

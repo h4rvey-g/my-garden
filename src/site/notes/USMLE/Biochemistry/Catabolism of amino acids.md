@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Catabolism of amino acids/","tags":["t2"]}
+{"dg-publish":true,"permalink":"/USMLE/Biochemistry/Catabolism of amino acids/","tags":["t3"]}
 ---
 
 # <span style="background:rgba(240, 200, 0, 0.2)">Summary of steps (important!)</span>

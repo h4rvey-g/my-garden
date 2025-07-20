@@ -80,11 +80,23 @@
 		- MPO negative
 		- <span style="background:rgba(240, 200, 0, 0.2)">Terminal deoxynucleotidyl transferase (TdT) positive</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">TdT</span> is a DNA polymerase involved in V(D)J recombination, which generates antigen receptor diversity during <span style="background:rgba(240, 200, 0, 0.2)">early lymphoid maturation</span>.
-		- Periodic acid-Schiff (PAS): often positive
+		- <span style="background:rgba(240, 200, 0, 0.2)">Periodic acid-Schiff (PAS): often positive</span>
 	- AML
 		- <span style="background:rgba(240, 200, 0, 0.2)">MPO positive</span>
 		- TdT negative
 		- PAS negative
+- Flow cytometry
+
+>[!Mnemonic] 
+>1. 急性早幼粒（M3）：CD13，CD33，CD117，CD9阳性。易并发DIC
+> 过氧化物酶（MPO/POX）强阳性→急性早幼粒（M3）(郭三放羊——M3)
+> “郭三放羊，姗姗（CD33）来迟，一生（CD13）有你（幼粒），差三分钟活到120”
+> 2. 急淋：PAS（糖原染色）阳性
+> “小淋吃糖”
+> NSE（非特异性脂酶）、POX（髓过氧化物酶）阴性“带酶的都阴性”
+> 3. 急性粒细胞白血病：NSE阳性，不被氟化钠抑制（抑制＜50%）“不离”
+> 4. 急性单核细胞白血病：NSE阳性，被氟化钠抑制（抑制≥50%）“被单”
+
 ## Genetic studies
 - <span style="background:rgba(240, 200, 0, 0.2)">APL: t(15;17) translocation, producing PML-RARA</span>
 

@@ -15,6 +15,11 @@ See also [[USMLE/Biochemistry/Lipid transport\|Lipid transport]]
 | Omega-3 fatty acids                                              | -                                                         | ↑                                                         | ↓                                                         |
 | Exercise & weight loss                                           | ↓                                                         | ↑                                                         | <span style="background:rgba(240, 200, 0, 0.2)">↓↓</span> |
 
+>[!Mnemonic] 
+>我要（5.1）蛋（胆固醇）挞（他）
+>一起（1.7）干（甘油三酯）杯（贝）
+
+
 # Statins
 - <span style="background:rgba(240, 200, 0, 0.2)">The only first-line medication for dyslipidemia, significantly reducing the risk of mortality in patients suffering from CAD.</span>
 - Competitive inhibition of HMG-CoA reductase renders this enzyme unable to convert HMG-CoA to mevalonate (the rate-limiting step of cholesterol synthesis) → reduced intrahepatic cholesterol biosynthesis → <span style="background:rgba(240, 200, 0, 0.2)">upregulation of expression of LDL receptor gene via sterol regulatory element-binding protein (SREBP) → increased LDL recycling</span> and:

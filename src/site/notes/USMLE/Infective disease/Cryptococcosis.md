@@ -7,7 +7,10 @@
 
 ---
 # Etiology
-
+- Caused by encapsulated yeast: **_Cryptococcus neoformans_** (worldwide, associated with **pigeon droppings**, immunocompromised hosts) and **_C. gattii_** (tropical/subtropical areas, can infect immunocompetent hosts).
+- <span style="background:rgba(240, 200, 0, 0.2)">Transmission is via **inhalation** of spores. The primary infection is in the lungs, often asymptomatic.</span>
+- Hematogenous dissemination to the **CNS** is the most common and feared manifestation, especially in immunocompromised individuals.
+- The thick **polysaccharide capsule** is a major virulence factor, inhibiting phagocytosis.
 
 ---
 # Pathophysiology

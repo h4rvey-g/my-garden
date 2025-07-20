@@ -33,7 +33,14 @@ Sjogren syndrome is a chronic inflammatory autoimmune disease that most commonly
 		- Tongue fissures
 # Diagnostics
 ---
-
+- **Serology:**
+	- **Anti-Ro (SSA) and Anti-La (SSB) antibodies:** Highly specific, especially anti-La.
+	- **Antinuclear Antibody (ANA):** Positive in >95% of cases, making it a sensitive but non-specific test.
+	- **Rheumatoid Factor (RF):** Often positive even without concomitant RA.
+- **Ophthalmologic Tests:**
+	- **Schirmer test:** Measures tear production by placing filter paper in the lower eyelid; <5 mm of wetting in 5 minutes is abnormal.
+	- **Rose bengal stain:** Stains devitalized cornea and conjunctiva, revealing damage from dryness.
+- <span style="background:rgba(240, 200, 0, 0.2)">**Biopsy:** **Lip (minor salivary gland) biopsy** is the most accurate test, showing focal lymphocytic infiltration.</span>
 
 # Treatment
 ---
