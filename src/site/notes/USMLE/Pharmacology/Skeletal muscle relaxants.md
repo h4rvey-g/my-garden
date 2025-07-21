@@ -7,8 +7,8 @@
 <span style="background:rgba(240, 200, 0, 0.2)">Fast onset, short duration</span>
 ## Agents
 - <span style="background:rgba(240, 200, 0, 0.2)">Succinylcholine (suxamethonium)</span>
-# Indications
-- <span style="background:rgba(240, 200, 0, 0.2)">Anesthesia induction (esp. rapid sequence induction)</span>
+## Indications
+- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Neurology/Anesthesia\|Anesthesia]] induction (esp. rapid sequence induction)</span>
 ## Monitoring
 - <span style="background:rgba(240, 200, 0, 0.2)">Train-of-four stimulation shows an equal decrease in the amplitude of all 4 muscle twitches.</span>
 	- The muscle fiber becomes unresponsive to any further stimulation![L10321.jpg](/img/user/appendix/L10321.jpg)
@@ -36,7 +36,7 @@
 ## Mechanism of action
 - Compete with ACh to bind with the (nicotinic) ACh receptors at the motor end plate (<span style="background:rgba(240, 200, 0, 0.2)">competitive antagonists</span>) → <span style="background:rgba(240, 200, 0, 0.2)">prevention of motor end plate depolarization (nondepolarization block)</span>
 ## Agents
-- Rocuronium 
+- <span style="background:rgba(240, 200, 0, 0.2)">Rocuronium</span> 
 - Vecuronium 
 - Atracurium
 ## Indications

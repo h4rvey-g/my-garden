@@ -16,8 +16,9 @@
 # Pathophysiology
 ---
 ![Pasted image 20240802085832.png](/img/user/appendix/Pasted%20image%2020240802085832.png)
-- The most common underlying pathology in the case of mitral valve prolapse is <span style="background:rgba(240, 200, 0, 0.2)">myxomatous degeneration (deposition of glycosaminoglycan such as dermatan sulfate) of the mitral valve due to a primary disease or connective tissue disorder</span>
-	- Long, floppy mitral valve leaflets with excessive valvular tissue → the mitral annulus becomes dilated and the chordae tendineae become elongated (and may rupture) → prolapse of one or both mitral valve leaflets into the left atrium during systole
+* **Myxomatous degeneration** of the mitral valve leaflets and chordae tendineae is the primary cause, leading to redundant, thickened, and "floppy" valve tissue. This causes the leaflets to bulge (prolapse) into the left atrium during systole.
+* <span style="background:rgba(240, 200, 0, 0.2)">It's the most common cause of primary **[[USMLE/Cardiology/Mitral regurgitation\|mitral regurgitation]] (MR)** in developed countries.</span>
+* Can be an isolated finding or associated with **connective tissue diseases** like [[USMLE/Pathology/Ehlers-Danlos syndrome and Marfan syndrome\|Marfan syndrome]], [[USMLE/Pathology/Ehlers-Danlos syndrome and Marfan syndrome\|Ehlers-Danlos syndrome]], and [[USMLE/MSK/Osteogenesis imperfecta\|osteogenesis imperfecta]].
 
 # Clinical features
 ---
@@ -31,4 +32,4 @@
 
 # Treatment
 ---
-<% tp.file.cursor() %>
+

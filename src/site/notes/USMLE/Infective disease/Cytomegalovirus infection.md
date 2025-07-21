@@ -25,7 +25,7 @@
 
 # Diagnostics
 ---
-
+- <span style="background:rgba(240, 200, 0, 0.2)">**Histology:** Enlarged cells with large, eosinophilic intranuclear inclusions surrounded by a clear halo (**"owl's eye" appearance**).</span>![Pasted image 20250721201639.png](/img/user/appendix/Pasted%20image%2020250721201639.png)
 
 # Treatment
 ---

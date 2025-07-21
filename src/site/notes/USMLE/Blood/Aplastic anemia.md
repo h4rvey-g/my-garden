@@ -22,19 +22,35 @@
 		- <span style="background:rgba(240, 200, 0, 0.2)">∼ 50% of patients with Fanconi anemia will develop [[USMLE/Blood/Acute leukemia\|acute myeloid leukemia]] or [[USMLE/Blood/Myelodysplastic syndromes\|myelodysplastic syndromes]] in early adulthood.</span>
 - Pathophysiology
 	- <span style="background:rgba(240, 200, 0, 0.2)">Multipotent hematopoietic stem cells are destroyed by cytotoxic T cells</span> or direct cytotoxic injury → bone marrow aplasia/hypoplasia → lack of circulating peripheral blood cells
-
->[!tip] [[USMLE/Blood/Primary myelofibrosis\|Myelofibrosis]] vs Aplastic anemia
->- [[USMLE/Blood/Primary myelofibrosis\|Myelofibrosis]]: <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Blood/Splenomegaly\|splenomegaly]]</span>
->	- <span style="background:rgba(240, 200, 0, 0.2)">Evidence of extra medullary hematopoesis</span>
->- Aplastic anemia: no
->- Explanation: In myeloproliferative disorders like myelofibrosis, niche in marrow is disturbed by slow fibrosis of marrow so <span style="background:rgba(240, 200, 0, 0.2)">stem cells migrate and extra medullary haematopoiesis occurs</span>. <span style="background:rgba(240, 200, 0, 0.2)">But in aplastic anemia</span> (whether primary or secondary to drugs etc) <span style="background:rgba(240, 200, 0, 0.2)">stem cells themselves are destroyed or affected so haematopoiesis not possible anywhere.</span> So we don't get hepatosplenomegaly and other evidences of extramedullary haematopoiesis.
-
 - Diagnostics
 	- Laboratory studies, e.g.:
 		- CBC: pancytopenia (in contrast to aplastic crisis characterized by anemia only), or normocytic or macrocytic anemia
 		- Reticulocyte count: low
 		- Erythropoietin level: high
 	- <span style="background:rgba(240, 200, 0, 0.2)">Bone marrow findings: hypocellular with prominent fat spaces (“empty marrow” appearance)</span>![L68294.jpg](/img/user/appendix/L68294.jpg)
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/USMLE/Blood/Primary myelofibrosis/#differential-diagnostics" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# Differential diagnostics
+| Feature              | Myelofibrosis (MF)                                                             | Aplastic Anemia (AA)                                                       |
+| :------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| **Pathophysiology**  | Myeloproliferative Neoplasm (MPN) → ↑ Cytokines → Reactive BM **fibrosis**     | Autoimmune destruction of hematopoietic stem cells (HSCs) → BM **failure** |
+| **BM Biopsy**        | **Hypercellular** → **Fibrotic**. "Dry tap" common.                            | Markedly **hypocellular** / empty; replaced by fat.                        |
+| **Splenomegaly**     | **Massive** (due to Extramedullary Hematopoiesis - EMH). **Hallmark finding**. | **Absent**.                                                                |
+| **Peripheral Smear** | **Leukoerythroblastosis** & **Dacrocytes** (teardrop RBCs).                    | Pancytopenia with **normal morphology**.                                   |
+| **Genetics**         | **JAK2**, CALR, MPL mutations (~90%).                                          | No specific mutations; idiopathic/autoimmune.                              |
+| **Key Sx**           | Constitutional "B" symptoms, early satiety, bone pain.                         | Sx of pancytopenia: fatigue, infections, bleeding.                         |
+| **Age**              | Typically >50 y/o.                                                             | Bimodal: young adults & elderly.                                           |
+>[!tip] Myelofibrosis vs [[USMLE/Blood/Aplastic anemia\|Aplastic anemia]]
+>- Myelofibrosis: <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Blood/Splenomegaly\|splenomegaly]]</span>
+>	- <span style="background:rgba(240, 200, 0, 0.2)">Evidence of extra medullary hematopoesis</span>
+>- [[USMLE/Blood/Aplastic anemia\|Aplastic anemia]]: no
+>- Explanation: In myeloproliferative disorders like myelofibrosis, niche in marrow is disturbed by slow fibrosis of marrow so <span style="background:rgba(240, 200, 0, 0.2)">stem cells migrate and extra medullary haematopoiesis occurs</span>. <span style="background:rgba(240, 200, 0, 0.2)">But in aplastic anemia</span> (whether primary or secondary to drugs etc) <span style="background:rgba(240, 200, 0, 0.2)">stem cells themselves are destroyed or affected so haematopoiesis not possible anywhere.</span> So we don't get hepatosplenomegaly and other evidences of extramedullary haematopoiesis.
+
+</div></div>
+
 - Treatment
 	- Consider need for supportive care, e.g.:
 		- Platelet transfusions, and/or blood transfusions

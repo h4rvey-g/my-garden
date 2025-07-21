@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Cardiology/Genetic diseases associated with cardiac defects/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Genetic diseases associated with cardiac defects/","tags":["t2"]}
 ---
 
 - [[USMLE/Reproductive/Differences (disorders) of sex development\|Turner syndrome]] (45,X):

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Neurology/Cranial nerves and vessel pathways/"}
+{"dg-publish":true,"permalink":"/USMLE/Neurology/Cranial nerves and vessel pathways/","tags":["t1"]}
 ---
 
 | 1   | <font color="#ffc000">C</font>ome   | <font color="#ffc000">C</font>ribiform plate                         |

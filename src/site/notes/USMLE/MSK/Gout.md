@@ -45,7 +45,7 @@
 ---
 # Clinical features
 - Most common manifestation
-	- Acute severe pain with <span style="background:rgba(240, 200, 0, 0.2)">overlying erythema, decreased range of motion, swelling, warmth</span>
+	- Acute severe pain with <span style="background:rgba(240, 200, 0, 0.2)">overlying [[USMLE/MSK/Erythema differential diagnostics\|erythema]], decreased range of motion, swelling, warmth</span>
 	- Possibly fever
 	- Symptoms are more likely to <span style="background:rgba(240, 200, 0, 0.2)">occur at night, typically waking the patient.</span>
 	- Symptoms peak after 12–24 hours and regress over days to weeks. 

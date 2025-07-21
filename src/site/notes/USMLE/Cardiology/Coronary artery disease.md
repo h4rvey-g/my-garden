@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Cardiology/Coronary artery disease/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Cardiology/Coronary artery disease/","tags":["t2"]}
 ---
 
 # Definitions
@@ -13,9 +13,11 @@ graph TD
     UnstableAngina["Unstable Angina"]
     NSTEMI["NSTEMI"]
     STEMI["STEMI"]
+	Variant["Variant (Prinzmetal) Angina"]
 
     CAD --> StableAngina
     CAD --> ACS
+	CAD --> Variant
     ACS --> UnstableAngina
     ACS --> NSTEMI
     ACS --> STEMI

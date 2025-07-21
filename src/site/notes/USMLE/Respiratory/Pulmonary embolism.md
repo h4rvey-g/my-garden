@@ -19,9 +19,14 @@
 # Pathophysiology
 ---
 ![L26143.jpg](/img/user/appendix/L26143.jpg)
-- The lung is supplied by <span style="background:rgba(240, 200, 0, 0.2)">dual circulation from both the pulmonary arteries and bronchial arteries.</span> This collateral circulation can help protect against lung infarction as a complication of pulmonary embolism (PE).
-- <span style="background:rgba(240, 200, 0, 0.2)">Distal PEs in small arteries (≤3 mm) are more likely to cause infarction</span> as they may occlude areas distal to the pulmonary-bronchial anastomoses.  
-- When a pulmonary infarction does occur, it is typically hemorrhagic (red) rather than ischemic (white) due to the relatively low density of lung tissue and the dual blood supply.
+*   **Dual Blood Supply**: The lungs are supplied by two circulations:
+    1.  **Pulmonary Arteries**: Low-pressure system carrying deoxygenated blood from the RV for gas exchange.
+    2.  **Bronchial Arteries**: High-pressure system arising from the aorta; supplies oxygenated blood to the lung parenchyma (bronchi, connective tissue).
+*   **Pulmonary Infarction**:
+    *   <span style="background:rgba(240, 200, 0, 0.2)">Due to the dual blood supply, PE does **not** always cause pulmonary infarction (tissue death).</span> The bronchial circulation can often sustain the lung tissue.
+    *   <span style="background:rgba(240, 200, 0, 0.2)">Infarction is more likely to occur if the **bronchial circulation is compromised** (e.g., in left-sided heart failure) or if the embolus is very peripheral.</span>
+    *   When it occurs, it's typically a **hemorrhagic (red) infarct** because some blood from the bronchial circulation still leaks into the necrotic area.
+    *   Clinically, it presents with pleuritic chest pain and hemoptysis. Radiologically, it may appear as a wedge-shaped infiltrate (**Hampton's Hump**).
 # Clinical features
 ---
 - Common features of PE

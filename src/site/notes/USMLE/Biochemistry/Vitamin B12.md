@@ -4,9 +4,8 @@
 
 # Functions
 - Cofactor for enzymes:
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Biochemistry/Methionine\|Methionine]] synthase: Methylcobalamin is required for the transfer of methyl groups (e.g., in DNA synthesis).</span> 
-		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency leads to impaired DNA synthesis</span>![Pasted image 20241023084613.png](/img/user/appendix/Pasted%20image%2020241023084613.png)
-	- Methylmalonyl-CoA mutase (e.g., in odd-chain fatty acid metabolism)
+	1. <span style="background:rgba(240, 200, 0, 0.2)">**Methionine synthase:** Converts homocysteine to methionine (requires folate). Deficiency leads to ↑ homocysteine and traps folate as methyl-THF, impairing DNA synthesis.</span> ![Pasted image 20241023084613.png](/img/user/appendix/Pasted%20image%2020241023084613.png)
+	2. **Methylmalonyl-CoA mutase:** Converts methylmalonyl-CoA to succinyl-CoA. Deficiency leads to ↑ methylmalonic acid (MMA), which is neurotoxic and impairs myelin synthesis.
 		- <span style="background:rgba(240, 200, 0, 0.2)">Deficiency leads to impaired myelin synthesis</span>: the buildup of Methylmalonyl-CoA disrupts myelin![Pasted image 20241023084633.png](/img/user/appendix/Pasted%20image%2020241023084633.png)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Hydroxocobalamin (precursor of vitamin B12) is used to treat [[USMLE/Blood/Cyanide poisoning\|Cyanide poisoning]]</span>
 

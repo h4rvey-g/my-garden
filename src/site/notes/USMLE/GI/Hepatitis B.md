@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/GI/Hepatitis B/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/GI/Hepatitis B/","tags":["t2"]}
 ---
 
 # Epidemiology
@@ -15,12 +15,17 @@
 # Pathophysiology
 ## Replication cycle of HBV
 HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also known as reverse transcriptase (RT).![Pasted image 20231217151303.png](/img/user/appendix/Pasted%20image%2020231217151303.png)
-1. After entering the host cell's nucleus, reverse transcriptase completes the positive strand of the virus's partially double-stranded relaxed circular DNA (rcDNA).
-2. <span style="background:rgba(240, 200, 0, 0.2)">The rcDNA is converted to covalently closed circular DNA (cccDNA)</span> primarily by host enzymes in a process that is not entirely understood.
-3. The cccDNA is then transcribed into viral mRNA by host RNA polymerase.
-4. <span style="background:rgba(240, 200, 0, 0.2)">The viral mRNA leaves the nucleus and is translated into HBV core proteins and new reverse transcriptase in the cytoplasm.</span>
-5. Viral mRNA and reverse transcriptase are packaged into a capsid, where viral mRNA is then reverse-transcribed into viral rcDNA.
-6. New viral DNA genomes are enveloped and leave the cell as progeny virions.
+1. **Entry:** Virus enters the hepatocyte and the nucleocapsid travels to the nucleus.
+    
+2. **cccDNA Formation:** Inside the nucleus, the viral **partially double-stranded DNA (rcDNA)** is "repaired" by host enzymes into a stable **covalently closed circular DNA (cccDNA)**.
+    
+    - **Key Point:** cccDNA acts as a persistent template for all viral transcription, leading to chronic infection.
+3. **Transcription:** Host RNA polymerase transcribes the cccDNA into messenger RNAs (mRNAs) and a key **pregenomic RNA (pgRNA)** intermediate.
+    
+4. **Assembly & Reverse Transcription:** In the cytoplasm, viral proteins, polymerase, and the **pgRNA** are packaged into a new core particle.
+    
+    - <span style="background:rgba(240, 200, 0, 0.2)">**Key Point:** The viral polymerase acts as a **reverse transcriptase**, using the pgRNA template to synthesize the new **rcDNA** genome.</span>
+5. **Release:** New virions acquire an envelope with HBsAg and are secreted from the cell.
 
 ---
 # Clinical features

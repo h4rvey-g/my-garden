@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/USMLE/Cardiology/Acute coronary syndrome/"}
 ---
 
-
 ```mermaid
 graph TD
     CAD["Coronary Artery Disease (CAD)"]
@@ -11,14 +10,15 @@ graph TD
     UnstableAngina["Unstable Angina"]
     NSTEMI["NSTEMI"]
     STEMI["STEMI"]
+	Variant["Variant (Prinzmetal) Angina"]
 
     CAD --> StableAngina
     CAD --> ACS
+	CAD --> Variant
     ACS --> UnstableAngina
     ACS --> NSTEMI
     ACS --> STEMI
 ```
-
 # Etiology
 
 

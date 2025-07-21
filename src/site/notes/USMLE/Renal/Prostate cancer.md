@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Renal/Prostate cancer/"}
+{"dg-publish":true,"permalink":"/USMLE/Renal/Prostate cancer/","tags":["t1"]}
 ---
 
 # Epidemiology

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Blood/Alkaline phosphatase/","title":"Alkaline phosphatase"}
+{"dg-publish":true,"permalink":"/USMLE/Blood/Alkaline phosphatase/","title":"Alkaline phosphatase","tags":["t1"]}
 ---
 
 A group of enzymes found throughout the body but produced predominantly in the liver, bones, placenta, and small intestine. Common causes of elevated serum ALP include cholestasis, bone disease (e.g., <span style="background:rgba(240, 200, 0, 0.2)">bone metastases</span>, [[USMLE/MSK/Paget disease\|Paget's disease]], [[USMLE/Endocrine/Hyperparathyroidism\|hyperparathyroidism]]), and [[USMLE/Reproductive/Pregnancy\|pregnancy]]. The normal reference range is 40-120 U/L.

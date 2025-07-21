@@ -9,6 +9,7 @@
 # Etiology
 - Inherited susceptibility: primarily autosomal dominant with reduced penetrance
 	- ∼ 50% of cases: <span style="background:rgba(240, 200, 0, 0.2)">associated with a mutation in the ryanodine receptor type 1 (RYR-1)</span>
+		- <span style="background:rgba(240, 200, 0, 0.2)">This defect leads to a massive, uncontrolled release of Ca<sup>2+</sup> from the sarcoplasmic reticulum in response to triggering agents.</span>
 		- RYR1 primarily in skeletal myocytes, RYR2 primarily in cardiac myocytes, and RYR3 in various cells including neurons.
 - <span style="background:rgba(240, 200, 0, 0.2)">Triggering agents</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Volatile [[USMLE/Neurology/Inhalational anesthetics\|anesthetics]] (except nitrous oxide)</span>
