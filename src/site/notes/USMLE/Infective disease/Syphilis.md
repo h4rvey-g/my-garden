@@ -29,14 +29,9 @@
 - Constitutional symptoms
 	- <span style="background:rgba(240, 200, 0, 0.2)">Generalized nontender [[USMLE/Pathology/Lymphadenopathy\|lymphadenopathy]]</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Fever</span>, fatigue, myalgia, headache
-- <span style="background:rgba(240, 200, 0, 0.2)">Polymorphic rash</span> 
-	- Typically disseminated, nonpruritic macular or papular rash
-	- <span style="background:rgba(240, 200, 0, 0.2)">Involves trunk and extremities, also the palms and soles </span>![L9512.jpg](/img/user/appendix/L9512.jpg)
+- **Diffuse maculopapular rash**, classically involving the **palms and soles**.![L9512.jpg](/img/user/appendix/L9512.jpg)
 	- <span style="background:rgba(240, 200, 0, 0.2)">Reddish-brown or copper-colored</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">Condylomata lata</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Broad-based, wart-like, smooth, white papular erosions</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">Painless</span>
-	- Located in the anogenital region, intertriginous folds, and on oral mucosa
+- <span style="background:rgba(240, 200, 0, 0.2)">**Condylomata lata:** smooth, white, painless, wart-like lesions in moist areas (genitals, perineum).</span>
 - Additional lesions
 	- <span style="background:rgba(240, 200, 0, 0.2)">Patchy [[USMLE/MSK/Alopecia\|alopecia]] (moth-eaten [[USMLE/MSK/Alopecia\|alopecia]])</span>
 

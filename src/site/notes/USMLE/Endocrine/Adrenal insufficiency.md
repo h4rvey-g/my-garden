@@ -8,43 +8,35 @@
 ---
 # Etiology
 ## Primary adrenal insufficiency (Addison disease)
-- <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune adrenalitis</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Most common cause in the US</span> (∼ 80–90% of all cases of primary adrenal insufficiency)
-	- Caused by autoimmune destruction of both adrenal cortices
-	- Associated with other autoimmune endocrinopathies
-- Infectious adrenalitis
-	- [[USMLE/Infective disease/Tuberculosis\|Tuberculosis]]: most common cause worldwide, but rare in the US
-	- [[USMLE/Infective disease/Cytomegalovirus infection\|CMV]] disease in immunosuppressed states (especially AIDS)
-	- [[USMLE/Infective disease/Histoplasmosis\|Histoplasmosis]]
-- Adrenal hemorrhage 
-	- <span style="background:rgba(240, 200, 0, 0.2)">[[USMLE/Infective disease/Sepsis\|Sepsis]]: especially meningococcal [[USMLE/Infective disease/Sepsis\|sepsis]] (endotoxic shock) → hemorrhagic necrosis ([[USMLE/Infective disease/Waterhouse-Friderichsen syndrome\|Waterhouse-Friderichsen syndrome]])</span>
-	- Disseminated intravascular coagulation (DIC)
-- Infiltration of the adrenal glands
-	- Tumors (adrenocortical tumors, lymphomas, metastatic carcinoma)
-	- [[USMLE/Pathology/Amyloidosis\|Amyloidosis]]
-	- [[USMLE/Blood/Hemochromatosis\|Hemochromatosis]]
-- Adrenalectomy
-- Impaired activity of enzymes that are responsible for cortisol synthesis
-	- Cortisol synthesis inhibitors (e.g., rifampin, fluconazole, phenytoin, ketoconazole): drug-induced adrenal insufficiency
-	- 21β-hydroxylase deficiency
-## Tertiary adrenal insufficiency
-Tertiary adrenal insufficiency is caused by conditions that <span style="background:rgba(240, 200, 0, 0.2)">decrease CRH production.</span>
-- <span style="background:rgba(240, 200, 0, 0.2)">The most common cause is sudden discontinuation of chronic [[USMLE/Pharmacology/Corticosteroids\|glucocorticoid]] therapy.</span>
-- Rarer causes include hypothalamic dysfunction (e.g., due to trauma, mass, hemorrhage, or anorexia): ↓ CRH → ↓ ACTH → ↓ cortisol release
+*   Destruction of the adrenal cortex leading to ↓ cortisol AND ↓ aldosterone.
+*   **Most common cause in developed countries:** <span style="background:rgba(240, 200, 0, 0.2)">Autoimmune adrenalitis.</span>
+*   Other causes: Infections ([[USMLE/Infective disease/Tuberculosis\|TB]], [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]], fungal), <span style="background:rgba(240, 200, 0, 0.2)">bilateral adrenal hemorrhage ([[USMLE/Infective disease/Waterhouse-Friderichsen syndrome\|Waterhouse-Friderichsen syndrome]] in meningococcemia)</span>, metastasis.
+## Secondary & tertiary adrenal insufficiency
+*   **Secondary:** Decreased ACTH secretion from the pituitary (e.g., pituitary tumors, [[USMLE/Endocrine/Hypopituitarism\|Sheehan syndrome]]).
+*   **Tertiary:** Decreased CRH from the [[USMLE/Neurology/Hypothalamus\|hypothalamus]]. **Most common cause:** Chronic exogenous steroid use followed by abrupt cessation.
+*   <span style="background:rgba(240, 200, 0, 0.2)">Leads to ↓ cortisol ONLY. **Aldosterone is preserved** because it is primarily regulated by the Renin-Angiotensin-Aldosterone System (RAAS), not ACTH.</span>
+
+| Feature | Primary AI | Secondary/Tertiary AI |
+| :--- | :--- | :--- |
+| **Defect** | Adrenal Gland Failure | ↓ ACTH / CRH (Pituitary/Hypothalamus) |
+| **ACTH** | **↑ High** | **↓ Low** |
+| **Aldosterone** | **↓ Low** | **Normal** (RAAS intact) |
+| **Key Signs** | **Hyperpigmentation** & **Hyperkalemia** | **NO** hyperpigmentation or hyperkalemia |
+| **Treatment** | Cortisol + Fludrocortisone | Cortisol **ONLY** |
 
 ---
 # Pathophysiology
 ![Pasted image 20231208143231.png](/img/user/appendix/Pasted%20image%2020231208143231.png)
 
 ## Primary adrenal insufficiency (Addison disease)
-Damage to the adrenal gland leads to the deficiency in all three hormones produced by the adrenal cortex: androgen, cortisol, and aldosterone. 
+Damage to the adrenal gland leads to the deficiency in all three hormones produced by the adrenal cortex: [[USMLE/Reproductive/Androgen and estrogen synthesis\|androgen]], cortisol, and aldosterone. 
 - Hypoandrogenism 
 	- Loss of libido
 	- Impaired spermatogenesis (in men)
 - Hypocortisolism leads to:
 	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ACTH</span> → ↑ production of POMC (in order to increase ACTH production) → ↑ melanocyte-stimulating hormone (MSH) → <span style="background:rgba(240, 200, 0, 0.2)">hyperpigmentation of the skin (bronze skin) </span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ADH level → retention of free water → dilutional hyponatremia</span> 
-	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Expression of enzymes involved in gluconeogenesis → ↓ rate of gluconeogenesis → hypoglycemia</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">↑ ADH level → retention of free water → dilutional [[USMLE/Neurology/Hyponatremia\|hyponatremia]]</span> 
+	- <span style="background:rgba(240, 200, 0, 0.2)">↓ Expression of enzymes involved in [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]] → ↓ rate of [[USMLE/Biochemistry/Gluconeogenesis\|gluconeogenesis]] → hypoglycemia</span>
 	- Lack of potentiation of catecholamines action → hypotension
 - Hypoaldosteronism → hypotension (hypotonic hyponatremia and volume contraction), hyperkalemia, metabolic acidosis
 # Clinical features

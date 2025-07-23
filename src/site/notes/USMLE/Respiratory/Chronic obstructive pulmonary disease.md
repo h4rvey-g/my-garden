@@ -12,7 +12,7 @@ COPD is characterized by chronic airway inflammation and tissue destruction.
 It results from significant exposure to noxious stimuli, increased oxidative stress (most commonly due to cigarette smoke) as well as by increased release of reactive oxygen species by inflammatory cells.
 - <span style="background:rgba(240, 200, 0, 0.2)">Increased number of neutrophils, macrophages, and CD8+ T lymphocytes → release of cytokines</span> → amplification of inflammation and induction of structural changes of lung parenchyma (e.g., via stimulation of growth factor release)![highresdefault_L29171.jpg](/img/user/appendix/highresdefault_L29171.jpg)
 	- <span style="background:rgba(240, 200, 0, 0.2)">CD8+ T lymphocytes mediate inflammation in individuals with COPD.</span>
-	- CD4+ T lymphocytes and [[USMLE/Immunology/Eosinophils\|eosinophils]] mediate inflammation in individuals with bronchial asthma.
+	- CD4+ T lymphocytes and [[USMLE/Immunology/Eosinophils\|eosinophils]] mediate inflammation in individuals with bronchial [[USMLE/Respiratory/Asthma\|asthma]].
 - <span style="background:rgba(240, 200, 0, 0.2)">Promotion of goblet cell proliferation and hypertrophy, mucus hypersecretion, and impaired ciliary function → chronic productive cough</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Reid index is the ratio of the thickness of the submucosal mucus-secreting glands to the thickness between the epithelium and cartilage in the bronchial tree.</span>![highresdefault_L43667.jpg](/img/user/appendix/highresdefault_L43667.jpg)
 	- Reid index > 0.5 is characteristic of chronic bronchitis.
@@ -75,7 +75,7 @@ AECOPD is a clinical diagnosis based on the development of cardinal symptoms of 
 		- Systemic [[USMLE/Pharmacology/Corticosteroids\|glucocorticoid]] use
 		- Previous isolation of P. aeruginosa
 ## Clinical features
-- Worsening of dyspnea
+- Worsening of [[USMLE/Respiratory/Dyspnea\|dyspnea]]
 - Increased frequency and severity of cough
 - <span style="background:rgba(240, 200, 0, 0.2)">Increased volume and/or purulence of sputum</span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Viral infections, especially in patients with pre-existing lung inflammation like COPD, can trigger a very strong neutrophilic inflammatory response.</span> The patient's own immune system floods the airways with neutrophils to fight the virus, leading to the production of purulent-appearing sputum, **even without a primary bacterial infection.**

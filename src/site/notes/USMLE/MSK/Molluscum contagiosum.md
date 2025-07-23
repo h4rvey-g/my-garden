@@ -8,7 +8,7 @@
 
 # Etiology
 ---
-- Pathogen: <span style="background:rgba(240, 200, 0, 0.2)">a DNA poxvirus</span> (molluscum contagiosum virus)
+- Caused by **Molluscum Contagiosum Virus (MCV)**, <span style="background:rgba(240, 200, 0, 0.2)">a member of the **poxvirus** family.</span>
 - Transmission:
 	- Direct skin contact (contact sports, sexually transmitted)
 	- Autoinoculation (scratching or touching lesion, e.g., while shaving) 

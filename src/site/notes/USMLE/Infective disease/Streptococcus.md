@@ -2,8 +2,50 @@
 {"dg-publish":true,"permalink":"/USMLE/Infective disease/Streptococcus/"}
 ---
 
-# Diseases
+# Characteristics
+## Streptococcus pyogenes (Group A)
+
+- **β-hemolytic** (complete hemolysis).
+- **Bacitracin-sensitive**.
+- **PYR-positive**.
+- **ASO/Anti-DNase B titers** for post-infectious sequelae.
+
+## Streptococcus agalactiae (Group B)
+
+- **β-hemolytic**.
+- **Bacitracin-resistant**.
+- **CAMP test-positive** (arrowhead hemolysis).
+- **Hippurate hydrolysis-positive**.
+
+## Streptococcus pneumoniae
+
+- **α-hemolytic** (partial, green hemolysis).
+- **Lancet-shaped diplococci**.
+- **Optochin-sensitive**.
+- <span style="background:rgba(240, 200, 0, 0.2)">**Bile-soluble**.</span>
+- Urine antigen test can be used for pneumonia.
+
+## Viridans Group Streptococci
+
+- **α-hemolytic**.
+- **Optochin-resistant**.
+- **Bile-insoluble**.
+
+## Streptococcus gallolyticus (S. bovis)
+
+- **Grows in bile**.
+- **Does NOT grow in 6.5% NaCl**.
+- **PYR-negative**.
+- Finding in blood warrants a **colonoscopy**.
+
+## Enterococcus
+
+- **Grows in bile**.
+- **Grows in 6.5% NaCl**.
+- **PYR-positive**.
+
 ---
+# Diseases
 ## **Alpha-hemolysis (partial hemolysis)**
 
 *   **[[USMLE/Infective disease/Streptococcus pneumoniae\|Streptococcus pneumoniae]] (pneumococcus)**

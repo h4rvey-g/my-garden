@@ -52,7 +52,14 @@
 
 ---
 # Diagnostics
-
+- **Abdominal Ultrasound (US):** Best initial and most accurate test for stones _in the gallbladder_.
+    - Shows **hyperechoic foci (stones)** with a **posterior acoustic shadow**.
+- **Labs:** Typically normal in uncomplicated cholelithiasis. LFTs (ALP, GGT, bilirubin) will be elevated if a stone passes into the common bile duct (choledocholithiasis).
+- **For suspected ductal stones (choledocholithiasis):**
+    - **MRCP (Magnetic Resonance Cholangiopancreatography):** Excellent **non-invasive** test to visualize the biliary and pancreatic ducts. Used to confirm suspected CBD stones before proceeding to an invasive procedure. **Diagnostic only**.
+    - **ERCP (Endoscopic Retrograde Cholangiopancreatography):** Gold standard for **both diagnosis and therapy** of choledocholithiasis. Allows for sphincterotomy and stone extraction.
+    - **PTC (Percutaneous Transhepatic Cholangiography):** **Invasive** imaging used when ERCP is unsuccessful or contraindicated. Can also be used for therapeutic biliary drainage.
+- **HIDA Scan (cholescintigraphy):** Primarily used to diagnose **acute cholecystitis** (not routine for cholelithiasis); shows non-visualization of the gallbladder.
 
 ---
 # Treatment

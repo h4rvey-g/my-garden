@@ -28,8 +28,8 @@ Hypotheses:
 
 ---
 # Clinical features
-- SLE is a systemic disease characterized by phases of remission and relapse.
-- SLE can affect any organ.
+- <span style="background:rgba(240, 200, 0, 0.2)">Classic triad: fever, joint pain, and rash in a woman of childbearing age.</span>
+- Highly variable presentation, known as "the great imitator".
 ## Common
 - Constitutional: fatigue, fever, weight loss
 - <span style="background:rgba(240, 200, 0, 0.2)">Joints (> 90% of cases)</span>
@@ -44,6 +44,7 @@ Hypotheses:
 	- <span style="background:rgba(240, 200, 0, 0.2)">Oral ulcers (usually painless)</span>
 	- Nonscarring [[USMLE/MSK/Alopecia\|alopecia]] (except with discoid rashes)
 	- Periungual telangiectasia 
+- <span style="background:rgba(240, 200, 0, 0.2)">**Serositis**: Pleuritis (pleuritic chest pain), pericarditis.</span>
 
 >[!tip] 
 >Both [[USMLE/MSK/Rheumatoid arthritis\|rheumatoid arthritis]] and SLE arthritis affect the MCP and PIP joints, but SLE does not usually lead to deformities.
@@ -60,14 +61,13 @@ Hypotheses:
 ---
 ## Laboratory studies
 ![Pasted image 20240116151535.png](/img/user/appendix/Pasted%20image%2020240116151535.png)
-- <span style="background:rgba(240, 200, 0, 0.2)">Antinuclear antibodies (ANAs)</span>
-	- Positive titers of ≥ 1:80 have <span style="background:rgba(240, 200, 0, 0.2)">∼ 98% sensitivity for SLE</span>
-- Antigen-specific ANAs: Request only if ANAs are positive.
+- **Best initial test**: **ANA** (Antinuclear Antibody) - highly sensitive (>95%) but not specific.
+- **Most specific antibodies**: **Anti-dsDNA** and **Anti-Sm** (Anti-Smith).
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-dsDNA antibodies</span>
 		- Autoantibodies against double-stranded DNA
 		- Positive in 60–70% of patients
 		- Highly specific for SLE
-		- Levels correlate with disease activity (especially [[USMLE/Renal/Diffuse proliferative glomerulonephritis\|lupus nephritis]] activity). 
+		- <span style="background:rgba(240, 200, 0, 0.2)">Levels correlate with disease activity (especially [[USMLE/Renal/Diffuse proliferative glomerulonephritis\|lupus nephritis]] activity). </span>
 	- <span style="background:rgba(240, 200, 0, 0.2)">Anti-Sm antibodies</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Autoantibodies against Smith antigens (nonhistone nuclear proteins)</span>
 			- <span style="background:rgba(240, 200, 0, 0.2)">Smith can bond to snRNAs to form snRNPs, which can form a spliceosome.</span>
@@ -92,7 +92,11 @@ Hypotheses:
 
 ---
 # Treatment
-
+- **General**: Sun protection, smoking cessation.
+- **Mild disease** (skin, joints): **Hydroxychloroquine** (for all patients), NSAIDs, low-dose corticosteroids.
+	- Hydroxychloroquine: <span style="background:rgba(240, 200, 0, 0.2)">decreases complement-dependent antigen-antibody reactions.</span>
+- **Moderate disease** (serositis, significant cytopenias): Add moderate-dose corticosteroids, possibly immunosuppressants like azathioprine or methotrexate.
+- **Severe disease/Lupus Nephritis**: High-dose corticosteroids plus cyclophosphamide or mycophenolate mofetil.
 
 ## Complications
 ---

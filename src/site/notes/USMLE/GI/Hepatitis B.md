@@ -24,7 +24,8 @@ HBV carries a DNA polymerase with both DNA and RNA-dependent functions, also kno
     
 4. **Assembly & Reverse Transcription:** In the cytoplasm, viral proteins, polymerase, and the **pgRNA** are packaged into a new core particle.
     
-    - <span style="background:rgba(240, 200, 0, 0.2)">**Key Point:** The viral polymerase acts as a **reverse transcriptase**, using the pgRNA template to synthesize the new **rcDNA** genome.</span>
+    - <span style="background:rgba(240, 200, 0, 0.2)">**Key Point:** The HBV polymerase acts as a **reverse transcriptase**, using the pgRNA template to synthesize the new **rcDNA** genome.</span>
+    - HBV polymerase has <span style="background:rgba(240, 200, 0, 0.2)">both RNA- and DNA-dependent DNA polymerase activity</span>
 5. **Release:** New virions acquire an envelope with HBsAg and are secreted from the cell.
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/MSK/Gout/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/MSK/Gout/","tags":["t2"]}
 ---
 
 # Epidemiology

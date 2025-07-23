@@ -50,3 +50,12 @@
 	- Due to progesterone and <span style="background:rgba(240, 200, 0, 0.2)">relaxin</span>
 		- Relaxin: a <span style="background:rgba(240, 200, 0, 0.2)">vasodilating hormone</span> secreted by the corpus luteum, and later, by the placental and decidual membranes. Increases endothelial nitric oxide secretion, which causes vasodilation and decreases vascular resistance and mean arterial pressure, which increases the glomerular filtration rate during pregnancy.
 - Fluid retention in tissue → carpal tunnel syndrome
+
+---
+# Placenta
+## Microscopic Anatomy (Chorionic Villi)
+*   **Functional Unit**: The **chorionic villus** is the core functional unit for exchange.
+*   **Villus Structure**: The bulk of the villus consists of a mesenchymal connective tissue core containing fetal capillaries, venules, and macrophages (**Hofbauer cells**).
+*   **Trophoblast Layers**: The villi are covered by two layers of trophoblast cells, especially in early pregnancy:
+    1.  **Syncytiotrophoblast (Outer Layer)**: A multinucleated, continuous cell layer that covers the villi surface. It is in direct contact with maternal blood in the intervillous space. <span style="background:rgba(240, 200, 0, 0.2)">It is responsible for hormone production (e.g., **hCG**, estrogen, progesterone) and nutrient/gas exchange.</span>
+    2.  **Cytotrophoblast (Inner Layer / Langhans' Layer)**: A single layer of mitotically active, mononuclear cells located beneath the syncytiotrophoblast. <span style="background:rgba(240, 200, 0, 0.2)">They are the stem cells for the syncytiotrophoblast.</span> This layer becomes discontinuous and less prominent in late pregnancy.

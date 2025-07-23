@@ -55,7 +55,7 @@
 # Diagnostics
 - Serum pancreatic enzyme levels: Lipase (specific) and amylase (nonspecific) are often normal.
 - <span style="background:rgba(240, 200, 0, 0.2)">Fecal elastase-1 (FE-1): most common test</span> 
-	- Elastase is derived from a zymogen produced by pancreatic acinar cells and activated by [[USMLE/GI/Trypsin\|trypsin]] in the duodenum; levels correlate with pancreatic exocrine activity.  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">low fecal elastase can help diagnose pancreatic insufficiency</span> and supports a diagnosis of chronic pancreatitis. 
+	- Elastase is derived from a zymogen produced by pancreatic acinar cells and activated by [[trypsin\|trypsin]] in the duodenum; levels correlate with pancreatic exocrine activity.  Therefore, <span style="background:rgba(240, 200, 0, 0.2)">low fecal elastase can help diagnose pancreatic insufficiency</span> and supports a diagnosis of chronic pancreatitis. 
 - Sudan staining (which identifies fecal fat) 
 
 ---

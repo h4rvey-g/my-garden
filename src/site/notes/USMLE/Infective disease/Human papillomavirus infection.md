@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/USMLE/Infective disease/Human papillomavirus infection/","tags":["t1"]}
+{"dg-publish":true,"permalink":"/USMLE/Infective disease/Human papillomavirus infection/","tags":["t2"]}
 ---
 
 # Types
@@ -45,6 +45,7 @@
 ## Common warts (verruca vulgaris)
 - Pathogen: particularly low-risk HPV types 2 and 4
 - Clinical features
+	- **Location:** Most common on sites of trauma like fingers, hands, elbows, and knees.
 	- Lesions are plaques or papules 
 		- <span style="background:rgba(240, 200, 0, 0.2)">Skin-colored or whitish</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Usually firm, often with a rough and scaly surface</span>![L64111.png](/img/user/appendix/L64111.png)![Pasted image 20250114101624.png](/img/user/appendix/Pasted%20image%2020250114101624.png)![Pasted image 20250114101939.png](/img/user/appendix/Pasted%20image%2020250114101939.png)

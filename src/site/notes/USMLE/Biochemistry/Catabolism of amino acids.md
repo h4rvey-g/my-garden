@@ -84,8 +84,8 @@
     *   **Pepsin:** Breaks proteins into smaller polypeptides.
 3.  **Small Intestine (Lumen - major digestion):**
     *   [[USMLE/Endocrine/Pancreas\|Pancreas]] releases inactive enzymes (trypsinogen, chymotrypsinogen, etc.).
-    *   **Enteropeptidase** (from intestinal cells) activates trypsinogen to **[[USMLE/GI/Trypsin\|trypsin]]**.
-    *   **[[USMLE/GI/Trypsin\|Trypsin]]** then activates other pancreatic enzymes (chymotrypsin, carboxypeptidase).
+    *   **Enteropeptidase** (from intestinal cells) activates trypsinogen to **[[trypsin\|trypsin]]**.
+    *   **[[Trypsin\|Trypsin]]** then activates other pancreatic enzymes (chymotrypsin, carboxypeptidase).
     *   These enzymes <span style="background:rgba(240, 200, 0, 0.2)">break polypeptides into smaller peptides (tripeptides, dipeptides)</span> and some free amino acids.
 4.  **Small Intestine (Brush Border & Inside Mucosal Cells - final breakdown & absorption):**
     *   **Brush border enzymes** (aminopeptidases, dipeptidases, tripeptidases) on intestinal cells <span style="background:rgba(240, 200, 0, 0.2)">break small peptides into mostly free amino acids</span>, plus some di- and tripeptides.

@@ -72,12 +72,14 @@
 ---
 # Treatment
 ## [[USMLE/Infective disease/Antiviral therapy\|Antiviral therapy]]
-- <span style="background:rgba(240, 200, 0, 0.2)">Direct-acting antivirals (DAAs)</span>
-	- DAAs target specific enzymes in the HCV life cycle to <span style="background:rgba(240, 200, 0, 0.2)">inhibit viral replication and assembly</span>
-	- Example regimens
-		- Glecaprevir PLUS pibrentasvir (all 6 genotypes)
-		- Sofosbuvir PLUS velpatasvir (all 6 genotypes)
-		- Ledipasvir PLUS sofosbuvir (genotypes 1, 4, 5, and 6)
+- <span style="background:rgba(240, 200, 0, 0.2)">Direct-acting antivirals (DAAs)</span>: target specific enzymes in the HCV life cycle to <span style="background:rgba(240, 200, 0, 0.2)">inhibit viral replication and assembly</span>
+	*   **Classes:**
+		*   NS3/4A Protease inhibitors (**-previr**)
+		*   NS5A inhibitors (**-asvir**)
+		*   NS5B RNA Polymerase inhibitors (**-buvir**)
+	*   Regimens typically combine 2-3 DAAs (e.g., Sofosbuvir-Velpatasvir).
+*   **Screening before Tx:** Test for HBV coinfection, as DAA therapy can cause HBV reactivation.
+
 - [[USMLE/Biochemistry/Interferons and Tumor necrosis factor\|Interferon]] PLUS ribavirin
 	- Was the preferred treatment before the development of DAAs
 	- <span style="background:rgba(240, 200, 0, 0.2)">Associated with severe adverse effects</span> (e.g., arthralgias, thrombocytopenia, leukopenia, depression, anemia) and teratogenicity
@@ -92,5 +94,7 @@
 
 >[!tip] 
 >DAAs have superior efficacy and safety profiles compared with [[USMLE/Biochemistry/Interferons and Tumor necrosis factor\|interferon]] or ribavirin-based regimens and are thus preferred.
+
+- <span style="background:rgba(240, 200, 0, 0.2)">**Vaccine:** No vaccine is available due to high antigenic variation.</span>
 
 ---

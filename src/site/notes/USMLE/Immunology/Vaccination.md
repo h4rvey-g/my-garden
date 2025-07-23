@@ -40,12 +40,27 @@
         - **[[USMLE/Infective disease/Human papillomavirus infection\|Human Papillomavirus]] ([[USMLE/Infective disease/Human papillomavirus infection\|HPV]])**.
         - Acellular [[USMLE/Infective disease/Pertussis\|Pertussis]] (in DTaP/Tdap).
         - [[USMLE/Infective disease/Shingles\|Shingles]] (recombinant zoster vaccine).
-    - **Polysaccharide**: Contain the polysaccharide capsule of [[USMLE/Blood/Asplenia\|encapsulated bacteria]]. Elicits a T-cell-independent immune response, which is weak in infants/young children.
+    - **Polysaccharide**: Contain the polysaccharide <span style="background:rgba(240, 200, 0, 0.2)">capsule</span> of [[USMLE/Blood/Asplenia\|encapsulated bacteria]]. Elicits a T-cell-independent immune response, which is weak in infants/young children.
         - <span style="background:rgba(240, 200, 0, 0.2)">Pneumococcal polysaccharide vaccine (PPSV23, Pneumovax).</span>
     - **Conjugate**: A polysaccharide antigen is chemically linked (conjugated) to a carrier protein. This process converts the immune response to T-cell-dependent, inducing a stronger and more robust response, especially in infants.
         - **_[[USMLE/Infective disease/Haemophilus influenzae\|Haemophilus influenzae]]_ type b (Hib)**.
         - **Pneumococcal conjugate vaccine (PCV13, Prevnar)**.
         - **Meningococcal vaccine**.
+
+>[!tip] 
+>Why Other Components Are Less Ideal for Vaccines
+> - **LPS/LOS (Endotoxin):**
+>     
+>     - **Problem:** The Lipid A component is **highly toxic** and would cause systemic inflammation, fever, and shock if injected as a vaccine. It's too dangerous.
+> - **Peptidoglycan:**
+>     
+>     - **Problem:** It is **buried underneath other layers** (outer membrane in Gram-negatives, thick protein/polysaccharide layers in Gram-positives). Antibodies would not be able to reach it effectively on an intact bacterium. It's also structurally similar across many bacteria, so it's less specific.
+> - **Pili / Fimbriae:**
+>     
+>     - **Problem:** Many bacteria exhibit **antigenic variation** with their pili—they can rapidly change the pilin proteins to evade the immune system. A vaccine against one type of pilus would quickly become useless. (_N. gonorrhoeae_ is a classic example).
+> - **Flagella:**
+>     
+>     - **Problem:** Also subject to **antigenic variation** (phase variation). Not all pathogenic bacteria rely on motility as their primary virulence mechanism.
 
 # 4. Toxoid Vaccines
 - **Mechanism**: Contain an inactivated bacterial toxin (toxoid). The immune system develops antibodies against the toxin, not the organism itself.

@@ -64,9 +64,10 @@ High-resolution computed tomography (HRCT) chest: confirmatory test
 
 ---
 # Treatment
-## General measures
-- Smoking cessation
-- Bronchopulmonary hygiene and chest physiotherapy: e.g., cupping and clapping, postural drainage, directed cough, hydration
-- Administer vaccinations (i.e., seasonal [[USMLE/Infective disease/Influenza\|influenza]] vaccine, pneumococcal vaccine).
+- **Airway Clearance**: **Chest physiotherapy**, postural drainage, positive expiratory pressure (PEP) devices.
+- **Antibiotics for Exacerbations**: Guided by sputum cultures; often requires prolonged courses (10-14 days). Common empiric choices include amoxicillin-clavulanate or a fluoroquinolone.
+- **Chronic Suppressive Antibiotics**: For patients with ≥3 exacerbations/year (e.g., macrolides like azithromycin).
+- **Bronchodilators**: Inhaled beta-agonists for patients with airway hyperreactivity.
+- **Surgery (Lobectomy)**: For localized, severe bronchiectasis or massive hemoptysis.
 
 ---

@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/USMLE/REVIEW/Lymph node drainage/"}
 ---
 
+| Drains To...                  | Structures Included                                                     | Simple Rule                                  |
+| ----------------------------- | ----------------------------------------------------------------------- | -------------------------------------------- |
+| **Superficial Inguinal**      | Leg, Buttocks, Perineum, Scrotum/Vulva, Anal Canal (below dentate line) | **"The Outsides"** (Skin & External Parts)   |
+| **Iliac (Internal/External)** | Bladder, Uterus, Prostate, Vagina, Rectum (above dentate line)          | **"The Insides"** (Deep Pelvic Organs)       |
+| **Para-aortic (Lumbar)**      | **Testes, Ovaries,** Kidneys, Uterus (fundus)                           | **"The High Yield Exceptions"** (Embryology) |
 # General Principles
 
 - **Right vs. Left Drainage:** The **right lymphatic duct** drains the right side of the head, neck, right arm, and right thorax. The **thoracic duct** drains everything else (~75% of the body) and empties into the junction of the left subclavian and left internal jugular veins.![Pasted image 20250620171651.png](/img/user/appendix/Pasted%20image%2020250620171651.png)![Pasted image 20250622203637.png](/img/user/appendix/Pasted%20image%2020250622203637.png)

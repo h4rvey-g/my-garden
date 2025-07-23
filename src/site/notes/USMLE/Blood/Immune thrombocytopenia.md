@@ -3,22 +3,6 @@
 ---
 
 
-| Feature                               | Immune Thrombocytopenia (ITP)                  | Thrombotic Thrombocytopenic Purpura (TTP)                               |
-| ------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------- |
-| **Pathophysiology**                   | Autoantibody-mediated destruction of platelets | Deficiency of ADAMTS13 enzyme leading to excessive platelet aggregation |
-| **Platelet Count**                    | Usually moderately low (20,000-70,000/μL)      | Severely low (<20,000/μL)                                               |
-| **Coagulation Tests**                 | Normal PT, PTT                                 | Normal PT, PTT                                                          |
-| **Organ Involvement**                 | Limited systemic involvement                   | Widespread (brain, kidneys, heart)                                      |
-| **Neurological Symptoms**             | Rare                                           | Common (confusion, headache, seizures, stroke)                          |
-| **Renal Involvement**                 | Rare                                           | Common (acute kidney injury)                                            |
-| **Microangiopathic Hemolytic Anemia** | Absent                                         | Present (schistocytes on blood smear)                                   |
-| **Fever**                             | Uncommon                                       | Common                                                                  |
-| **Primary Treatment**                 | Corticosteroids, IVIG, anti-D                  | Plasma exchange, rituximab                                              |
-| **Mortality without Treatment**       | Low                                            | High (>90%)                                                             |
-| **Age Distribution**                  | Bimodal (young adults and elderly)             | Adults (more common in women)                                           |
-| **Associated Conditions**             | Autoimmune disorders                           | Pregnancy, medications, infections, cancers                             |
-
-![Pasted image 20230623160626.png](/img/user/appendix/Pasted%20image%2020230623160626.png)
 # Etiology
 - Primary ITP: idiopathic (most common) 
 - Secondary ITP associated with:
@@ -34,3 +18,14 @@ Antiplatelet antibodies (mostly IgG directed against, e.g., GpIIb/IIIa, GpIb/IX)
 - Mostly asymptomatic.<span style="background:rgba(240, 200, 0, 0.2)"> [[USMLE/Blood/Splenomegaly\|Splenomegaly]] is very unusual in ITP and makes other diagnoses more likely! </span>
 	- Although platelets can undergo splenic sequestration in ITP, <span style="background:rgba(240, 200, 0, 0.2)">the primary mechanism responsible for the thrombocytopenia is immune destruction.</span>
 
+---
+# Differential diagnostics
+
+| Feature          | **Thrombotic Thrombocytopenic Purpura (TTP)**                                                                                                                          | **Immune Thrombocytopenia (ITP)**                                                                                                               |
+| :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Patho**        | ↓ ADAMTS13 activity → Large vWF multimers → microvascular platelet thrombi                                                                                             | Anti-platelet (anti-GpIIb/IIIa) Abs → splenic destruction of platelets                                                                          |
+| **Presentation** | **Pentad (FAT RN):** **F**ever, **A**nemia (MAHA), **T**hrombocytopenia, **R**enal failure, **N**eurologic sx (e.g., confusion, stroke). Often acutely ill.            | Isolated mucocutaneous bleeding (petechiae, purpura, epistaxis). Often asymptomatic. No splenomegaly.                                           |
+| **Labs**         | **MAHA** triad: **Anemia**, **Thrombocytopenia**, **Schistocytes** on smear. ↑LDH, ↑Bilirubin, ↓Haptoglobin. **Normal PT/PTT**. Dx confirmed by ADAMTS13 assay (<10%). | **Isolated thrombocytopenia** (<100,000/µL). Smear may show megathrombocytes. Otherwise normal CBC & smear. **Normal PT/PTT**. Dx of exclusion. |
+| **Tx**           | **EMERGENT**. **Plasma exchange (PEX)** is first-line & life-saving. Corticosteroids, Rituximab. **Platelet transfusion is CONTRAINDICATED** (fuels thrombosis).       | **1st line:** Corticosteroids, IVIG. **2nd line:** Splenectomy, Rituximab, TPO-RAs (e.g., romiplostim). Observe if plt >30k & no bleeding.      |
+
+![Pasted image 20230623160626.png](/img/user/appendix/Pasted%20image%2020230623160626.png)

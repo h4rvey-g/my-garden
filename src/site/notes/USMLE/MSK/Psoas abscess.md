@@ -14,10 +14,10 @@
 	- Caused by contiguous spread of a pathogen from an <span style="background:rgba(240, 200, 0, 0.2)">adjacent infectious focus</span>
 	- Primary focus may be:  
 		- Gastrointestinal: e.g., IBD (especially [[USMLE/GI/Crohn disease\|Crohn disease]]), colitis, appendicitis, diverticulitis, pancreatitis
-		- Musculoskeletal: e.g., osteomyelitis (esp. of the vertebrae), Pott disease, paraspinal abscess, septic arthritis (commonly of the hip in children), prosthetic joint infection
+		- Musculoskeletal: e.g., [[USMLE/MSK/Osteomyelitis\|osteomyelitis]] (esp. of the vertebrae), Pott disease, paraspinal abscess, [[USMLE/MSK/Septic arthritis\|septic arthritis]] (commonly of the hip in children), prosthetic joint infection
 		- Genitourinary: e.g., [[USMLE/Renal/Pyelonephritis\|pyelonephritis]], cystitis
 - Risk factors for psoas abscess 
-	- Immunodeficiency (e.g., diabetes mellitus, HIV)
+	- [[USMLE/Immunology/Congenital immunodeficiency disorders\|Immunodeficiency]] (e.g., [[USMLE/Endocrine/Diabetes mellitus\|diabetes mellitus]], [[USMLE/Infective disease/Human immunodeficiency virus\|HIV]])
 - Causative pathogens
 	- [[USMLE/Infective disease/Staphylococcus aureus\|Staphylococcus aureus]]: Most common causative pathogen
 

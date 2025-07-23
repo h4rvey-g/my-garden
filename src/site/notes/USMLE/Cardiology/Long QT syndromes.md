@@ -17,6 +17,9 @@ The most common form of congenital LQTS (LQTS type 1) is caused by a <span st
 	- Class Ia [[USMLE/Pharmacology/Antiarrhythmic drugs\|antiarrhythmics]] (eg, quinidine)
 	- Class III [[USMLE/Pharmacology/Antiarrhythmic drugs\|antiarrhythmics]] (eg, dofetilide, sotalol)
 - <span style="background:rgba(240, 200, 0, 0.2)">Electrolyte imbalances: [[USMLE/Cardiology/Hypokalemia\|hypokalemia]], [[USMLE/Renal/Hypomagnesemia\|hypomagnesemia]], [[USMLE/Endocrine/Hypocalcemia\|hypocalcemia]]</span>
+	- Hypokalemia: Inhibits the **IKr** (rapid delayed rectifier K+) current. Slows **Phase 3 (repolarization)** by reducing K+ efflux.
+	- Hypomagnesemia: Directly inhibits K+ channels (like **IKr**) and promotes renal K+ wasting, often causing concurrent hypokalemia. Slows **Phase 3 (repolarization)**.
+	- Hypocalcemia: Delays inactivation of L-type Ca2+ channels. Prolongs **Phase 2 (plateau)** of the action potential.
 - Endocrine disorders: [[USMLE/Biochemistry/Hypothyroidism\|hypothyroidism]]
 # Complications
 - Ventricular tachycardia ([[USMLE/Cardiology/Torsades de pointes\|torsades de pointes]])

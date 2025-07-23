@@ -20,8 +20,9 @@
 
 ---
 # Pathophysiology
-- Preeclampsia is most likely caused by narrowed uteroplacental spiral artery formation and abnormal placentation, which lead to <span style="background:rgba(240, 200, 0, 0.2)">placental hypoperfusion and ischemia. </span> These changes trigger the <span style="background:rgba(240, 200, 0, 0.2)">release of antiangiogenic factors that cause widespread maternal vasoconstriction (eg, hypertension), endothelial cell damage (eg, third spacing with edema and weight gain), and end-organ damage (eg, headache).</span>
-- This results in peripheral edema and <span style="background:rgba(240, 200, 0, 0.2)">relative intravascular volume depletion</span>.
+- Abnormal placental development, specifically inadequate remodeling of spiral arteries, leads to <span style="background:rgba(240, 200, 0, 0.2)">placental ischemia</span>.
+- This ischemia triggers the <span style="background:rgba(240, 200, 0, 0.2)">release of anti-angiogenic factors (like sFlt-1) and inflammatory cytokines, causing widespread maternal endothelial dysfunction.</span>
+- The result is <span style="background:rgba(240, 200, 0, 0.2)">systemic vasoconstriction (causing hypertension), increased vascular permeability (leading to proteinuria and edema), and a pro-coagulant state.</span>
 - Kidney
 	- Third spacing (ie, intravascular volume depletion) and vasoconstriction of the renal vessels result in <span style="background:rgba(240, 200, 0, 0.2)">decreased urine production (ie, oliguria) and concentrated urine (ie, increased specific gravity) because the kidneys attempt to retain sodium and water.</span>
 	- Damage to the renal endothelium increases glomerular permeability and allows for leakage of large molecules, as evidenced by proteinuria, which is classic for preeclampsia.
@@ -39,6 +40,17 @@ In the kidneys, vasospasm causes decreased renal blood flow and glomerular filtr
 - Urine protein:creatinine ratio: ≥ 0.3 
 - Urine dipstick: > 2+ protein
 - Increased serum creatinine level: Healthy pregnant patients have decreased baseline serum creatinine levels due to blood volume expansion and increased GFR; therefore, <span style="background:rgba(240, 200, 0, 0.2)">a normal-appearing creatinine level (0.7-0.9 mg/dL) during pregnancy typically indicates renal compromise.</span> See [[USMLE/Reproductive/Pregnancy#Renal system\|Pregnancy#Renal system]].
+
+---
+# Differential diagnostics
+| Feature              | Chronic HTN                                            | Gestational HTN                                           | Preeclampsia                                                                                            | Eclampsia                                                            |
+| :------------------- | :----------------------------------------------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- |
+| **Onset**            | **< 20 wks**                                           | ≥ 20 wks                                                  | ≥ 20 wks                                                                                                | ≥ 20 wks                                                             |
+| **Defining Feature** | HTN that predates pregnancy or starts before 20 weeks. | New HTN **w/o** proteinuria or signs of end-organ damage. | New HTN **w/** proteinuria **OR** signs of end-organ damage (↑Cr, ↑LFTs, low platelets, HA, visual sx). | Preeclampsia **+ new-onset tonic-clonic seizures**.                  |
+| **Management**       | Monitor; Tx if severe (Labetalol, Nifedipine).         | Monitor for progression to preeclampsia.                  | **Delivery** is the cure. **MgSO4** for seizure prophylaxis in severe cases.                            | **1. MgSO4** (to control seizures)<br>**2. Delivery** (once stable). |
+| **Key Complication** | Superimposed preeclampsia.                             | Progression to preeclampsia.                              | **HELLP syndrome**, eclampsia, placental abruption.                                                     | Stroke, status epilepticus, maternal death.                          |
+| **Postpartum**       | HTN persists.                                          | HTN resolves.                                             | HTN resolves.                                                                                           | HTN resolves.                                                        |
+
 
 ---
 # Treatment

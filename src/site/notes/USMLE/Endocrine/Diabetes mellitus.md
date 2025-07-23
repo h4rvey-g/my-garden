@@ -33,7 +33,7 @@
 	- Different forms of [[USMLE/Biochemistry/Autosomal dominant diseases\|autosomal dominant]] inherited diabetes mellitus that <span style="background:rgba(240, 200, 0, 0.2)">manifest before the age of 25 years and are not associated with [[USMLE/Endocrine/Obesity and metabolic syndrome\|obesity]] or autoantibodies</span>
 	- Multiple monogenic subtypes (most common: MODY II due to glucokinase gene defect, and MODY III, due to hepatocyte nuclear factor-1-α gene defect)
 	- MODY II
-		- A single mutation leads to <span style="background:rgba(240, 200, 0, 0.2)">impaired insulin secretion due to altered glucokinase function.</span>
+		- A single mutation leads to <span style="background:rgba(240, 200, 0, 0.2)">impaired [[USMLE/Endocrine/Insulin\|insulin]] secretion due to altered glucokinase function.</span>
 		- <span style="background:rgba(240, 200, 0, 0.2)">Glucokinase is the glucose sensor of the β cell, facilitating storage of glucose in the liver, especially at high concentrations.</span>![Pasted image 20250517110011.png](/img/user/appendix/Pasted%20image%2020250517110011.png)
 		- There is no increased risk of microvascular disease.
 		- Despite stable hyperglycemia and chronically elevated HbA1C levels, MODY II can be managed with diet alone.
@@ -63,7 +63,7 @@
 		- Numerous genetic and environmental factors
 			- Central [[USMLE/Endocrine/Obesity and metabolic syndrome\|obesity]] → <span style="background:rgba(240, 200, 0, 0.2)">increased plasma levels of free fatty acids → impaired insulin-dependent glucose uptake</span> into hepatocytes, myocytes, and adipocytes 
 			- Increased serine kinase activity in fat and skeletal muscle cells → phosphorylation of insulin receptor substrate (IRS)-1 → decreased affinity of IRS-1 for PI3K → <span style="background:rgba(240, 200, 0, 0.2)">decreased expression of GLUT4 channels → decreased cellular glucose uptake</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic β cell dysfunction: accumulation of pro-amylin (islet amyloid polypeptide) in the pancreas  → decreased endogenous insulin production</span>
+	- <span style="background:rgba(240, 200, 0, 0.2)">Pancreatic β cell dysfunction: accumulation of pro-amylin (islet amyloid polypeptide) in the [[USMLE/Endocrine/Pancreas\|pancreas]]  → decreased endogenous insulin production</span>
 - Progression
 	- Initially, insulin resistance is compensated by increased insulin and amylin secretion. 
 	- Over the course of the disease, insulin resistance progresses, while insulin secretion capacity declines.

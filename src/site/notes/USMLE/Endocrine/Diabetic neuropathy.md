@@ -11,7 +11,10 @@
 
 ---
 # Pathophysiology
-- Caused by <span style="background:rgba(240, 200, 0, 0.2)">nerve ischemia</span> and metabolic damage (e.g. oxidative stress, inflammation)![Pasted image 20240827091953.png](/img/user/appendix/Pasted%20image%2020240827091953.png)
+- **Hyperglycemia** is the primary driver, leading to:
+	- **Advanced glycation end-products (AGEs):** Damage nerve proteins and structures.
+	- **Polyol pathway activation:** Glucose is converted to sorbitol and fructose by aldose reductase, leading to osmotic stress and oxidative damage.
+	- **Microvascular damage:** Ischemia of nerves due to damage to small blood vessels (vasa nervorum) that supply them.![Pasted image 20240827091953.png](/img/user/appendix/Pasted%20image%2020240827091953.png)
 - Symptoms vary depending on the type of nerve fibers involved:
 	- Small-fiber injury is characterized by predominance of positive symptoms (eg, pain, paresthesias, allodynia).
 	- <span style="background:rgba(240, 200, 0, 0.2)">Large-fiber involvement is characterized by predominance of negative symptoms (eg, numbness, loss of proprioception and vibration sense, [[USMLE/Neurology/Gait\|sensory ataxia]] (eg, positive [[USMLE/Neurology/Romberg test\|Romberg]] sign), diminished ankle reflexes).</span>

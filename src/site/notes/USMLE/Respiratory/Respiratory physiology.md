@@ -66,24 +66,36 @@
 ---
 ![Pasted image 20241106101000.png](/img/user/appendix/Pasted%20image%2020241106101000.png)
 <span style="background:rgba(240, 200, 0, 0.2)">The overall trend in the respiratory tract is for the epithelium to become progressively thinner as it approaches the alveoli (where it's extremely thin simple squamous epithelium) to facilitate gas diffusion.</span>
-1. Bronchi: all
-2. Bronchioles
-	- No cartilage
-	- Pseudostratified epithelium → Simple epithelium
-		- &ndash; Globlet cells and basal cells
-			- Globlet cells produce thick mucus, which could cause obstruction in thinner bronchioles. So it's not needed.
-		- &#43; Club cells
-			- <span style="background:rgba(240, 200, 0, 0.2)">Club cells secrete lipoproteins (components of pulmonary surfactant) that reduce surface tension within the small airways.</span> This is crucial to prevent the narrow bronchioles from collapsing, especially during exhalation. Larger airways are held open by cartilage and don't face the same collapse risk.
-			- Maintain the integrity of the respiratory epithelium by <span style="background:rgba(240, 200, 0, 0.2)">secreting specialized immunomodulatory proteins, glycoproteins, and lipids.</span>
-			- [[USMLE/Pharmacology/Cytochrome P450\|Cytochrome P450]]-dependent degradation of toxins
-			- Act as a reserve for ciliated cells to restore bronchiolar epithelium (stem cell properties) 
-			- Nonciliated, secretory, cuboidal cells located in the terminal and the respiratory bronchioles of the lung
-3. Terminal bronchioles
-	- Columnar ciliated cells → Cuboidal ciliated cells
-4. Respiratory bronchioles
-	- &#43; Squamous cells
-5. Alveolar sacs
-	- All gone
+
+## I. Conducting Zone (Anatomic Dead Space)
+
+- **Function:** Warms, humidifies, and filters air. No gas exchange.
+    
+- **Epithelium Trend:** **Pseudostratified ciliated columnar** → simple columnar → simple cuboidal.
+    
+- **Structural Trend:** Cartilage & goblet cells decrease; smooth muscle becomes more prominent.
+    
+- **Trachea & Bronchi:**
+    
+    - **Epi:** Pseudostratified ciliated columnar with **goblet cells** (mucus).
+    - **Structure:** Supported by **cartilage** (C-rings in trachea, plates in bronchi) and contain submucosal glands. **Mucociliary escalator** clears debris.
+- **Bronchioles:**
+    
+    - **Epi:** Simple columnar to cuboidal. **Goblet cells are replaced by Club (Clara) cells**.
+    - **Club (Clara) Cells:** Secrete surfactant components & act as progenitor cells.
+    - **Structure:** **No cartilage, no glands**. Prominent smooth muscle layer (pathology in asthma).
+- **Terminal Bronchioles:** Smallest airways of the conducting zone.
+## II. Respiratory Zone (Gas Exchange)
+
+- **Respiratory Bronchioles:**
+    
+    - Cuboidal epithelium with Club cells.
+    - **First site of gas exchange**; walls have scattered alveoli.
+- **Alveoli:**
+    
+    - **Type I Pneumocytes:** (95% surface area) Thin, squamous cells forming the barrier for **gas exchange**.
+    - **Type II Pneumocytes:** (5% surface area) Cuboidal cells that **produce surfactant** (dipalmitoylphosphatidylcholine) to prevent alveolar collapse and act as **stem cells** for both Type I & II cells.
+    - **Alveolar Macrophages (Dust Cells):** Phagocytose debris. (Become "hemosiderin-laden macrophages" in HF or pulmonary hemorrhage).
 
 ## Pneumocytes
 - Type I pneumocytes: thin squamous cells that line the alveoli that allow for transcellular gas exchange

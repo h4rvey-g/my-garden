@@ -13,6 +13,7 @@
 - Thyroid cysts (e.g., thyroglossal cyst)
 - Thyroid adenomas
 - Thyroid carcinomas
+- <span style="background:rgba(240, 200, 0, 0.2)">Physiological goiter</span>: In **puberty & pregnancy,** hormones like **hCG** (during pregnancy) and potentially FSH/LH (during puberty) have a weak TSH-like effect, stimulating thyroid growth.
 
 ---
 # Classifications

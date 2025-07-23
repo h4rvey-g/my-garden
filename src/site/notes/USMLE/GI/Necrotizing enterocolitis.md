@@ -10,9 +10,10 @@ NEC is the most common cause of acute abdomen in <span style="background:rgba(24
 
 # Etiology
 ---
-- Defective or underdeveloped immune system
-- <span style="background:rgba(240, 200, 0, 0.2)">Formula feeding</span>
-	- <span style="background:rgba(240, 200, 0, 0.2)">Upon initiation of enteral feeding, bacteria are introduced into the bowel</span> where they proliferate excessively due to compromised immune clearance.
+- Necrosis of intestinal mucosa, potentially transmural, leading to perforation.
+- Multifactorial: <span style="background:rgba(240, 200, 0, 0.2)">key risk factors are **prematurity**, **formula feeding**, and intestinal ischemia.</span>
+- Pathogenesis involves <span style="background:rgba(240, 200, 0, 0.2)">an exaggerated inflammatory response to bacterial colonization in an immature gut.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Most commonly affects the terminal ileum and proximal colon.</span>
 
 # Pathophysiology
 ---

@@ -79,7 +79,7 @@ Newborn screening (NBS) for CF is essential for early detection and treatment, w
 - Sample collection: newborn blood spot test, performed via heel prick blood sampling in the first 24 and 48 hours of life
 - Screening tests
 	- <span style="background:rgba(240, 200, 0, 0.2)">Immunoreactive trypsinogen (IRT</span>) : initial screening test
-		- <span style="background:rgba(240, 200, 0, 0.2)">IRT levels are thought to become elevated due to mucus plugs</span>, which cause pancreatic duct obstruction, preventing the conversion of trypsinogen to [[USMLE/GI/Trypsin\|trypsin]]. This can occur in neonates with or without pancreatic insufficiency.
+		- <span style="background:rgba(240, 200, 0, 0.2)">IRT levels are thought to become elevated due to mucus plugs</span>, which cause pancreatic duct obstruction, preventing the conversion of trypsinogen to [[trypsin\|trypsin]]. This can occur in neonates with or without pancreatic insufficiency.
 		- An [[USMLE/Renal/Immunofluorescence\|immunofluorescence]] assay that measures levels of IRT
 		- Normal IRT levels: CF unlikely
 		- Elevated IRT levels: CF possible; additional screening tests required

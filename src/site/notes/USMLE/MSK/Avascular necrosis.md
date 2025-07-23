@@ -25,7 +25,7 @@ Though often idiopathic, several traumatic and atraumatic factors may contribute
 
 ---
 # Pathophysiology
-
+**Ischemic death of bone and marrow** in the femoral head due to disruption of the blood supply, <span style="background:rgba(240, 200, 0, 0.2)">primarily from the **medial circumflex femoral artery**.</span>
 
 ---
 # Clinical features
